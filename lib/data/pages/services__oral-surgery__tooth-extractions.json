@@ -1,0 +1,1772 @@
+{
+ "slug": "services__oral-surgery__tooth-extractions",
+ "path": "/services/oral-surgery/tooth-extractions/",
+ "seo": {
+  "title": "Tooth Extractions in Santa Clarita | Valencia Smile Expert",
+  "description": "Explore Valencia Smile Expert's top-rated Tooth Extractions in Santa Clarita—modern care, advanced technology, and 1-on-1 personalized treatment. Book today.",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1050 page-child parent-pageid-1015 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1050 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1050",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1050",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "52b74426",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6e21799b",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "23b99ff3",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "ad4ceb4",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Expert Tooth Extraction in Valencia"
+         },
+         {
+          "_key": "2e4bc9c7",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Gentle, Modern Dental Care for Safe and Comfortable Tooth Removal</p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "b8afc11",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5a36b7da",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "60c08be9",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "5ee8225a",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "4b2dee4e",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Regain Comfort with Gentle Tooth Extraction in Valencia"
+       },
+       {
+        "_key": "71237825",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Tooth pain doesn’t have to disrupt your life. At Valencia Smile Expert, we offer expert tooth extraction in Valencia designed to relieve discomfort, stop infections, and support long-term oral health—all in a calm, welcoming environment. Whether you’re dealing with a severely decayed tooth, impacted wisdom teeth, or overcrowding, Dr. Moezzi and our caring team use advanced techniques and sedation options to make the process as smooth and stress-free as possible. From same-day appointments to clear recovery instructions, we’re here to support you every step of the way.</span></p>"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "507562d9",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "84329ac",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/valencia-photo-4.png",
+         "width": 647,
+         "height": 575,
+         "cls": "attachment-full size-full wp-image-1019",
+         "alt": "",
+         "sizes": "(max-width: 647px) 100vw, 647px"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "4f844dc8",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "45ab777d",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "629d2c67",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Types of <span style=\"color: #366797\">Tooth Extractions</span> Offered at Valencia Smile Expert"
+       },
+       {
+        "_key": "61b79c72",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Not all tooth extractions are the same. At Valencia Smile Expert, we perform two main types of extractions depending on the condition and location of the tooth:</span></p>"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "66298736",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "531fb75d",
+        "cls": "elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Simple Extractions",
+        "descTag": "p",
+        "desc": "Used when a tooth is fully visible in the mouth and can be removed without surgical intervention. These are typically performed on teeth that are loose or damaged beyond repair."
+       },
+       {
+        "_key": "64da825b",
+        "cls": "elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Surgical Extractions",
+        "descTag": "p",
+        "desc": "Required for teeth that are impacted, broken at the gumline, or not fully erupted—like many wisdom teeth. Surgical extractions involve making a small incision in the gum and may require sectioning the tooth for easier removal."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "1bec9120",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "3da89370",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "3913b705",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Who Might Need a <span style=\"color: #366797\">Tooth Extraction? </span>"
+       },
+       {
+        "_key": "42b59a12",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Tooth extractions are typically a last resort—but when a tooth poses a risk to your oral health or daily comfort, removal can provide lasting relief and prevent further complications. You may be a good candidate for a tooth extraction if you’re experiencing:</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "3859c345",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "501a2555",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Severe tooth decay</b> that cannot be repaired with a filling, crown, or root canal",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i1",
+            "text": "<b>Infection or abscess</b> that has spread to the pulp or surrounding bone",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i2",
+            "text": "<b>Impacted wisdom teeth</b> causing pain, swelling, or shifting of other teeth",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i3",
+            "text": "<b>Advanced periodontal disease</b> that has loosened the tooth’s foundation",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i4",
+            "text": "<b>Overcrowding</b> that interferes with orthodontic treatment or bite alignment",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i5",
+            "text": "<b>Cracked or fractured teeth</b> beyond restoration due to trauma or grinding",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "639f38e4",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2c0a5951",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "10dbe5a2",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "4ac7aaea",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Benefits of Tooth Extraction From Valencia Smile Expert"
+       },
+       {
+        "_key": "37975ee6",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">While the idea of losing a tooth can feel intimidating, removing a damaged or infected tooth can often be the best step toward protecting your overall health and comfort. At Valencia Smile Expert, our extractions are designed to bring relief—not stress.</span></p>"
+       },
+       {
+        "_key": "37a592c1",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "2fdf83b4",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "26b36f3c",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Relief from Persistent Pain",
+            "descTag": "p",
+            "desc": "Say goodbye to the aching, throbbing, or sharp pain caused by infection, decay, or pressure from impacted teeth."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4efde6ca",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "3e6b8562",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Elimination of Infection",
+            "descTag": "p",
+            "desc": "Removing a severely decayed or infected tooth helps stop the spread of harmful bacteria to other areas of your mouth or body."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "10304770",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "62ebc4a2",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Protection for Surrounding Teeth",
+            "descTag": "p",
+            "desc": "By removing a compromised tooth, you help prevent damage to neighboring teeth and gum tissue."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "48624b50",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "5e56a611",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Improved Oral Function",
+            "descTag": "p",
+            "desc": "In cases of overcrowding, extraction can improve bite alignment and make room for future treatments like braces or implants."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2d284f42",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "710f0144",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Support for Future Restorations",
+            "descTag": "p",
+            "desc": "A timely extraction sets the stage for long-term solutions like dental implants, bridges, or dentures."
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "4fde236f",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "54a747a",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "Our  <span style=\"color: #366797\">Tooth Extraction</span> Process: What to Expect"
+     },
+     {
+      "_key": "605c2f23",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">At </span><a href=\"/about/\" style=\"text-decoration: none;\"><span style=\"font-weight: 400;\">Valencia Smile Expert</span></a><span style=\"font-weight: 400;\">, we make the tooth extraction process as smooth and stress-free as possible. Whether it’s a simple or surgical procedure, Dr. Moezzi and our experienced team walk you through every step with compassion, transparency, and personalized care.</span></p>"
+     },
+     {
+      "_key": "f4a9fe2",
+      "cls": "elementor-hidden-mobile elementor-widget-image",
+      "_type": "image",
+      "img": {
+       "src": "/images/uploads/2025/07/line-background.svg",
+       "width": 928,
+       "height": 228,
+       "cls": "attachment-full size-full wp-image-1023",
+       "alt": ""
+      }
+     },
+     {
+      "_type": "box",
+      "_key": "64c59fcb",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "4ef8976a",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "32cec73c",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/1-image.png",
+           "width": 58,
+           "height": 134,
+           "cls": "attachment-full size-full wp-image-1024",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Consultation & Digital Imaging",
+          "desc": "We begin with a comprehensive exam and 3D imaging to assess the tooth and surrounding structures. Dr. Moezzi will discuss your symptoms, explain your options, and determine whether an extraction is the right solution for you."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "292795fc",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "140af948",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/2-image.png",
+           "width": 102,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1025",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Comfortable Tooth Removal",
+          "desc": "The extraction is performed right in our Valencia office using local anesthesia to fully numb the area. For anxious patients, we also offer sedation options. Whether the procedure is simple or surgical, Dr. Moezzi uses advanced techniques to minimize discomfort and ensure safe removal."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "557497c5",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "3a19df53",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/3-image.png",
+           "width": 104,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1026",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Guided Recovery & Follow-Up",
+          "desc": "After the extraction, we provide detailed aftercare instructions and schedule a follow-up to check your healing. Most patients recover quickly and experience significant relief within just a few days. If you plan to replace the tooth, we’ll walk you through your next steps for implants or restorations."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "8b2a47c",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "78cb0c42",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "How to Care for Your Mouth Before and After a  <span style=\"color: #366797\">Tooth Extraction</span>"
+     },
+     {
+      "_key": "5de1fc2e",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">Proper care before and after your extraction helps ensure a smooth procedure and quick, comfortable healing. At Valencia Smile Expert, we provide personalized guidance every step of the way so you can feel confident and cared for.</span></p>"
+     },
+     {
+      "_type": "box",
+      "_key": "133637a6",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "5a4b527d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "d243e68",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Before Your Extraction:"
+         },
+         {
+          "_type": "box",
+          "_key": "7513304d",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7acf4d62",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/implant-before-image.png",
+             "width": 599,
+             "height": 351,
+             "cls": "attachment-full size-full wp-image-1027",
+             "alt": "",
+             "sizes": "auto, (max-width: 599px) 100vw, 599px"
+            }
+           },
+           {
+            "_key": "3033d0d5",
+            "cls": "elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+            "_type": "iconList",
+            "items": [
+             {
+              "_key": "i0",
+              "text": "<b>Avoid smoking or alcohol</b> for at least 24 hours prior",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i1",
+              "text": "<b>Let us know about any medications</b> or health conditions",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i2",
+              "text": "<b>Eat a light meal</b> (unless sedation is planned)",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i3",
+              "text": "<b>Arrange transportation</b>  if you’ll be receiving sedation",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i4",
+              "text": "<b>Practice good oral hygiene</b> to reduce infection risk",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "434dafa9",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "3c805d3c",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "After Your Extraction:"
+         },
+         {
+          "_type": "box",
+          "_key": "13fc1e67",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "5784680",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/implant-after-image.png",
+             "width": 599,
+             "height": 351,
+             "cls": "attachment-full size-full wp-image-1028",
+             "alt": "",
+             "sizes": "auto, (max-width: 599px) 100vw, 599px"
+            }
+           },
+           {
+            "_key": "67b8f69c",
+            "cls": "elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+            "_type": "iconList",
+            "items": [
+             {
+              "_key": "i0",
+              "text": "<b>Rest for the first 24 hours</b> and avoid strenuous activity",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i1",
+              "text": "<b>Don’t use straws, smoke, or spit forcefully</b>, as this can dislodge the blood clot and cause dry socket",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i2",
+              "text": "<b>Stick to soft, cool foods</b> like yogurt, smoothies, scrambled eggs, or mashed potatoes",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i3",
+              "text": "<b>Use ice packs</b> and take any prescribed medications to manage swelling and discomfort",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i4",
+              "text": "<b>Rinse gently with saltwater</b> after the first 24 hours to keep the area clean",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "7df72266",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "491b24d5",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose <span style=\"color:#366797\">Valencia Smile Expert</span> for Tooth Extractions in Valencia?"
+     },
+     {
+      "_key": "270c3363",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">Tooth extractions may be common, but the quality of your care makes all the difference. At Valencia Smile Expert, we go beyond the basics to create a safe, supportive, and results-focused experience. From your first visit to your final follow-up, we’re here to ensure every detail is handled with expertise and heart.</span></p>"
+     },
+     {
+      "_key": "40faa664",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "bea8a64",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "a5cb9b5",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-29af3ae4"
+          },
+          "titleTag": "p",
+          "title": "Doctor-Led Care with a Personal Touch",
+          "descTag": "p",
+          "desc": "Dr. Moezzi personally oversees every procedure, taking time to answer your questions and explain your options without pressure."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "17255f",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "69a4b5ad",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-a53f1c1a"
+          },
+          "titleTag": "p",
+          "title": "Same-Day Appointments & Emergency Availability",
+          "descTag": "p",
+          "desc": "Tooth pain doesn’t wait—and neither should you. We offer flexible scheduling and priority care for urgent dental needs."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "75965c07",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "4c7d972c",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-543ab953"
+          },
+          "titleTag": "p",
+          "title": "Comfort-First Approach with Sedation Options",
+          "descTag": "p",
+          "desc": "Nervous about the procedure? We offer multiple sedation options to keep you calm, relaxed, and comfortable throughout your visit."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "1b4dd250",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "47466fd5",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Advanced Diagnostics & Technology",
+          "descTag": "p",
+          "desc": "From 3D imaging to precision surgical tools, we use the latest equipment to ensure efficient and accurate treatment."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "4f6f8b8d",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "6ee3c684",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f6859af4"
+          },
+          "titleTag": "p",
+          "title": "Transparent Pricing & Payment Plans",
+          "descTag": "p",
+          "desc": "With a $59 new patient special, clear cost breakdowns, and flexible financing, expert care is always within reach."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "off",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #4",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #5",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "autoplay": "yes",
+       "autoplay_speed": 5000,
+       "pause_on_hover": "yes",
+       "pause_on_interaction": "yes",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "3b95de1e",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "66a2a0f0",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "66410b2",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "Real Patient Testimonials"
+       },
+       {
+        "_type": "box",
+        "_key": "37cb29f9",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "4fe82b16",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "bd17f27",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p><img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/05/logos_google.png\" width=\"93\"/> Rating</p>"
+           },
+           {
+            "_key": "2ad03745",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3fccf32d",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "571cdfba",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "a6f3803",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "1c942f79",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "1f47ad21",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "77b7d8bf",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "6cd899c2",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "5b59a4c2",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "23a75357",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "6290a107",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "330811b5",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "795b8ed4",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "438a5e16",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "7137c4f",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "6a48bd83",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "218a4e9d",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "374099a3",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "ff2e79d",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "51852c56",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "5f9016a9",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "8afde20",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4203bb48",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "5ac11abc",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "68f708a0",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "1238a78e",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "417b6b76",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "51a4b87d",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "182d69f3",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "6b965fe",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "754e8a33",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "68b7a1a1",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "f30578d",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "6083fb6f",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "3dee83c3",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "48edebf3",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "1b2ca09e",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "7fc15fee",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "16b73771",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "7a3de72",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "795b91d7",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "33369509",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "7425a7de",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "4cf716d6",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "20ca8322",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "481dc860",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "2fc75679",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "3fa6229",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "310e721b",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "43e79b7",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "7d5cc9ab",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "4ee66faa",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "229f13f3",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Schedule Your <span style=\"color:#366797\">Tooth Extraction</span> Consultation in Valencia Today"
+         },
+         {
+          "_key": "21c0316c",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">If you’re searching for tooth extraction near me, look no further than Valencia Smile Expert. We combine advanced technology, same-day availability, and gentle, patient-first care to make your experience as smooth as possible. Whether it’s a simple removal or surgical procedure, Dr. Moezzi and our team are here to help you find lasting relief.</span></p>"
+         },
+         {
+          "_type": "box",
+          "_key": "1c7964f6",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "672e4d51",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Schedule Your Tooth Removal",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "202d7f3d",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "20f432a7",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "FAQs About <span style=\"color:#366797\">Tooth Extractions</span>"
+     },
+     {
+      "_key": "5fe5152f",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "8eb391b",
+        "title": "Is getting a tooth pulled painful?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "8eb391b",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "9cd24ef",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Most patients are surprised at how quick and comfortable the procedure is. We use local anesthesia to numb the area completely, and sedation options are available if you’re feeling anxious. You may feel some pressure—but not pain—during the extraction.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "3b7a7e34",
+        "title": "How long does it take to recover after a tooth extraction?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "3b7a7e34",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "f4eba11",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Initial healing typically takes 1–3 days for simple extractions, and about a week for surgical ones. Most patients return to normal activities within a few days, following proper aftercare.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "2273a7c4",
+        "title": "What can I eat after a tooth extraction?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "2273a7c4",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "3f55231d",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\"> Stick to soft, cool foods for the first couple of days—think yogurt, smoothies, applesauce, and scrambled eggs. Avoid straws, crunchy snacks, or anything too hot until the area has started to heal.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "2fb8b594",
+        "title": "Do I need to replace a tooth after it’s extracted?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "2fb8b594",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "47f563ed",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">In most cases, yes—especially if the extracted tooth isn’t a wisdom tooth. Missing teeth can cause neighboring teeth to shift and affect your bite. We can discuss options like dental implants, bridges, or partial dentures during your follow-up.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "76299b56",
+        "title": "How is a tooth extraction performed?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "76299b56",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "7a427407",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<span style=\"font-weight: 400;\">To learn more about how extractions are done—including the difference between simple and surgical procedures—visit this helpful guide from</span><a href=\"https://my.clevelandclinic.org/health/treatments/22120-tooth-extraction\" style=\"text-decoration: none;\"> <span style=\"font-weight: 400;\">Cleveland Clinic</span></a><span style=\"font-weight: 400;\">.</span>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "all_collapsed",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "3ea5bc54",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "15d74f4d",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita"
+     },
+     {
+      "_type": "box",
+      "_key": "7cebdfb5",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "10c59440",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "fff103b",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "b2f156d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "4356d16b",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "59e8f853",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "63df0779",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "62efda6b",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "ba9c23c",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4a170fae",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "1d6f0030",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "5fe529b4",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "25afaf70",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "55bb1bd1",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "ebfe454",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "489edbd2",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "6e6628f9",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "1d80ee9f",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "9ee4756",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "76134d61",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "4f31a911",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

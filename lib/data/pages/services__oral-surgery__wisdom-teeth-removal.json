@@ -1,0 +1,1739 @@
+{
+ "slug": "services__oral-surgery__wisdom-teeth-removal",
+ "path": "/services/oral-surgery/wisdom-teeth-removal/",
+ "seo": {
+  "title": "Wisdom Teeth Removal in Santa Clarita | Valencia Smile Expert",
+  "description": "Explore Valencia Smile Expert's top-rated Wisdom Teeth Removal in Santa Clarita—modern care, advanced technology, and 1-on-1 personalized treatment. Book today.",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1066 page-child parent-pageid-1015 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1066 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1066",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1066",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "4324e7d8",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6d58bac2",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "6c2fb0a4",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "2c2045f3",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Expert Wisdom Teeth Removal in Santa Clarita"
+         },
+         {
+          "_key": "e9c6d89",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Say Goodbye to Wisdom Tooth Pain with Personalized, Stress-Free Care</p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "4d4b5d18",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "306be238",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "6f374897",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "7174c8fa",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "2773d355",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Experience Relief with Wisdom Teeth Removal in Santa Clarita"
+       },
+       {
+        "_key": "3a40b36b",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Wisdom teeth don’t always grow in the way they should—and when they don’t, they can cause pain, swelling, infection, and damage to surrounding teeth. At Valencia Smile Expert, we offer precise, comfortable wisdom teeth removal in Santa Clarita tailored to your needs. Whether your wisdom teeth are impacted, crowding other teeth, or causing ongoing discomfort, Dr. Moezzi and our team are here to help with advanced technology, sedation options, and a warm, supportive approach. From your first consultation to your last follow-up, we’ll guide you every step of the way toward relief and recovery.</span></p>"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "342310f9",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "35db844c",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/valencia-photo-4.png",
+         "width": 647,
+         "height": 575,
+         "cls": "attachment-full size-full wp-image-1019",
+         "alt": "",
+         "sizes": "(max-width: 647px) 100vw, 647px"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "1d0c1bd8",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "58098162",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "41767392",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Different Types of \n <span style=\"color: #366797\">Wisdom Teeth Removal</span>"
+       },
+       {
+        "_key": "3a374678",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Not all wisdom teeth are the same—and neither are the procedures used to remove them. At Valencia Smile Expert, we tailor each extraction based on how the tooth is positioned and how it’s affecting your oral health. Here are the two most common types of wisdom teeth removal:</span></p>"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "48711bd4",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "7d85d27c",
+        "cls": "elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Simple Extraction",
+        "descTag": "p",
+        "desc": "Used when the wisdom tooth has fully erupted through the gum line. This type of removal is typically quick and straightforward, often completed under local anesthesia."
+       },
+       {
+        "_key": "a3ddc32",
+        "cls": "elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Surgical Extraction",
+        "descTag": "p",
+        "desc": "Necessary when the tooth is impacted (trapped beneath the gum or bone) or partially erupted. This procedure may involve making a small incision in the gum or breaking the tooth into smaller pieces for easier removal. Sedation options are available to ensure a stress-free experience."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "73491db4",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "18383aa5",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "36855956",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Who Needs \n<span style=\"color: #366797\">Wisdom Teeth Removal?</span>"
+       },
+       {
+        "_key": "66560e85",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Not everyone needs their wisdom teeth removed—but for many, it’s a preventive step that protects long-term oral health. Dr. Moezzi recommends evaluating wisdom teeth in your late teens or early twenties, when removal is typically easier and healing is faster.</span></p><p><span style=\"font-weight: 400;\">You may be a good candidate for wisdom teeth removal in Santa Clarita if you:</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "2b10a413",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "4ef3dc8e",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Experience pain, swelling, or pressure in the back of your mouth",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i1",
+            "text": "Have impacted or partially erupted wisdom teeth",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i2",
+            "text": "Notice shifting or crowding in nearby teeth",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i3",
+            "text": "Struggle to keep back molars clean and free from infection",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i4",
+            "text": "Show signs of cysts or bone damage on dental X-rays",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "7e22518f",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "3a13ece1",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "433d34cf",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "594738a2",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Why It’s Important to Remove Wisdom Teeth Early"
+       },
+       {
+        "_key": "532cfa51",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Timing matters when it comes to wisdom teeth. Removing them before they fully develop—or before complications arise—can make the process smoother and protect your long-term oral health.</span></p>"
+       },
+       {
+        "_key": "24d6eba4",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "1fa2a1ec",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "3cd82b6e",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Easier Recovery",
+            "descTag": "p",
+            "desc": "Younger patients tend to heal faster with fewer post-op issues."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "5daec275",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "47318c18",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Fewer Complications",
+            "descTag": "p",
+            "desc": "Prevents infections, cysts, and damage to neighboring teeth."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "68a9775",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "3c902b51",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Less Crowding",
+            "descTag": "p",
+            "desc": "Avoids misalignment that can undo years of orthodontic work."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "720020ab",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "410fc725",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Improved Oral Hygiene",
+            "descTag": "p",
+            "desc": "Makes it easier to brush and floss back molars."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "6477cb78",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "504f4ec8",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Peace of Mind",
+            "descTag": "p",
+            "desc": "Eliminates the risk of painful flare-ups down the road."
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "3c8f40e3",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "461e1d7a",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "The  <span style=\"color: #366797\">Wisdom Teeth Removal</span> Process"
+     },
+     {
+      "_key": "462d5682",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">At </span><a href=\"/about/\"><span style=\"font-weight: 400;\">Valencia Smile Expert</span></a><span style=\"font-weight: 400;\">, we take the stress out of oral surgery with a step-by-step approach that’s clear, comfortable, and fully personalized. From your initial consultation to post-op recovery, our team is here to guide you through every phase with compassion and transparency.</span></p>"
+     },
+     {
+      "_key": "42be5c68",
+      "cls": "elementor-hidden-mobile elementor-widget-image",
+      "_type": "image",
+      "img": {
+       "src": "/images/uploads/2025/07/line-background.svg",
+       "width": 928,
+       "height": 228,
+       "cls": "attachment-full size-full wp-image-1023",
+       "alt": ""
+      }
+     },
+     {
+      "_type": "box",
+      "_key": "1e8f9561",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "5a038515",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "18de36b4",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/1-image.png",
+           "width": 58,
+           "height": 134,
+           "cls": "attachment-full size-full wp-image-1024",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Consultation & Digital Imaging",
+          "desc": "We start with a detailed exam and 3D imaging to evaluate your wisdom teeth. Dr. Moezzi will review your X-rays, discuss your symptoms, and walk you through the best treatment approach for your unique situation."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "7ea5b6b9",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "228d3f3",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/2-image.png",
+           "width": 102,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1025",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Comfortable In-Office Procedure",
+          "desc": "Your wisdom teeth will be removed using gentle techniques and advanced tools. Local anesthesia is used in all cases, with sedation options available to keep you completely relaxed during the procedure. Most extractions are completed in under an hour."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "2176991a",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "4635fb42",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/3-image.png",
+           "width": 104,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1026",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Smooth Recovery & Follow-Up",
+          "desc": "After your procedure, we’ll provide step-by-step instructions for home care and schedule a follow-up visit to ensure proper healing. Most patients return to their normal routines within a few days."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "711f8c81",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "7fad667e",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "Pre- and Post-Op Care Instructions for \n<span style=\"color: #366797\">Wisdom Teeth Removal</span>"
+     },
+     {
+      "_key": "22d6bfe6",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">A smooth recovery starts with the right preparation. At Valencia Smile Expert, we give you everything you need to feel confident before and after your procedure. Here’s what to expect:</span></p>"
+     },
+     {
+      "_type": "box",
+      "_key": "2448199e",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "3057b9",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5e91a6f3",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Before Your Appointment:"
+         },
+         {
+          "_type": "box",
+          "_key": "4c438af6",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "250e6fc7",
+            "cls": "elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+            "_type": "iconList",
+            "items": [
+             {
+              "_key": "i0",
+              "text": "<b>Follow Fasting Guidelines</b> – If you’re receiving sedation, don’t eat or drink for 6–8 hours beforehand.",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i1",
+              "text": "<b>Arrange a Ride</b> - You’ll need someone to drive you home if sedation is used.",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i2",
+              "text": "<b>Pause Medications if Directed</b>– Dr. Moezzi will advise you on any adjustments.",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i3",
+              "text": "<b>Avoid Smoking &amp; Alcohol</b>– Refrain for at least 24 hours before surgery.",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i4",
+              "text": "<b>Brush Gently</b>– Maintain good hygiene without irritating the area.",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "656fac06",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "24a93795",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "After Your Appointment:"
+         },
+         {
+          "_type": "box",
+          "_key": "33162ed1",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7fc13fb6",
+            "cls": "elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+            "_type": "iconList",
+            "items": [
+             {
+              "_key": "i0",
+              "text": "<b>Rest the First Day</b>– Limit activity and keep your head elevated.",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i1",
+              "text": "<b>Eat Soft Foods</b>– Think yogurt, mashed potatoes, smoothies, and soup.",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i2",
+              "text": "<b>Skip the Straw</b>– Avoid straws, smoking, or spitting to prevent dry socket.",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i3",
+              "text": "<b>Use Cold Compresses</b>– Reduce swelling with ice packs in 20-minute intervals.",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i4",
+              "text": "<b>Keep It Clean</b>– Rinse with warm salt water and gently brush around the area.",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5f286855",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "3e3384cb",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose <span style=\"color:#366797\">Valencia Smile Expert</span> for Wisdom Teeth Removal?"
+     },
+     {
+      "_key": "43c3238e",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">At Valencia Smile Expert, we know that oral surgery can feel overwhelming—especially when it involves your wisdom teeth. That’s why we deliver compassionate, doctor-led care in a supportive, stress-free setting. Patients across Santa Clarita and Valencia trust us for our advanced approach and warm, personalized treatment.</span></p>"
+     },
+     {
+      "_key": "784e799d",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "4397adfd",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "37641bd1",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-29af3ae4"
+          },
+          "titleTag": "p",
+          "title": "Doctor-Led <br/>Precision",
+          "descTag": "p",
+          "desc": "Dr. Moezzi personally performs all wisdom teeth extractions, ensuring safe, consistent, and expert results."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "42d6fe35",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "2a5db623",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Advanced <br/>Technology",
+          "descTag": "p",
+          "desc": "From 3D digital imaging to modern surgical tools, we use cutting-edge techniques to enhance precision and reduce recovery time."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "19ae5721",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "9f72999",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-543ab953"
+          },
+          "titleTag": "p",
+          "title": "Multiple Sedation <br/>Options",
+          "descTag": "p",
+          "desc": "Whether you need mild relaxation or deeper sedation, we’ll help you stay comfortable throughout your procedure."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "345b90e5",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "77d4da60",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f6859af4"
+          },
+          "titleTag": "p",
+          "title": "Transparent, Accessible Pricing",
+          "descTag": "p",
+          "desc": "We offer honest, upfront pricing, flexible financing, and a $59 new patient special to help you get started with confidence."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "13b4eb4e",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "4d70ecfc",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-db5341fd"
+          },
+          "titleTag": "p",
+          "title": "Compassionate, <br/>One-on-One Care",
+          "descTag": "p",
+          "desc": "You’ll never feel rushed. Dr. Moezzi takes the time to explain everything and makes sure you feel supported every step of the way."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "off",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "autoplay": "yes",
+       "autoplay_speed": 5000,
+       "pause_on_hover": "yes",
+       "pause_on_interaction": "yes",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "49e1b3a8",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "11892c16",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "4e7f42b2",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "Real Patient Reviews"
+       },
+       {
+        "_type": "box",
+        "_key": "7e865cd6",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "7e638d63",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "58b1c8a5",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p><img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/05/logos_google.png\" width=\"93\"/> Rating</p>"
+           },
+           {
+            "_key": "414dffa7",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "75e55c79",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "30450ae6",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "387c1dbe",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "655cb7ca",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "5168bca6",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "31bf4b70",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "371f3f80",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "7babc98c",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "433720d7",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "4f758a4f",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "37b65551",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "c4f9513",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2268d5dd",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "62b25c37",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "4f741d23",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "619feb18",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "2cfb47ab",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "32e74b17",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "4b6af33a",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "4fd0f0c7",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "47573190",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "744c454e",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "5058920b",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "3d6df4d",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "18e220e9",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "63563ff3",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2c7d6d87",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "2049a940",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "7d29a3b8",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "2ddaa093",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3fce5052",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "621eb31e",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "562aedab",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "49f6e6ea",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "5c53a1c4",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2dc5e53d",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "794797b6",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "64f8c321",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "3cab2d34",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "40699dc0",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "70b8115",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "58288edb",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "1757eabb",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "1702a0a8",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "4fee597a",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "4ae54ea8",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "3a50ce9a",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "2c67a9ce",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "41f88428",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "4e2a653c",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "4c3e5290",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "616682a2",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Book Your  <span style=\"color:#366797\">Wisdom Teeth Removal</span> in Santa Clarita"
+         },
+         {
+          "_key": "3be3b7",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">Ready to take care of your wisdom teeth and get lasting relief? At Valencia Smile Expert, we make the process comfortable, efficient, and fully personalized to your needs. Whether you’re in pain or planning ahead, Dr. Moezzi and our friendly team are here to help you every step of the way.</span></p>"
+         },
+         {
+          "_type": "box",
+          "_key": "4a721589",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "1a0cd4f9",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Schedule Your Wisdom Tooth Removal Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "535fd632",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "1d11bb84",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "<span style=\"color:#366797\">Wisdom Teeth Removal</span> FAQs"
+     },
+     {
+      "_key": "2d30177c",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "1e1301",
+        "title": "When is the best time to remove wisdom teeth?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "1e1301",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "2cc95a14",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">The ideal time for removal is between ages 17–25, before the roots fully develop. Early removal helps prevent crowding, pain, and future complications.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "6854d5de",
+        "title": "Will I be awake during the procedure?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "6854d5de",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "70827554",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">That depends on your preference. We offer local anesthesia, nitrous oxide, and oral sedation to ensure your comfort. Dr. Moezzi will help you choose what’s best for you.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "440fd45c",
+        "title": "How long does recovery take?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "440fd45c",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "6b115ed5",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Most patients feel significantly better within 3–4 days. Full healing takes about 1–2 weeks, depending on the number of teeth removed and the complexity of the procedure.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "5afa8443",
+        "title": "What can I eat after wisdom teeth removal?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "5afa8443",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "30f96760",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Stick to soft foods like smoothies, yogurt, mashed potatoes, and soup. Avoid anything spicy, crunchy, or too hot for several days.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "84be1fb",
+        "title": "Where can I learn more about wisdom teeth and why they’re removed?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "84be1fb",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "31814cad",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<span style=\"font-weight: 400;\">Check out this</span><a href=\"https://www.webmd.com/oral-health/wisdom-teeth-adult\" style=\"text-decoration: none;\"> <span style=\"font-weight: 400;\">WebMD guide on wisdom teeth</span></a><span style=\"font-weight: 400;\"> for additional insights on causes, symptoms, and the removal process.</span>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "all_collapsed",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "7de56201",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "331cd63c",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita"
+     },
+     {
+      "_type": "box",
+      "_key": "32199e3b",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "3e423501",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "2d6836f3",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "59223de",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "605d5197",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "1081aee1",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "6616dd05",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "204c6ad1",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "4fbb9b9d",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "43c3a680",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "c6febb7",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "20a201fc",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "1eb70588",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "7139e44b",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "23063bfb",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "f820127",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "26693a88",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "59ab2203",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "42392f1b",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "1c90a25b",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "6ac39e20",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

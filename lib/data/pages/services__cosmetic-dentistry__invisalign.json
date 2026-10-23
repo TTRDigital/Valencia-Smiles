@@ -1,0 +1,1643 @@
+{
+ "slug": "services__cosmetic-dentistry__invisalign",
+ "path": "/services/cosmetic-dentistry/invisalign/",
+ "seo": {
+  "title": "Invisalign in Santa Clarita | Valencia Smile Expert",
+  "description": "Explore Valencia Smile Expert's top-rated Invisalign in Santa Clarita—modern care, advanced technology, and 1-on-1 personalized treatment. Book today.",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1219 page-child parent-pageid-1136 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1219 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1219",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1219",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "6b45296d",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "5defd3b0",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "2bdf4e08",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "645523e6",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Invisalign Santa Clarita – The Clear Way to a Straighter Smile"
+         },
+         {
+          "_key": "61e5393b",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">Discover the modern alternative to braces with custom Invisalign treatment at Valencia Smile Expert.</span></p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "7620bf3f",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "313b5573",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "552fea00",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6483d223",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "2c0044e7",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Straighten Your Teeth with Invisalign in Santa Clarita"
+       },
+       {
+        "_key": "366d0b45",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Ready to improve your smile without metal brackets or wires? At Valencia Smile Expert, we offer expert  Invisalign in Santa Clarita—a clear, comfortable, and convenient alternative to traditional braces. Whether you’re a busy professional, a teen, or simply want a more discreet way to straighten your teeth, Invisalign offers a modern solution tailored to your lifestyle. With custom-made aligners and expert care from our team, achieving a confident smile has never been easier."
+       },
+       {
+        "_key": "31c92ff",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Schedule Your Invisalign Appointment Today",
+        "href": "#popup-835",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "537f2e5a",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "40f3005e",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "72110c9e",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "3ae171b4",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "How <span style=\"color: #366797\">Invisalign</span> Works"
+       },
+       {
+        "_key": "60b2effc",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Invisalign treatment is a modern orthodontic treatment that straightens your teeth using a series of clear, removable aligners—no brackets or wires required. At Valencia Smile Expert, we use advanced digital scanning and treatment planning to deliver a more precise, comfortable, and customized experience for every patient."
+       },
+       {
+        "_type": "box",
+        "_key": "6f1ade86",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "76e1dc83",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>3D Digital Imaging</b>- We start with a quick, mess-free scan using our iTero scanner to create a high-resolution, interactive map of your smile—no traditional impressions needed.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "5e8daf4d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "89f48d8",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Custom Clear Aligners</b>- Your treatment plan is carefully designed to guide your teeth into better alignment using a set of BPA-free plastic aligners made specifically for your mouth.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "6e567e16",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "56c38dc4",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Daily Wear &amp; Routine Care</b>- Wear your aligners 20–22 hours a day, removing them only to eat, brush, and floss. You’ll enjoy the flexibility to maintain your normal diet and hygiene routine—something traditional metal braces can’t offer.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "2f5da8d0",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "17bf1d5b",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Progress Monitoring</b>- We’ll schedule regular check-ins to ensure your teeth are tracking correctly. As your smile improves, you’ll switch to a new set of aligners every 1–2 weeks.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "31293b7d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "110bbcf2",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Smile Transformation</b>- Most patients complete their clear aligner treatment within 6 to 18 months, depending on the level of correction needed. The result? A straighter, healthier-looking smile with minimal disruption to your lifestyle.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "7ff91cdd",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "654ab1cf",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "e676d52",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "5931a5f1",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "<span style=\"color: #366797\">Invisalign vs. Braces</span>: Which One’s Right for You?"
+       },
+       {
+        "_key": "3b2eb194",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "While both treatments can achieve excellent results, Invisalign offers a more seamless experience—especially for adults and teens looking for low-profile solutions to improve their smiles."
+       },
+       {
+        "_key": "edb7fe8",
+        "cls": "eael-dt-th-align-center eael-table-align-center elementor-widget-eael-data-table",
+        "_type": "table",
+        "head": [
+         "Feature",
+         "Invisalign",
+         "Metal Braces"
+        ],
+        "rows": [
+         {
+          "_key": "r0",
+          "cells": [
+           "<b>Appearance</b>",
+           "Nearly invisible",
+           "Very noticeable"
+          ]
+         },
+         {
+          "_key": "r1",
+          "cells": [
+           "<b>Comfort</b>",
+           "Smooth plastic aligners",
+           "Metal brackets may cause discomfort"
+          ]
+         },
+         {
+          "_key": "r2",
+          "cells": [
+           "<b>Removability</b>",
+           "Yes – for eating, brushing, and flossing",
+           "No – fixed to teeth"
+          ]
+         },
+         {
+          "_key": "r3",
+          "cells": [
+           "<b>Diet Restrictions</b>",
+           "None",
+           "Yes – avoid sticky, chewy, or hard foods"
+          ]
+         },
+         {
+          "_key": "r4",
+          "cells": [
+           "<b>Oral Hygiene</b>",
+           "Easy to maintain",
+           "Requires special tools and extra care"
+          ]
+         },
+         {
+          "_key": "r5",
+          "cells": [
+           "<b>Office Visits</b>",
+           "Fewer, quicker check-ins",
+           "Frequent in-office adjustments"
+          ]
+         },
+         {
+          "_key": "r6",
+          "cells": [
+           "<b>Average Treatment Time</b>",
+           "6–18 months",
+           "18–24 months"
+          ]
+         },
+         {
+          "_key": "r7",
+          "cells": [
+           "<b>Estimated Cost Range</b>",
+           "$3,500–$8,000 (varies by case)",
+           "$3,000–$7,000 (varies by case)"
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "33b4c1c",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "32152cba",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "4c037266",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Is <span style=\"color: #366797\">Invisalign</span> Right for You?"
+       },
+       {
+        "_key": "4cc235af",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Invisalign is a great option for many teens and adults who want to straighten their teeth without the appearance or hassle of metal braces. But is it the right fit for your smile?</p>"
+       },
+       {
+        "_key": "6bbbd4da",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "7090f75",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "2503fa74",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Mild to moderate crowding"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3a0d88c0",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "1b206d46",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Gaps or spacing between teeth"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4b34f936",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "7929d4a1",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "An overbite, underbite, or crossbite"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4a90453c",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "627e4d72",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Teeth that have shifted after past orthodontic work"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2c17485e",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "5addb51a",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "A preference for a low-maintenance, discreet solution"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       },
+       {
+        "_key": "9ac4872",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Not sure if <span style=\"color: #366797\">Invisalign</span> is a match?"
+       },
+       {
+        "_key": "7e536c27",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Book a consultation today and we’ll walk you through your options—with no pressure, just expert guidance."
+       },
+       {
+        "_key": "77ab1f3d",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Schedule Your Invisalign Appointment Today",
+        "href": "#popup-835",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "3a52951b",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "5ea2325a",
+      "cls": "elementor-widget__width-initial elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose Us for <span style=\"color:#366797\">Invisalign in Valencia</span>, CA?"
+     },
+     {
+      "_key": "2264ea0",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "When it comes to your smile, experience matters. At Valencia Smile Expert, we combine advanced technology with compassionate care to deliver Invisalign results our Santa Clarita patients can trust."
+     },
+     {
+      "_key": "4f0edfe4",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "7d081ad5",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "76b0f0c2",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "p",
+          "title": "Invisalign-Certified Provider",
+          "descTag": "p",
+          "desc": "Dr. Moezzi has advanced training in clear aligner therapy and has helped countless patients achieve confident, lasting results."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "3c9885d7",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "363f14e4",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-5180bb2e"
+          },
+          "titleTag": "p",
+          "title": "Advanced 3D Imaging",
+          "descTag": "p",
+          "desc": "Our iTero scanner creates precise digital impressions—no messy molds—and allows you to preview your future smile before starting treatment."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "51375af",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "4c389583",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Personalized Orthodontic Plans",
+          "descTag": "p",
+          "desc": "We don’t believe in one-size-fits-all. Every Invisalign plan is tailored to your unique dental needs and lifestyle goals."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "5b8d61dd",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "6e9b3517",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-29af3ae4"
+          },
+          "titleTag": "p",
+          "title": "Comfort-Focused Office Experience",
+          "descTag": "p",
+          "desc": "From your first consultation to your last aligner, our team is here to make your journey smooth, supportive, and stress-free."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "2f130659",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "679755e0",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-53c04902"
+          },
+          "titleTag": "p",
+          "title": "Local Expertise, Trusted Results",
+          "descTag": "p",
+          "desc": "As one of the top Invisalign providers in Santa Clarita, we’re proud to serve our community with modern, patient-centered care."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "polite",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #4",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #5",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "ce546fa",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "480886ac",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "40733f58",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "Patient Reviews"
+       },
+       {
+        "_type": "box",
+        "_key": "4ba29a39",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "792da39e",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "357d541d",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" src=\"/images/uploads/2025/07/logos_google.webp\" width=\"93\"/> Rating"
+           },
+           {
+            "_key": "3dd367bd",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "887e8b7",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "15eb4ea1",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "47b73753",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "51d955d4",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "774d1b32",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "4f9fcf55",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "51b80fa8",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "71707f17",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "21d0e5e9",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "3f41f1ff",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "24892adb",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "60153669",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "19e847a6",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "42c05c83",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "4574f3cf",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "3a1bc23a",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "5eb3446",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "78a036d4",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "5c39dade",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "7ace5a46",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "31b33cca",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "73d6ed57",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "66b3b0c3",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "5c48b303",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "65296590",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "6a6b9982",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "68719ac0",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "37a46715",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "a06eefc",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "294fd82d",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "663e5b4a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "165ab3a7",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "6a29f951",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "6a19f6e4",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "589bec3a",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "5b1d8d4b",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "4a9c33b0",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "74972af",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "2d9e5840",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "22f9e8a3",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "63148bdb",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "4154536c",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "3fed37b0",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "78265114",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "5d9e1490",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "7d4ce35f",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "6ea28055",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "5d234aab",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "56defcf0",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "c10a57d",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita"
+     },
+     {
+      "_type": "box",
+      "_key": "58e202e6",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "32f69b06",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "e4d1af0",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "68c44005",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "2f42add5",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "296396c3",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "18a476b2",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "54acaab6",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "1ec220bb",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "196ef03f",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "4d498595",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "597abfec",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "665db931",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "2bc8730c",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "548307d2",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "33f939d9",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "3a690831",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "63697db8",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "175f0a48",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7f73d1a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "cb75dc0",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "791ab25a",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "11b346e7",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "1fb336b7",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "55793c46",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Ready to Start Invisalign in Santa Clarita?"
+         },
+         {
+          "_key": "8ac6a58",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "Your dream smile is closer than you think. At Valencia Smile Expert, we make Invisalign in Santa Clarita simple, affordable, and stress-free. Whether you’re exploring clear aligners for the first time or revisiting orthodontic care, Dr. Moezzi and our team are here to guide you every step of the way."
+         },
+         {
+          "_type": "box",
+          "_key": "18d1d229",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "53d2bd18",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Schedule Your Invisalign Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "641b60a",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "462824ef",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "<span style=\"color:#366797\">Invisalign</span> FAQs"
+     },
+     {
+      "_key": "56c15162",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "Still have questions about Invisalign treatment? We’ve got answers. Here are some of the most common questions we hear at Valencia Smile Expert:"
+     },
+     {
+      "_key": "12af131a",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "3523cec7",
+        "title": "How much does Invisalign cost?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "3523cec7",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "77f027cb",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">The cost of Invisalign typically ranges from </span><b>$3,500 to $8,000</b><span style=\"font-weight: 400;\">, depending on your unique treatment needs. Factors like case complexity, treatment length, and insurance coverage all play a role. During your consultation, we’ll provide a personalized estimate and walk you through flexible payment and financing options.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "3f14e2a2",
+        "title": "How long does Invisalign treatment take?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "3f14e2a2",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "188c937f",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Most patients complete treatment within </span><b>6 to 18 months</b><span style=\"font-weight: 400;\">, depending on the complexity of the case and how consistently the aligners are worn.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "526417e2",
+        "title": "Does Invisalign hurt?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "526417e2",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "600cb029",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "Invisalign is generally more comfortable than traditional braces. You may experience mild pressure or tightness for a day or two when switching to a new set of aligners, but this usually fades quickly."
+          }
+         ]
+        }
+       },
+       {
+        "_key": "6251ff3",
+        "title": "Can I eat with my aligners in?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "6251ff3",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "79ed8c62",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "No. You should remove your aligners before eating or drinking anything other than water. This helps avoid staining and keeps the aligners clean and effective."
+          }
+         ]
+        }
+       },
+       {
+        "_key": "2bdb5fb5",
+        "title": "How do I clean my Invisalign trays?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "2bdb5fb5",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "35873d1f",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "Use a soft toothbrush and clear, gentle soap to clean your aligners daily. Avoid hot water, which can warp the plastic. Specialized Invisalign cleaning crystals are also available."
+          }
+         ]
+        }
+       },
+       {
+        "_key": "7dc40a78",
+        "title": "How often do I need to visit the office during treatment?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "7dc40a78",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "1fa5a3ee",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "You’ll typically visit every 6–8 weeks so Dr. Moezzi can monitor your progress and provide your next set of aligners. These visits are quick and easy."
+          }
+         ]
+        }
+       },
+       {
+        "_key": "6fef5b72",
+        "title": "Will insurance cover Invisalign?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "6fef5b72",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "16977c3b",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "Many dental insurance plans with orthodontic benefits will cover part of the cost of Invisalign. Our front desk team can check your benefits and help you understand your coverage."
+          }
+         ]
+        }
+       },
+       {
+        "_key": "de17465",
+        "title": "What’s the difference between Invisalign and traditional braces?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "de17465",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "5818ec9c",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Invisalign uses clear, removable aligners while traditional braces rely on metal brackets and wires. Both are effective, but Invisalign is more discreet and allows for easier cleaning and eating. For a detailed comparison, check out this guide by the </span><a href=\"https://www.aaoinfo.org/blog/invisalign-vs-braces/\"><span style=\"font-weight: 400;\">American Association of Orthodontists</span></a><span style=\"font-weight: 400;\"> on how clear aligners differ from braces.</span></p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

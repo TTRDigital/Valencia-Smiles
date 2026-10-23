@@ -1,0 +1,1798 @@
+{
+ "slug": "services__cosmetic-dentistry__composite-filling",
+ "path": "/services/cosmetic-dentistry/composite-filling/",
+ "seo": {
+  "title": "Composite Filling in Santa Clarita | Valencia Smile Expert",
+  "description": "Explore Valencia Smile Expert's top-rated Composite Filling in Santa Clarita—modern care, advanced technology, and 1-on-1 personalized treatment. Book today.",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1223 page-child parent-pageid-1136 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1223 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1223",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1223",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "3eb00510",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6fec7fe3",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "5f6f1dea",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "33812199",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Restore Dental Health With Composite Fillings in Santa Clarita"
+         },
+         {
+          "_key": "3fa4bad2",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Fix cavities and cracks with discreet, durable fillings designed to match your smile</p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "9a91a0b",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "94fe547",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "659ea2a",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "73b00bbc",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "6f940011",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Protect Your Oral Health with Advanced Composite Fillings"
+       },
+       {
+        "_key": "2cccfead",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Cavities and decay aren’t just uncomfortable—they’re a threat to your long-term dental health. At Valencia Smile Expert, we offer composite fillings in Santa Clarita that combine advanced diagnostic technology with precision treatment to restore and protect your teeth. Our tooth-colored fillings are durable, natural-looking, and placed with care using the latest tools, ensuring a healthier smile that feels just like your own."
+       },
+       {
+        "_key": "7bdee2ed",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Schedule Your Composite Filling Appointment",
+        "href": "#popup-835",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "420d4f",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2ce4bd40",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "17258dc9",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "16223f5b",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/08/model-tooth-dentist-doctor-shows-patient-tooth-reception-dentist-s-office.jpg",
+         "width": 1080,
+         "height": 720,
+         "cls": "attachment-full size-full wp-image-1238",
+         "alt": "",
+         "sizes": "(max-width: 1080px) 100vw, 1080px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "39115967",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "1fdaedef",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "What Are <span style=\"color: #366797\">Composite Fillings?</span>?"
+       },
+       {
+        "_key": "3f38bd6e",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Composite fillings are a modern solution for treating cavities and repairing minor tooth damage. Made from a strong, tooth-colored resin, they’re custom-matched to your natural enamel and bonded directly to the tooth for a seamless, long-lasting result.</p>"
+       },
+       {
+        "_key": "3088a57e",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+        "_type": "iconList",
+        "items": [
+         {
+          "_key": "i0",
+          "text": "<b>Tooth-Colored Appearance</b> – Blends naturally with surrounding teeth",
+          "icon": {
+           "svg": "e-fas-circle"
+          }
+         }
+        ]
+       },
+       {
+        "_key": "b8a6338",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+        "_type": "iconList",
+        "items": [
+         {
+          "_key": "i0",
+          "text": "<b>Metal-Free</b> – No mercury or silver amalgam",
+          "icon": {
+           "svg": "e-fas-circle"
+          }
+         }
+        ]
+       },
+       {
+        "_key": "4c3e9635",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+        "_type": "iconList",
+        "items": [
+         {
+          "_key": "i0",
+          "text": "<b>Strong &amp; Durable</b> – Designed to withstand daily chewing and pressure",
+          "icon": {
+           "svg": "e-fas-circle"
+          }
+         }
+        ]
+       },
+       {
+        "_key": "e680558",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+        "_type": "iconList",
+        "items": [
+         {
+          "_key": "i0",
+          "text": "<b>Minimally Invasive</b> – Requires less removal of healthy tooth structure",
+          "icon": {
+           "svg": "e-fas-circle"
+          }
+         }
+        ]
+       },
+       {
+        "_key": "1040b6d3",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+        "_type": "iconList",
+        "items": [
+         {
+          "_key": "i0",
+          "text": "<b>Prevents Further Decay</b> – Creates a tight seal to block out bacteria",
+          "icon": {
+           "svg": "e-fas-circle"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5a99804b",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "3d1392f3",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "7422acdb",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Who’s a Good Candidate for <span style=\"color: #366797\">Composite Fillings?</span>"
+       },
+       {
+        "_key": "20b2bfec",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Composite fillings are an excellent option for a wide range of patients looking to restore their dental health without compromising aesthetics. At Valencia Smile Expert, we often recommend this treatment for:"
+       },
+       {
+        "_key": "4a42cbb2",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/08/restorative-dentistry-image.png",
+         "width": 604,
+         "height": 318,
+         "cls": "attachment-large size-large wp-image-1161",
+         "alt": "",
+         "sizes": "(max-width: 604px) 100vw, 604px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "6b6bdac6",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "72556f77",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Patients with cavities or minor tooth decay"
+       },
+       {
+        "_key": "23c30ba1",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Individuals with chipped, cracked, or worn teeth"
+       },
+       {
+        "_key": "5ee475aa",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Anyone seeking to replace old metal (amalgam) fillings"
+       },
+       {
+        "_key": "54d21425",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "People who grind their teeth and need reinforcement"
+       },
+       {
+        "_key": "74c5fd53",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Adults and teens looking for natural-looking dental repairs"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "14fc43b7",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "46123f41",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "38bf48c0",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Benefits of <span style=\"color: #366797\">Composite Fillings</span>"
+       },
+       {
+        "_key": "7aec3dd",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Composite fillings do more than repair cavities—they help protect your overall oral health while enhancing the look and feel of your smile. We use advanced materials and techniques to ensure every filling is strong, comfortable, and built to last.</p>"
+       },
+       {
+        "_key": "6a1d5b21",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "1a7bea01",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "6697a9bd",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Aesthetically Pleasing",
+            "descTag": "p",
+            "desc": "Custom-shaded to match your natural tooth color"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7271b3c5",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "2e8e213b",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Minimally Invasive",
+            "descTag": "p",
+            "desc": "Preserves more of your natural tooth compared to metal fillings"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2557ca5f",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "53dbc50",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Durable and Long-Lasting",
+            "descTag": "p",
+            "desc": "With proper care, composite fillings can last many years"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "35b3a8f8",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "24543d44",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Safe and Metal-Free",
+            "descTag": "p",
+            "desc": "No mercury or risk of metal sensitivity"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7c3bf5d5",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "11d7c006",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Protects Tooth Structure",
+            "descTag": "p",
+            "desc": "Bonds tightly to prevent future decay and damage"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "4e2ac64f",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "32f41bd3",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "What to Expect: Our Composite Filling Process"
+     },
+     {
+      "_key": "26ea6642",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>At Valencia Smile Expert, we keep the process simple and focused on what matters—your comfort and your health. Our composite fillings are placed using modern tools and techniques that help us work efficiently while making sure you feel at ease from start to finish.</p>"
+     },
+     {
+      "_key": "1ef7a8e5",
+      "cls": "elementor-hidden-mobile elementor-widget-image",
+      "_type": "image",
+      "img": {
+       "src": "/images/uploads/2025/07/line-background.svg",
+       "width": 928,
+       "height": 228,
+       "cls": "attachment-full size-full wp-image-1023",
+       "alt": ""
+      }
+     },
+     {
+      "_type": "box",
+      "_key": "592550d4",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "22fd12af",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "6427208e",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/1-image.png",
+           "width": 58,
+           "height": 134,
+           "cls": "attachment-full size-full wp-image-1024",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Evaluation and Tooth Prep",
+          "desc": "We begin with a full dental exam and digital imaging to pinpoint the affected area. Once confirmed, we gently numb the tooth and remove any decay while preserving healthy structure."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "6065dd8e",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "4d8499e1",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/2-image.png",
+           "width": 102,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1025",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Filling Placement",
+          "desc": "A tooth-colored composite resin is layered and shaped to match the natural contours of your tooth for a seamless fit and feel."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "6f8fe50d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "7ff885b6",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/3-image.png",
+           "width": 104,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1026",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Curing, Polishing, and Bite Check",
+          "desc": "The filling is hardened with a special curing light, polished for a smooth finish, and adjusted to ensure your bite feels completely natural."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "42ac7da6",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "50c90e47",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "41ef68eb",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "How to Care for Your <span style=\"color: #366797\">Composite Fillings</span>"
+       },
+       {
+        "_key": "f4a8763",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Composite fillings are strong and built to last, but a little care goes a long way in keeping them in great shape. Just like your natural teeth, they need regular maintenance to stay clean, comfortable, and cavity-free.</p>"
+       },
+       {
+        "_type": "box",
+        "_key": "9b114cd",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "8526553",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Brush twice a day</b> with a soft-bristled toothbrush and fluoride toothpaste",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "6c5bf35d",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Floss daily</b> to remove plaque between teeth and along the gumline",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "5ed781dc",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Avoid biting hard objects</b> like ice, pens, or fingernails",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "760237a6",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Limit stain-causing foods and drinks</b>, especially right after treatment",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "54351620",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Schedule regular checkups and cleanings</b> so we can monitor the filling over time",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "4195fde6",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Let us know if you notice any changes</b> like sensitivity or rough edges",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "2f8b4b23",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "50ed7611",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "1a5f1c73",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose <span style=\"color:#366797\">Valencia Smile Expert</span> for Dental Fillings?"
+     },
+     {
+      "_key": "71a27796",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>When it comes to restoring your teeth, you deserve a dental team that combines advanced training with genuine care. At Valencia Smile Expert, we don’t just fix cavities—we make sure you feel informed, supported, and comfortable every step of the way.</p>"
+     },
+     {
+      "_key": "41fb51ae",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "376976d7",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "1043752d",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "p",
+          "title": "Doctor-led attention to detail",
+          "descTag": "p",
+          "desc": "Dr. Moezzi takes time to ensure each filling looks and feels just right"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "18da198",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "31d33a8",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Advanced technology",
+          "descTag": "p",
+          "desc": "We use digital imaging and precise materials for efficient, accurate results"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "79663ea5",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "ab14489",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-5180bb2e"
+          },
+          "titleTag": "p",
+          "title": "Stress-free environment",
+          "descTag": "p",
+          "desc": "A warm, welcoming space with sedation options if needed"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "6ffa08e9",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "440dd22e",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-543ab953"
+          },
+          "titleTag": "p",
+          "title": "Same-Day appointments",
+          "descTag": "p",
+          "desc": "Fast, flexible care when you need it most"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "2e09be96",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "30b4e550",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-53c04902"
+          },
+          "titleTag": "p",
+          "title": "Transparent pricing",
+          "descTag": "p",
+          "desc": "No surprises—just clear communication and flexible payment options"
+         }
+        ]
+       }
+      ],
+      "ariaLive": "polite",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #1",
+         "_id": "06746f1"
+        },
+        {
+         "slide_title": "Slide #1",
+         "_id": "862edde"
+        },
+        {
+         "slide_title": "Slide #1",
+         "_id": "30a9720"
+        },
+        {
+         "slide_title": "Slide #1",
+         "_id": "0376dd4"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "7d568f93",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "24f069b7",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "36e3a13f",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "What Our Patients Are Saying"
+       },
+       {
+        "_key": "1733afe5",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Patients throughout Santa Clarita and Valencia choose Dr. Moezzi for her gentle approach, advanced skills, and genuine care. Whether it’s a first consultation or a complete cosmetic smile makeover, the feedback speaks for itself:"
+       },
+       {
+        "_type": "box",
+        "_key": "3166bab7",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "3a767e1a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "f644446",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p><img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/07/logos_google.webp\" width=\"93\"/> Rating</p>"
+           },
+           {
+            "_key": "3ecb59c4",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "34f14029",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "45b1e135",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "5ea10503",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "5529d290",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "766b9c3e",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "65aeb9f7",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "46f29702",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "713915d7",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "6ebaacfe",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "6542ea09",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "23b4fec0",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "547151b2",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4028520c",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "62ab6cab",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "731ff203",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "58a15295",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "1ff9e795",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "1c998b71",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "31940abe",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "2fd09171",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "160ba34e",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "135cc4b9",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "5caca8cd",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "37ae8427",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "43973e0c",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "5b15330d",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "1b0ee647",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "8a33743",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "58a6af96",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "3b4a5461",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "62fc7fda",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "38707f2d",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "a580a77",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "27164dd8",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "aa102c4",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "79f8988b",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "4f0f30ec",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "5692174d",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "19e7984e",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "331d8eb",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "7df85c34",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "49a4d2a3",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "7ad573c7",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "2bcaadce",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "3fc5baa8",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "6962dddf",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "5200692a",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "7aa0baf0",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "6ed93dd5",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "7761a106",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita, California"
+     },
+     {
+      "_type": "box",
+      "_key": "de38331",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "4bde6146",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "54781b1",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "63cb65d1",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "7bbcd1d",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "80b3b45",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "7c5a07e8",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "6bb5347",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "49cc402c",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "56cadd5a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "4aa37b4e",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "248564b9",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3ce6c0cf",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "43b8a13a",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "348bcb51",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "8a16fd4",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "d5bf1c",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "32cfa19d",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "5e15a223",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "1e848f8e",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "1450b5e3",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "4539ac2a",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "2e3a93b7",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "7e96f1fd",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "6c44dfa0",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Schedule Your Composite Fillings in Santa Clarita"
+         },
+         {
+          "_key": "360873d3",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Whether you’re dealing with a new cavity or replacing an old filling, we’re here to help you protect your smile with expert care and a gentle touch. At Valencia Smile Expert, our composite fillings in Santa Clarita are designed to look natural, feel comfortable, and last for years.</p>"
+         },
+         {
+          "_type": "box",
+          "_key": "464d5a18",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7ebee6f4",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Schedule Your Composite Filling Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "15ace3d6",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "794f097c",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "Frequently Asked Questions About <span style=\"color:#366797\">Composite Fillings</span>"
+     },
+     {
+      "_key": "6898a097",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "72590e9c",
+        "title": "How long do composite fillings last?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "72590e9c",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "69dee317",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>With proper care and regular dental visits, composite fillings can last anywhere from 5 to 10 years—or even longer. Their longevity depends on factors like the location of the filling, your oral hygiene habits, and whether you grind your teeth.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "43bc04e1",
+        "title": "Are composite fillings safe?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "43bc04e1",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "2aa6170f",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Yes. Composite fillings are metal-free and made from a durable resin material that’s safe, biocompatible, and mercury-free. They’re a great choice for patients looking for a more natural and health-conscious option.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "6dfb25ac",
+        "title": "Do composite fillings look natural?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "6dfb25ac",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "37fbd8d7",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Absolutely. One of the biggest advantages of composite fillings is their ability to match the color and texture of your natural teeth. Most people won’t even be able to tell you’ve had dental work done.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "31f7890a",
+        "title": "Will my tooth be sensitive after the procedure?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "31f7890a",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "74ac98e1",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Some patients experience mild sensitivity for a few days after receiving a filling. This usually fades quickly. If it lasts longer or becomes uncomfortable, let us know—we’re here to help.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "1ffe0ce1",
+        "title": "Can I eat right after getting a composite filling?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "1ffe0ce1",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "7f28998e",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Since composite resin hardens immediately with a curing light, you can typically eat right after your appointment. We do recommend waiting until the numbness wears off to avoid accidentally biting your cheek or tongue.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "3dafbba0",
+        "title": "How do composite fillings compare to other types?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "3dafbba0",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "3d77dcdb",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Composite fillings are preferred for their aesthetic and functional benefits. Unlike silver amalgam, they bond directly to the tooth and require less drilling. You can read more about how they work and what to expect in <a href=\"https://www.healthline.com/health/dental-and-oral-health/composite-fillings\" rel=\"noopener\" target=\"_blank\">this overview from Healthline</a>.</p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

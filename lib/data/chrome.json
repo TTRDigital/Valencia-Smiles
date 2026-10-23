@@ -1,0 +1,613 @@
+{
+ "header": {
+  "postId": "188",
+  "docType": "header",
+  "cls": "elementor elementor-188 elementor-location-header",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "0e1ce19",
+    "cls": "e-con-full e-flex e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "b9548df",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "bb641ad",
+        "cls": "elementor-hidden-desktop elementor-widget-heading",
+        "_type": "heading",
+        "tag": "p",
+        "html": "(661) 254-5200",
+        "href": "tel:6612545200"
+       },
+       {
+        "_key": "b8e44d7",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "p",
+        "html": "New Patient Special: $59 Exam & X-Rays. Book Now!"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "5c6489d2",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "23fa4efe",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "27f43b4",
+          "cls": "elementor-widget-theme-site-logo elementor-widget-image",
+          "_type": "siteLogo",
+          "img": {
+           "src": "/images/uploads/2025/05/valencia-logo.png",
+           "width": 461,
+           "height": 96,
+           "cls": "attachment-full size-full wp-image-191",
+           "alt": "",
+           "sizes": "(max-width: 461px) 100vw, 461px"
+          },
+          "href": "/"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "815512e",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "18c9b207",
+          "cls": "elementor-nav-menu--stretch elementor-nav-menu__align-end elementor-nav-menu--dropdown-mobile elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget-nav-menu",
+          "_type": "navMenu",
+          "items": [
+           {
+            "_key": "m0",
+            "label": "Our Practice",
+            "href": "/about/",
+            "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-559",
+            "aCls": "elementor-item menu-link"
+           },
+           {
+            "_key": "m1",
+            "label": "Services",
+            "href": "/services/",
+            "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-184",
+            "aCls": "elementor-item menu-link",
+            "children": [
+             {
+              "_key": "m0",
+              "label": "Cosmetic Dentistry",
+              "href": "/services/cosmetic-dentistry/",
+              "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1267",
+              "aCls": "elementor-sub-item menu-link",
+              "children": [
+               {
+                "_key": "m0",
+                "label": "Composite Filling",
+                "href": "/services/cosmetic-dentistry/composite-filling/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1268",
+                "aCls": "elementor-sub-item menu-link"
+               },
+               {
+                "_key": "m1",
+                "label": "Invisalign",
+                "href": "/services/cosmetic-dentistry/invisalign/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1269",
+                "aCls": "elementor-sub-item menu-link"
+               },
+               {
+                "_key": "m2",
+                "label": "Teeth Whitening",
+                "href": "/services/cosmetic-dentistry/teeth-whitening/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1270",
+                "aCls": "elementor-sub-item menu-link"
+               },
+               {
+                "_key": "m3",
+                "label": "Veneers",
+                "href": "/services/cosmetic-dentistry/veneers/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1271",
+                "aCls": "elementor-sub-item menu-link"
+               }
+              ]
+             },
+             {
+              "_key": "m1",
+              "label": "Dental Implants",
+              "href": "/services/dental-implants/",
+              "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1091",
+              "aCls": "elementor-sub-item menu-link"
+             },
+             {
+              "_key": "m2",
+              "label": "Holistic Dentistry",
+              "href": "/services/holistic-dentistry/",
+              "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1349",
+              "aCls": "elementor-sub-item menu-link"
+             },
+             {
+              "_key": "m3",
+              "label": "Oral Surgery",
+              "href": "/services/oral-surgery/",
+              "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1077",
+              "aCls": "elementor-sub-item menu-link",
+              "children": [
+               {
+                "_key": "m0",
+                "label": "All On 4 Implants",
+                "href": "/services/oral-surgery/all-on-4-implants/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1081",
+                "aCls": "elementor-sub-item menu-link"
+               },
+               {
+                "_key": "m1",
+                "label": "Bone Grafting",
+                "href": "/services/oral-surgery/bone-grafting/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1079",
+                "aCls": "elementor-sub-item menu-link"
+               },
+               {
+                "_key": "m2",
+                "label": "Tooth Extractions",
+                "href": "/services/oral-surgery/tooth-extractions/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1080",
+                "aCls": "elementor-sub-item menu-link"
+               },
+               {
+                "_key": "m3",
+                "label": "Wisdom Teeth Removal",
+                "href": "/services/oral-surgery/wisdom-teeth-removal/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1078",
+                "aCls": "elementor-sub-item menu-link"
+               },
+               {
+                "_key": "m4",
+                "label": "tmj treatments",
+                "href": "/tmj-treatments/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1327",
+                "aCls": "elementor-sub-item menu-link"
+               }
+              ]
+             },
+             {
+              "_key": "m4",
+              "label": "Restorative Dentistry",
+              "href": "/services/restorative-dentistry/",
+              "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1272",
+              "aCls": "elementor-sub-item menu-link",
+              "children": [
+               {
+                "_key": "m0",
+                "label": "Dental Crowns",
+                "href": "/services/dental-crowns/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1326",
+                "aCls": "elementor-sub-item menu-link"
+               },
+               {
+                "_key": "m1",
+                "label": "Dental Bridges",
+                "href": "/services/restorative-dentistry/dental-bridges/",
+                "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1314",
+                "aCls": "elementor-sub-item menu-link"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "m2",
+            "label": "Contact",
+            "href": "/contact/",
+            "liCls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-182",
+            "aCls": "elementor-item menu-link"
+           },
+           {
+            "_key": "m3",
+            "label": "Blogs",
+            "href": "/category/blogs/",
+            "liCls": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1426",
+            "aCls": "elementor-item menu-link"
+           },
+           {
+            "_key": "m4",
+            "label": "(661) 254-5200",
+            "href": "tel:6612545200",
+            "liCls": "menu-item menu-item-type-custom menu-item-object-custom menu-item-186",
+            "aCls": "elementor-item menu-link"
+           },
+           {
+            "_key": "m5",
+            "label": "Book Now",
+            "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+            "liCls": "header-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-187",
+            "aCls": "elementor-item menu-link"
+           }
+          ],
+          "navCls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade",
+          "ulId": "menu-1-18c9b207",
+          "arrowSvg": "<svg class=\"ast-arrow-svg\" enable-background=\"new 57 35.171 26 16.043\" height=\"16.043px\" version=\"1.1\" viewbox=\"57 35.171 26 16.043\" width=\"26px\" x=\"0px\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" y=\"0px\"> <path d=\"M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z\"></path> </svg>",
+          "subArrow": {
+           "svg": "e-fas-caret-down"
+          },
+          "toggle": {
+           "open": {
+            "svg": "e-eicon-menu-bar--elementor-menu-toggle__icon--open"
+           },
+           "close": {
+            "svg": "e-eicon-close--elementor-menu-toggle__icon--close"
+           }
+          },
+          "dropCls": "elementor-nav-menu--dropdown elementor-nav-menu__container"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "footer": {
+  "postId": "261",
+  "docType": "footer",
+  "cls": "elementor elementor-261 elementor-location-footer",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "5500030a",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "148946a4",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "39e6e424",
+        "cls": "elementor-position-top elementor-widget-image-box",
+        "_type": "imageBox",
+        "img": {
+         "src": "/images/uploads/2025/05/Frame-1984078812.png",
+         "width": 462,
+         "height": 96,
+         "cls": "attachment-full size-full wp-image-264",
+         "alt": ""
+        },
+        "desc": "Providing expert, compassionate dental care to keep Valencia smiling brighter every day."
+       },
+       {
+        "_key": "ff3dcd7",
+        "cls": "elementor-align-left elementor-widget__width-initial elementor-mobile-align-center elementor-widget-button",
+        "_type": "button",
+        "text": "Book Now",
+        "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "494cad34",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "e86a345",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h6",
+        "html": "Menu"
+       },
+       {
+        "_key": "642c517a",
+        "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+        "_type": "iconList",
+        "items": [
+         {
+          "_key": "i0",
+          "text": "Home",
+          "href": "/"
+         },
+         {
+          "_key": "i1",
+          "text": "Our Practice",
+          "href": "/about/"
+         },
+         {
+          "_key": "i2",
+          "text": "Services",
+          "href": "/services/"
+         },
+         {
+          "_key": "i3",
+          "text": "Patient Resources"
+         },
+         {
+          "_key": "i4",
+          "text": "New Patient Offer"
+         },
+         {
+          "_key": "i5",
+          "text": "Emergency Dental"
+         },
+         {
+          "_key": "i6",
+          "text": "New Patient Spanish"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "4784c4ab",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "3e774c8c",
+        "cls": "elementor-widget__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h6",
+        "html": "Contact Information"
+       },
+       {
+        "_type": "box",
+        "_key": "94c5174",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "442815f",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h2",
+          "html": "Address:"
+         },
+         {
+          "_key": "7fa89a17",
+          "cls": "elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>27420 Tourney Rd<br/>Suite 240 Santa Clarita, CA 91355</p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "077a837",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "6f4a17f",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h2",
+          "html": "Phone:"
+         },
+         {
+          "_key": "f7fb50d",
+          "cls": "elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><a href=\"tel:6612545200\">(661) 254-5200</a></p>"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "24da983e",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "d11bb97",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "6e618b2b",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "p",
+        "html": "Copyright © 2025 Valencia Smile Expert | <a href=\"/sitemap\">Sitemap</a> | Website by: <a href=\"https://ttrdigitalmarketing.com/\" rel=\"noopener\" target=\"_blank\">TTR Digital Marketing</a>"
+       },
+       {
+        "_key": "54161570",
+        "cls": "e-grid-align-left e-grid-align-mobile-center elementor-widget-mobile__width-inherit elementor-shape-rounded elementor-grid-0 elementor-widget-social-icons",
+        "_type": "socialIcons",
+        "items": [
+         {
+          "_key": "3f1b7ac",
+          "network": "facebook-f",
+          "label": "Facebook-f",
+          "href": "https://www.facebook.com/iHeartDDS1/",
+          "icon": {
+           "svg": "e-fab-facebook-f"
+          }
+         },
+         {
+          "_key": "828f132",
+          "network": "twitter",
+          "label": "Twitter",
+          "href": "https://x.com/iHeartDDS1",
+          "icon": {
+           "svg": "e-fab-twitter"
+          }
+         },
+         {
+          "_key": "5c0ce3c",
+          "network": "",
+          "label": "",
+          "href": "https://www.instagram.com/Valenciasmileexpert/",
+          "icon": {
+           "svg": "svg-6e1611f4"
+          }
+         },
+         {
+          "_key": "8a56359",
+          "network": "linkedin-in",
+          "label": "Linkedin-in",
+          "href": "https://www.linkedin.com/in/iHeartDDS1",
+          "icon": {
+           "svg": "e-fab-linkedin-in"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "popups": {
+  "566": {
+   "postId": "566",
+   "docType": "popup",
+   "cls": "elementor elementor-566 elementor-location-popup",
+   "children": [
+    {
+     "_type": "box",
+     "_key": "f3635f3",
+     "cls": "e-flex e-con-boxed e-con e-parent",
+     "children": [
+      {
+       "_key": "23ba388",
+       "cls": "elementor-widget-heading",
+       "_type": "heading",
+       "tag": "p",
+       "html": "Request Appointment"
+      },
+      {
+       "_key": "5acbfc7",
+       "cls": "elementor-widget-html",
+       "_type": "html",
+       "html": "<iframe data-activation-type=\"alwaysActivated\" data-activation-value=\"\" data-deactivation-type=\"neverDeactivate\" data-deactivation-value=\"\" data-form-id=\"btm4moNMa4QyioPeiU4r\" data-form-name=\"Request Appointment\" data-height=\"441\" data-layout=\"{'id':'INLINE'}\" data-layout-iframe-id=\"inline-btm4moNMa4QyioPeiU4r\" data-trigger-type=\"alwaysShow\" data-trigger-value=\"\" id=\"inline-btm4moNMa4QyioPeiU4r\" src=\"https://api.leadconnectorhq.com/widget/form/btm4moNMa4QyioPeiU4r\" style=\"width:100%;height:100%;border:none;border-radius:16px\" title=\"Request Appointment\">\n</iframe>\n<script src=\"https://link.msgsndr.com/js/form_embed.js\"></script>"
+      }
+     ]
+    }
+   ],
+   "popupSettings": {
+    "open_selector": ".header-btn",
+    "a11y_navigation": "yes",
+    "triggers": [],
+    "timing": []
+   }
+  },
+  "835": {
+   "postId": "835",
+   "docType": "popup",
+   "cls": "elementor elementor-835 elementor-location-popup",
+   "children": [
+    {
+     "_type": "box",
+     "_key": "434d6658",
+     "cls": "e-flex e-con-boxed e-con e-parent",
+     "children": [
+      {
+       "_key": "1bda6259",
+       "cls": "elementor-widget-heading",
+       "_type": "heading",
+       "tag": "p",
+       "html": "Request Appointment"
+      },
+      {
+       "_key": "3c2b27f9",
+       "cls": "elementor-button-align-stretch elementor-widget-form",
+       "_type": "form",
+       "name": "Request Appointment",
+       "fields": [
+        {
+         "_key": "f0",
+         "groupCls": "elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required",
+         "label": "Full Name*",
+         "tag": "input",
+         "attrs": {
+          "size": "1",
+          "type": "text",
+          "name": "form_fields[name]",
+          "id": "form-field-name",
+          "class": "elementor-field elementor-size-md elementor-field-textual",
+          "placeholder": "Your Name",
+          "required": "required"
+         },
+         "button": null
+        },
+        {
+         "_key": "f1",
+         "groupCls": "elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_6cb1c66 elementor-col-100 elementor-field-required",
+         "label": "Phone*",
+         "tag": "input",
+         "attrs": {
+          "size": "1",
+          "type": "tel",
+          "name": "form_fields[field_6cb1c66]",
+          "id": "form-field-field_6cb1c66",
+          "class": "elementor-field elementor-size-md elementor-field-textual",
+          "placeholder": "Phone Number",
+          "required": "required",
+          "pattern": "[0-9()#&+*-=.]+",
+          "title": "Only numbers and phone characters (#, -, *, etc) are accepted."
+         },
+         "button": null
+        },
+        {
+         "_key": "f2",
+         "groupCls": "elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required",
+         "label": "Your Email*",
+         "tag": "input",
+         "attrs": {
+          "size": "1",
+          "type": "email",
+          "name": "form_fields[email]",
+          "id": "form-field-email",
+          "class": "elementor-field elementor-size-md elementor-field-textual",
+          "placeholder": "Email",
+          "required": "required"
+         },
+         "button": null
+        },
+        {
+         "_key": "f3",
+         "groupCls": "elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100",
+         "label": "Comment",
+         "tag": "textarea",
+         "attrs": {
+          "class": "elementor-field-textual elementor-field elementor-size-md",
+          "name": "form_fields[message]",
+          "id": "form-field-message",
+          "rows": "2",
+          "placeholder": "Write your comment here"
+         },
+         "button": null
+        },
+        {
+         "_key": "f4",
+         "groupCls": "elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons",
+         "label": "",
+         "tag": "button",
+         "attrs": {
+          "class": "elementor-button elementor-size-sm",
+          "type": "submit"
+         },
+         "button": "<span class=\"elementor-button-content-wrapper\">\n<span class=\"elementor-button-text\">Request Appointment</span>\n</span>"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "popupSettings": {
+    "open_selector": ".header-btn",
+    "a11y_navigation": "yes",
+    "timing": []
+   }
+  }
+ }
+}

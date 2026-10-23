@@ -1,0 +1,984 @@
+{
+ "slug": "services__cosmetic-dentistry__teeth-whitening",
+ "path": "/services/cosmetic-dentistry/teeth-whitening/",
+ "seo": {
+  "title": "Teeth Whitening in Santa Clarita | Valencia Smile Expert",
+  "description": "Explore Valencia Smile Expert's top-rated Teeth Whitening in Santa Clarita—modern care, advanced technology, and 1-on-1 personalized treatment. Book today.",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1177 page-child parent-pageid-1136 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1177 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1177",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1177",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "172f85b8",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "433ec7b7",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "79bfaf9c",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "744e4d58",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Teeth Whitening Santa Clarita – Safe, Effective, and Dentist-Approved"
+         },
+         {
+          "_key": "5ea2e884",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Skip the store-bought strips—experience real results with enamel-safe treatments from Valencia Smile Expert.</p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "1f364e8f",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5b1a4abb",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "207c29ed",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "5575a0ff",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "95382c5",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Reveal a Brighter Smile with Teeth Whitening in Santa Clarita"
+       },
+       {
+        "_key": "48578223",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>If your smile has lost its sparkle due to coffee, wine, or everyday wear, professional teeth whitening in Santa Clarita can help you regain that fresh, confident look. At Valencia Smile Expert, we offer safe, customized whitening treatments that lift stains, even out discoloration, and brighten your teeth—often in just one visit. Whether you’re prepping for a big event or simply want to feel more confident, our dentist-guided approach ensures effective results without sensitivity.</p>"
+       },
+       {
+        "_key": "17540e24",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Schedule Your Teeth Whitening Today",
+        "href": "#popup-835",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "2cff348e",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "b9b438d",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "5b545788",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     },
+     {
+      "_type": "box",
+      "_key": "572d313",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "6114059a",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "What Makes Our <span style=\"color: #366797\">Whitening Treatments</span> Different"
+       },
+       {
+        "_key": "f9be01c",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>At Valencia Smile Expert, we don’t believe in one-size-fits-all solutions. Our whitening treatments are customized to your unique smile goals and sensitivity levels. Using professional-grade whitening agents and advanced techniques, we can safely remove deep-set stains while protecting your enamel and gum health.</p><p>We offer:</p>"
+       },
+       {
+        "_type": "box",
+        "_key": "7f0a1ea8",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "27384fa2",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>In-office whitening</b> for fast, dramatic results",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i1",
+            "text": "<b>Custom take-home trays</b> for flexible, gradual whitening",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i2",
+            "text": "<b>Combination plans</b> for long-term brightness and maintenance",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "5e2be2c5",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Whether you’re dealing with discoloration from coffee, tobacco, wine, or age, our treatments are designed to deliver a noticeably brighter smile with little to no sensitivity.</p>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "1a22b64a",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "1ca0840d",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "1b14aed3",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "<span style=\"color: #366797\">Teeth Whitening</span> Options at Valencia Smile Expert"
+       },
+       {
+        "_key": "6bea638",
+        "cls": "eael-dt-th-align-center eael-table-align-center elementor-widget-eael-data-table",
+        "_type": "table",
+        "head": [
+         "Whitening Option",
+         "Best For",
+         "Treatment Time",
+         "Results Timeline",
+         "Includes"
+        ],
+        "rows": [
+         {
+          "_key": "r0",
+          "cells": [
+           "<b>In-Office Whitening</b>",
+           "Quick, dramatic results",
+           "~1 Hour",
+           "Immediate",
+           "Professional application, high-concentration gel"
+          ]
+         },
+         {
+          "_key": "r1",
+          "cells": [
+           "<b>Take-Home Trays</b>",
+           "Flexible, gradual whitening",
+           "30–60 min/day for 1–2 weeks",
+           "7–14 days",
+           "Custom trays, professional gel"
+          ]
+         },
+         {
+          "_key": "r2",
+          "cells": [
+           "<b>Combo Whitening Plan</b>",
+           "Long-term results & maintenance",
+           "In-office + at-home use",
+           "Immediate + lasting",
+           "In-office boost + take-home kit"
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "671b168d",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "23f1645",
+      "cls": "elementor-widget__width-initial elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose <span style=\"color:#366797\">Valencia Smile Expert</span> for Teeth Whitening?"
+     },
+     {
+      "_key": "698948a2",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>Your smile deserves expert care—and that’s exactly what we deliver. Patients throughout Santa Clarita trust us not just for visible results, but for our personalized, enamel-safe approach to cosmetic whitening. Here’s why patients love whitening with us:</p>"
+     },
+     {
+      "_key": "1224ad9",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "59a5311a",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "3dfa800e",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Customized care",
+          "descTag": "p",
+          "desc": "Customized care for your shade goals and sensitivity leve"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "692cd62f",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "49bd10f8",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-5180bb2e"
+          },
+          "titleTag": "p",
+          "title": "Safe, dental-grade materials",
+          "descTag": "p",
+          "desc": "Safe, dental-grade materials approved by top cosmetic dentists"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "1b4e476e",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "4990d081",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-29af3ae4"
+          },
+          "titleTag": "p",
+          "title": "Minimal sensitivity",
+          "descTag": "p",
+          "desc": "Minimal sensitivity thanks to advanced formulas and techniques"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "1afe7577",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "22acfb0b",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-543ab953"
+          },
+          "titleTag": "p",
+          "title": "Real results",
+          "descTag": "p",
+          "desc": "Real results that go beyond what store-bought kits can deliver"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "147e0c5e",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "7bf2fb9b",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "p",
+          "title": "Expert guidance",
+          "descTag": "p",
+          "desc": "Expert guidance every step of the way—from consultation to follow-up"
+         }
+        ]
+       }
+      ],
+      "ariaLive": "polite",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #4",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #5",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5316eeb3",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "4829020c",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "176bdba3",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Is <span style=\"color: #366797\">Professional Whitening</span> Right for You?"
+       },
+       {
+        "_key": "2ee130ff",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>If your teeth are yellowed, stained, or simply not as bright as they used to be, professional whitening may be a great fit. At Valencia Smile Expert, we begin every treatment with a thorough evaluation to ensure whitening is safe and effective for your smile.</p><p><strong style=\"color: #000;\">You’re likely a good candidate if:</strong></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "1eb9f117",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "721785fa",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "You have surface stains from coffee, tea, wine, or tobacco",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i1",
+            "text": "Your teeth are healthy and free of untreated decay or gum disease",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i2",
+            "text": "You want fast, noticeable results without damaging your enamel",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i3",
+            "text": "You’re looking for a long-term solution—not just a quick fix",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "2243e2",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5cc6e41b",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "23b5af02",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "How Our Whitening Process Works"
+     },
+     {
+      "_key": "35f21f53",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>We make whitening simple, safe, and tailored to your smile. Whether you choose an in-office treatment or a take-home plan, our process is designed for results you’ll see—and feel—fast.</p>"
+     },
+     {
+      "_key": "5bd7c01e",
+      "cls": "elementor-hidden-mobile elementor-widget-image",
+      "_type": "image",
+      "img": {
+       "src": "/images/uploads/2025/07/line-background.svg",
+       "width": 928,
+       "height": 228,
+       "cls": "attachment-full size-full wp-image-1023",
+       "alt": ""
+      }
+     },
+     {
+      "_type": "box",
+      "_key": "2e8abc6d",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "56cf27b0",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "7836931e",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/1-image.png",
+           "width": 58,
+           "height": 134,
+           "cls": "attachment-full size-full wp-image-1024",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Consultation & Shade Match",
+          "desc": "We’ll evaluate your teeth, discuss your goals, and determine the current shade. This helps us set realistic expectations and customize your treatment plan."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "7686da0",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5a4f508a",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/2-image.png",
+           "width": 102,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1025",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Whitening Treatment",
+          "desc": "Your whitening procedure is performed in-office using professional-grade gel, or you’ll be fitted for custom take-home trays. All products are enamel-safe and sensitivity-conscious."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "147cc8a6",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "14328e8f",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/3-image.png",
+           "width": 104,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1026",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Aftercare & Results Monitoring",
+          "desc": "We’ll provide tips to help you maintain your results and avoid common stain-causing habits. You’ll also have the option to schedule touch-ups or receive additional gel for at-home use."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2bb63c56",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "4b4f0a98",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "7969e3bd",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "6efd1d49",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Book Your Veneers Consultation Today"
+         },
+         {
+          "_key": "4ef72c4a",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Ready to enhance your smile with natural-looking veneers? At Valencia Smile Expert, we’re here to guide you every step of the way with personalized care, advanced technology, and results that speak for themselves. Whether you’re just exploring your options or ready to get started, we’re here to help you smile with confidence. Discover the difference that expertly crafted veneers in Santa Clarita can make.</p>"
+         },
+         {
+          "_type": "box",
+          "_key": "1fe867de",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "3c27f7b2",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Your Veneers Consultation",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "7f9941f6",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "52a12b8",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit <span style=\"color:#366797\">Valencia Smile Expert</span> in Santa Clarita"
+     },
+     {
+      "_type": "box",
+      "_key": "247cabc2",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "5c349050",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "34ae4df6",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "4c78bc34",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "1f3e2860",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "20a7615e",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "4fb6b175",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "1efeac8d",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "5eb9abcd",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "43b089af",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "5bf55fb6",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "2318805f",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4d2194be",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "76be9039",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "30ced357",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "48a181f1",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "15b1db",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "6f808e31",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "54ff8dbc",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "23bb3c8a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "6cf07852",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2a44dbe7",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "7d3c3e51",
+      "cls": "elementor-widget__width-initial elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "Frequently Asked Questions About <span style=\"color:#366797\">Teeth Whitening</span>"
+     },
+     {
+      "_key": "1c7c7d31",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "42c53c6f",
+        "title": "How long do teeth whitening results last?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "42c53c6f",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "1b3e1574",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Results can last anywhere from 6 months to 2 years depending on your oral hygiene, diet, and lifestyle habits. Avoiding coffee, red wine, and tobacco can help extend your results.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "4851e60d",
+        "title": "Will my teeth be sensitive afterward?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "4851e60d",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "2c9219aa",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Some patients experience mild sensitivity, but our treatments are designed to minimize discomfort. We’ll also recommend aftercare tips and products to help reduce any sensitivity.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "3ea233b2",
+        "title": "Is professional whitening better than over-the-counter options?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "3ea233b2",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "3bc8dca8",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Yes. Professional treatments use stronger, dentist-supervised formulas that remove deeper stains and deliver faster, longer-lasting results without damaging enamel.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "246a6674",
+        "title": "Is teeth whitening safe?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "246a6674",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "6981d34c",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>When performed under dental supervision, whitening is completely safe for your teeth and gums. Learn more about safety recommendations from the Cleveland Clinic.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "1c552253",
+        "title": "How white will my teeth get?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "1c552253",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "43021cd9",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Whitening results vary by individual, but most patients see a 2–8 shade improvement. We’ll give you a realistic expectation based on your current tooth color and type of staining.</p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

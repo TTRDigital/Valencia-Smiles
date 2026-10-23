@@ -1,0 +1,1819 @@
+{
+ "slug": "services__oral-surgery__all-on-4-implants",
+ "path": "/services/oral-surgery/all-on-4-implants/",
+ "seo": {
+  "title": "All-on-4 Implants in Santa Clarita | Valencia Smile Expert",
+  "description": "Explore Valencia Smile Expert's top-rated All-on-4 Implants in Santa Clarita—modern care, advanced technology, and 1-on-1 personalized treatment. Book today.",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1043 page-child parent-pageid-1015 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1043 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1043",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1043",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "7ac9abd7",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "3cd7ce5a",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "7269d886",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "4669a8b0",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "All-On-X Dental Implants in Santa Clarita"
+         },
+         {
+          "_key": "5876194f",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "Regain a Full Smile with Just Four Implants—Led by Dr. Moezzi"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "594be0e7",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "6cc37ef3",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "38d006e5",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "7c0b2ffe",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "689c58ff",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Confident, Comfortable Smiles Start Here"
+       },
+       {
+        "_key": "4502a7ef",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Missing most or all of your teeth doesn’t mean you have to settle for loose dentures or multiple surgeries. At Valencia Smile Expert, we offer </span><i><span style=\"font-weight: 400;\">All-On-X dental implants in Santa Clarita</span></i><span style=\"font-weight: 400;\">—a revolutionary full-arch restoration that gives you a permanent, natural-looking smile using just four implants per jaw. Led by Dr. Moezzi, our team combines advanced technology, gentle care, and personalized attention to deliver same-day results that look and feel like your real teeth. If you’re ready to reclaim your bite, your confidence, and your quality of life, All-On-X may be the solution you’ve been waiting for.</span></p>"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "4cda5b2b",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "82d7193",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/valencia-photo-4.png",
+         "width": 647,
+         "height": 575,
+         "cls": "attachment-full size-full wp-image-1019",
+         "alt": "",
+         "sizes": "(max-width: 647px) 100vw, 647px"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "1749968c",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "154e6aad",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "7c0e0254",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "What Are All-On-X <span style=\"color: #366797\">Dental Implants?</span>"
+       },
+       {
+        "_key": "7441596d",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>All-On-X dental implants are a full-arch restoration solution that replaces an entire row of missing or failing teeth using just four strategically placed implants. Instead of placing an implant for every single tooth, this innovative approach uses the front implants vertically and the back implants at an angle to maximize contact with the jawbone—often eliminating the need for bone grafting. It’s a streamlined, stable, and long-lasting solution ideal for patients looking to transition away from removable dentures or restore their smile after significant tooth loss.</p>"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "26a78003",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "9c6faac",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "66f23eee",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "4b9ea174",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Key Benefits of All-On-X:"
+       },
+       {
+        "_key": "4d677ac7",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "3cc09982",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "3a39f492",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "descTag": "p",
+            "desc": "Immediate function with same-day temporary teeth"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "30984689",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "778fead7",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "descTag": "p",
+            "desc": "Fewer implants, less invasive than traditional full-mouth solutions"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2df31",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "f3daf97",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "descTag": "p",
+            "desc": "Often avoids bone grafting"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "6e379319",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "25042efc",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "descTag": "p",
+            "desc": "Fixed (non-removable) for superior stability and confidence"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "fec3b36",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "5c672ab0",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "descTag": "p",
+            "desc": "Natural look, feel, and bite function"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "65f0e58f",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "6b7eb8e8",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "descTag": "p",
+            "desc": "Easy to maintain with regular oral hygiene and dental checkups"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "fe451ee"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "23aa0df6",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "1d8c57eb",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "476a7e32",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Are You a Candidate for <span style=\"color: #366797\">All-On-X?</span>"
+       },
+       {
+        "_key": "7cf4bb06",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Many patients who have been told they’re not eligible for traditional implants due to bone loss are excellent candidates for All-On-X. This technique is designed to work with existing bone structure and provide a long-lasting solution—even if you’ve worn dentures for years.</p>"
+       },
+       {
+        "_type": "box",
+        "_key": "6c5f21da",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "3a111358",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Are missing most or all of your upper or lower teeth",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i1",
+            "text": "Struggle with loose or uncomfortable dentures",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i2",
+            "text": "Have failing teeth due to decay, trauma, or gum disease",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i3",
+            "text": "Have been told you need bone grafting for traditional implants",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i4",
+            "text": "Are in good overall health and can undergo minor oral surgery",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i5",
+            "text": "Want a permanent, natural-feeling alternative to dentures",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "19a05601",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><strong>During your consultation, Dr. Moezzi will assess your oral health, review digital scans, and help you decide if All-On-X is the best option for your smile and lifestyle.</strong></p>"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "45c83191",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "92388ed",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "108ef9aa",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "What to Expect: The <span style=\"color: #366797\">All-On-X</span> Treatment Process"
+     },
+     {
+      "_key": "409224c7",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">At </span><a href=\"/about/\"><span style=\"font-weight: 400;\">Valencia Smile Expert</span></a><span style=\"font-weight: 400;\">, we make the All-On-X experience as smooth and stress-free as possible. From your initial scan to the moment you walk out with a brand-new smile, our team is here to guide you every step of the way.</span></p>"
+     },
+     {
+      "_key": "7c63b390",
+      "cls": "elementor-hidden-mobile elementor-widget-image",
+      "_type": "image",
+      "img": {
+       "src": "/images/uploads/2025/07/line-background.svg",
+       "width": 928,
+       "height": 228,
+       "cls": "attachment-full size-full wp-image-1023",
+       "alt": ""
+      }
+     },
+     {
+      "_type": "box",
+      "_key": "26db55f3",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "7d6153bb",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "100105a8",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/1-image.png",
+           "width": 58,
+           "height": 134,
+           "cls": "attachment-full size-full wp-image-1024",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Consultation & Digital Imaging",
+          "desc": "We begin with a thorough exam, 3D CBCT scan, and full discussion of your goals. Dr. Moezzi evaluates your bone structure and designs a personalized surgical plan for precise implant placement."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "36d94582",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "6950dac9",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/2-image.png",
+           "width": 102,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1025",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Implant Placement & Temporary Restoration",
+          "desc": "On procedure day, four implants are placed in the jaw—two in front, two angled in the back. A custom, same-day temporary bridge is secured so you leave the office with a functional, beautiful smile."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "1fdfabdc",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "67816114",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/3-image.png",
+           "width": 104,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1026",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Healing & Final Prosthetic",
+          "desc": "Over the next few months, the implants integrate with your jawbone. Once fully healed, we replace your temporary bridge with a permanent, custom-designed prosthetic that looks and functions like natural teeth."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "66f38feb",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "14a9c82c",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "Before & After <span style=\"color: #366797\">All-On-X</span>: How to Prepare and Recover"
+     },
+     {
+      "_key": "18bd8be1",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>A successful All-On-X experience starts with thoughtful preparation and ends with proper post-op care. At Valencia Smile Expert, we provide clear guidance before and after your procedure so you can heal quickly and confidently.</p>"
+     },
+     {
+      "_type": "box",
+      "_key": "6e5e8255",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "5bea78ab",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "25de22b4",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Before Your Procedure:"
+         },
+         {
+          "_type": "box",
+          "_key": "399e41a0",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "45e3f7c3",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/implant-before-image.png",
+             "width": 599,
+             "height": 351,
+             "cls": "attachment-full size-full wp-image-1027",
+             "alt": "",
+             "sizes": "auto, (max-width: 599px) 100vw, 599px"
+            }
+           },
+           {
+            "_key": "60c936cd",
+            "cls": "elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+            "_type": "iconList",
+            "items": [
+             {
+              "_key": "i0",
+              "text": "<b>Avoid smoking</b> for at least a week beforehand, as it can hinder healing",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i1",
+              "text": "<b>Follow fasting instructions</b> if sedation is being used",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i2",
+              "text": "<b>Disclose all medications</b> and medical conditions during your consultation",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i3",
+              "text": "<b>Arrange for someone to drive you home</b> if sedation will be administered",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i4",
+              "text": "<b>Maintain excellent oral hygiene</b> leading up to the procedure",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "47b157fe",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "1a5fc44",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "After Your Procedure:"
+         },
+         {
+          "_type": "box",
+          "_key": "5fe2cc21",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "20bc22e2",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/implant-after-image.png",
+             "width": 599,
+             "height": 351,
+             "cls": "attachment-full size-full wp-image-1028",
+             "alt": "",
+             "sizes": "auto, (max-width: 599px) 100vw, 599px"
+            }
+           },
+           {
+            "_key": "46318f3f",
+            "cls": "elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+            "_type": "iconList",
+            "items": [
+             {
+              "_key": "i0",
+              "text": "<b>Rest for 24–48 hours</b> and avoid strenuous activity",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i1",
+              "text": "<b>Stick to soft foods</b> like smoothies, mashed vegetables, and scrambled eggs",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i2",
+              "text": "<b>Use prescribed medications</b> as directed to manage swelling or discomfort",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i3",
+              "text": "<b>Do not smoke, drink through a straw, or spit forcefully</b> during early recovery",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i4",
+              "text": "<b>Clean gently</b> around the surgical area with saltwater rinses and a soft brush",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i5",
+              "text": "<b>Attend follow-up appointments</b> so we can monitor healing and progress",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "755b8389",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "1660a797",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose <span style=\"color:#366797\">Valencia Smile Expert</span> for All-On-X Dental Implants?"
+     },
+     {
+      "_key": "6f9e1276",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "At Valencia Smile Expert, we understand that full-mouth restoration is a major decision. That’s why we focus on making the process clear, comfortable, and confidence-boosting—backed by expert care from a doctor you can trust."
+     },
+     {
+      "_key": "7dd66ccf",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "460db8a0",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "4cfeb1ab",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-29af3ae4"
+          },
+          "titleTag": "p",
+          "title": "Specialized, Doctor-Led Implant Care",
+          "descTag": "p",
+          "desc": "Dr. Moezzi personally performs every All-On-4 procedure with precision and compassion. You’ll work directly with her from consultation through final restoration."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "5345a720",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "64556487",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Advanced Technology for Better Outcomes",
+          "descTag": "p",
+          "desc": "From CBCT 3D imaging to guided implant placement and PRF therapy for faster healing, we use the latest tools to ensure accuracy and success."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "32873869",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "1e422287",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-a53f1c1a"
+          },
+          "titleTag": "p",
+          "title": "Same-Day Smiles with Fewer Appointments",
+          "descTag": "p",
+          "desc": "Our All-On-4 patients leave the office with a secure, natural-looking temporary bridge the same day their implants are placed."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "2dc6ec08",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "74acfa17",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-543ab953"
+          },
+          "titleTag": "p",
+          "title": "Comfort-First Philosophy",
+          "descTag": "p",
+          "desc": "We offer multiple sedation options, a gentle approach, and a calm, supportive environment to help even the most anxious patients feel at ease."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "20c21071",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "25a53b3",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f6859af4"
+          },
+          "titleTag": "p",
+          "title": "Transparent Pricing & Supportive Financing",
+          "descTag": "p",
+          "desc": "No surprise fees. We explain every step and help maximize insurance benefits while offering flexible payment options to make treatment accessible."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "off",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "autoplay": "yes",
+       "autoplay_speed": 5000,
+       "pause_on_hover": "yes",
+       "pause_on_interaction": "yes",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "19ac85cf",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "1e68bb32",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "41e9e0d2",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "Real Patient Testimonials"
+       },
+       {
+        "_type": "box",
+        "_key": "3a56e289",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "7f36ed0e",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "5ecc7c18",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p><img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/05/logos_google.png\" width=\"93\"/> Rating</p>"
+           },
+           {
+            "_key": "282fd2f2",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7a4d96d6",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "698fcff7",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "33d35f63",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "eac3a0b",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "37fd038",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "4d9398bb",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "57b03feb",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "6988dd6d",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "467be464",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "49361973",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "16e9006b",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "39874455",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7cf43a5e",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "3b185fe8",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "6ca7cc35",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "675b0a8d",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "560f51b8",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "5b61a62",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "3f2350ee",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "5b3b1bec",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "7992c060",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "64e659b8",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "79593f8c",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "7a6a04d0",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "76b0ef24",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "bf7124f",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "76eac843",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "5c6012dc",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "2cace331",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "730ea837",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "5ac34ee1",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "5b6c359a",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "682a7f7",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "4ab56570",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "66f2790e",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "4024761",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "7eaca68",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "2da6fbb8",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "7b15aae7",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4cb171ac",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "6b44cc53",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "91959b8",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "5040476f",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "4daaaf80",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "7b94e326",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "45d77064",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "41303401",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "7b4b4646",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "3b282afd",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6e321e98",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "739183e0",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5a04cedf",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Schedule Your <span style=\"color:#366797\">All-On-X </span>Consultation in Santa Clarita Today"
+         },
+         {
+          "_key": "1636d117",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>If you’re ready to regain the confidence to smile, speak, and eat without hesitation, All-On-X dental implants at Valencia Smile Expert offer a streamlined, life-changing solution. Dr. Moezzi and our experienced team are here to guide you every step of the way—from your initial consultation to the moment your final smile is complete. Schedule your dental implant consultation today!</p>"
+         },
+         {
+          "_type": "box",
+          "_key": "7bee53da",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "1e557504",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Take the next step toward relief and restored oral health.",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "4f95f57a",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "7258d9df",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "<span style=\"color:#366797\">All-On-X</span> Dental Implant FAQs"
+     },
+     {
+      "_key": "3a23a838",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "459ea22",
+        "title": "What makes All-On-X different from traditional dental implants?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "459ea22",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "6007b0b0",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">All-On-X uses just four implants to support a full arch of teeth, while traditional implants may require 6–8 per arch and sometimes bone grafting. This technique is more efficient, often less invasive, and allows for same-day temporary teeth.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "4805b726",
+        "title": "How long do All-On-X implants last?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "4805b726",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "aefdfeb",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">With proper care, All-On-X dental implants can last 20 years or more. Good oral hygiene and routine dental visits are key to long-term success.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "46f46730",
+        "title": "Does the procedure hurt?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "46f46730",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "a821799",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">The procedure is performed under local anesthesia with optional sedation. Most patients report minimal discomfort afterward, which can be managed with over-the-counter or prescribed medication.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "48401848",
+        "title": "Can I eat normally with All-On-X implants?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "48401848",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "8638183",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Yes. After the healing phase and placement of your final prosthesis, you’ll be able to enjoy nearly all your favorite foods again—with improved bite strength and stability.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "642e70ad",
+        "title": "Am I too old for All-On-X implants?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "642e70ad",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "5839dfd0",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Age isn’t usually a limiting factor. As long as you’re healthy enough for oral surgery and don’t have uncontrolled conditions (like diabetes or osteoporosis), you may be a candidate.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "438ed014",
+        "title": "How much do All-On-X implants cost?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "438ed014",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "b83a0a0",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Costs vary based on case complexity, arch (upper, lower, or both), and materials used. We provide transparent pricing and financing options after your consultation.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "2eb8a67b",
+        "title": "Do I need bone grafting for All-On-X?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "2eb8a67b",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "14f0facb",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\"> In many cases, no. All-On-X is specifically designed to maximize available bone, even in patients with some bone loss.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "557ddc5b",
+        "title": "Where can I learn more about dental implants?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "557ddc5b",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "4579d9bf",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\"> For a deeper understanding of dental implant procedures and their benefits, visit the </span><a href=\"https://www.aaid.com/about/what-are-dental-implants.html\"><span style=\"font-weight: 400;\">American Academy of Implant Dentistry</span></a><span style=\"font-weight: 400;\"> or give us a call to schedule your consultation.</span></p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "ea43bd0",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "30c65676",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita"
+     },
+     {
+      "_type": "box",
+      "_key": "7085c209",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "56193327",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "733fd7b8",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "2dbc65f4",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "34c5117e",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "62ebf8eb",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "71e3f049",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "ee418fb",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "182824f2",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7e2d7a72",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "6beb2f4a",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "43d4164d",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "c28773e",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "3f0c9fce",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "38b0934a",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "57245b75",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "6c0faef0",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3538bf9b",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "5e962e61",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3ae5d3cb",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7f37d9eb",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

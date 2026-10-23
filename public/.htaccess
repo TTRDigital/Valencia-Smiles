@@ -1,0 +1,226 @@
+# Valencia Smile Expert: static Next.js export on SiteGround (Apache).
+# Does what WordPress and a Node server did: canonical host, old WordPress
+# addresses, trailing slashes, security headers, caching, compression, 404s.
+# Generated from the live WordPress site's data (Oct 23, 2026); to change a
+# redirect, edit its line (keep redirects above the trailing-slash rule).
+
+Options -Indexes
+DirectoryIndex index.html index.php
+# The trailing slash is added by a rewrite below (on https), not by Apache.
+DirectorySlash Off
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # One address: https://www.valenciasmileexpert.com (as on the live site).
+  # The bare domain, the SiteGround temporary address (*.sg-host.com) and http all go there.
+  # (also turn on "HTTPS Enforce" in SiteGround Site Tools > Security > SSL Manager)
+  # A staging copy (STAGING_HOST below, e.g. staging.valenciasmileexpert.com) is left on its own address.
+  RewriteCond %{HTTP_HOST} !^www\.valenciasmileexpert\.com$ [NC]
+  RewriteCond %{HTTP_HOST} !^staging\d*\.valenciasmileexpert\.com$ [NC]
+  RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1)(:\d+)?$ [NC]
+  RewriteRule ^(.*)$ https://www.valenciasmileexpert.com/$1 [R=301,L]
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https [NC]
+  RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1)(:\d+)?$ [NC]
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+  # ---- Old WordPress addresses (keep above the slash rule) ----
+  # WordPress's own old-address redirect, kept.
+  RewriteRule ^dental-implants/?$ https://%{HTTP_HOST}/services/dental-implants/ [R=301,L,NC]
+  # Author archives: Dr. Moezzi's to the About page, the two staff accounts' (no posts) to the blog.
+  RewriteRule ^author/nedamoezzi(?:/page/\d+)?/?$ https://%{HTTP_HOST}/about/ [R=301,L,NC]
+  RewriteRule ^author/[^/]+(?:/page/\d+)?/?$ https://%{HTTP_HOST}/category/blogs/ [R=301,L,NC]
+  # Blog pages past the last one, and /index.php.
+  RewriteRule ^index\.php$ https://%{HTTP_HOST}/ [R=301,L,NC]
+
+  # ?page_id= / ?p= short links: 301 to the page or post, query dropped.
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=3(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/privacy-policy/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=12(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=175(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=176(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/testimonials/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=177(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/contact/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=392(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/about/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=847(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/thank-you/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1015(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/oral-surgery/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1043(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/oral-surgery/all-on-4-implants/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1050(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/oral-surgery/tooth-extractions/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1057(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/oral-surgery/bone-grafting/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1066(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/oral-surgery/wisdom-teeth-removal/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1086(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/dental-implants/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1092(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/sitemap/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1136(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/cosmetic-dentistry/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1159(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/cosmetic-dentistry/veneers/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1177(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/cosmetic-dentistry/teeth-whitening/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1219(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/cosmetic-dentistry/invisalign/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1221(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/restorative-dentistry/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1223(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/cosmetic-dentistry/composite-filling/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1284(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/tmj-treatments/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1297(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/restorative-dentistry/dental-bridges/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1315(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/dental-crowns/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1334(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/services/holistic-dentistry/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1351(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/terms-and-services/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1367(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/appointment/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1401(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/why-choose-valencia-smile-what-to-expect-on-your-first-visit/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1413(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/why-regular-dental-cleanings-matter-health-cost-how-often-to-come-dental-cleaning-valencia/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1441(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/top-5-cosmetic-dentistry-procedures/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1448(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/dental-implants-valencia-cost-guide/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1451(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/dental-implants-vs-dentures/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1456(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/how-long-do-dental-implants-take/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1459(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/do-dental-implants-hurt-recovery-pain-healing-guide/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1462(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/best-foods-after-dental-implant-surgery/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1465(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/dental-implants-for-seniors-safety-success/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1558(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/dental-implants-cost/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1562(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/delay-replacing-missing-tooth-risks-costs/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1565(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/what-is-all-on-x-complete-guide/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1568(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/all-on-x-vs-dentures-complete-guide/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1571(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/all-on-x-recovery-timeline/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1574(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/bone-grafting-for-dental-implants-guide/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1577(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/bone-grafting-healing-timeline/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1580(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/bone-grafting-is-it-painful/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1583(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/when-is-tooth-extraction-necessary/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1586(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/tooth-extraction-healing-diet-guide/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1589(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/is-tooth-extraction-painful/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1592(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/dental-bridge-vs-implant-guide/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1596(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/how-long-do-dental-bridge-last/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1599(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/dental-bridge-cost-guide/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1602(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/dental-crowns-cost-santa-clarita-prices-guide/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1605(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/how-long-do-dental-crowns-last/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1608(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/crown-vs-filling-dental-crown-guide/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1732(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/dental-implants-for-one-missing-tooth/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1735(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/dental-implant-timeline/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1738(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/candidate-for-dental-implants/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:page_id|p)=1741(?:&|$)
+  RewriteRule ^(?:index\.php)?$ https://www.valenciasmileexpert.com/dental-implants-with-bone-loss/ [R=301,L,QSD]
+
+  # Old uploaded images (any WordPress size, e.g. -300x200) to the same file on this site.
+  RewriteCond %{DOCUMENT_ROOT}/images/uploads/$1.$2 -f
+  RewriteRule ^wp-content/uploads/(.+?)(?:-\d+x\d+)?\.(png|jpe?g|webp|gif|svg)$ https://%{HTTP_HOST}/images/uploads/$1.$2 [R=301,L,NC]
+
+  # WordPress sitemaps.
+  RewriteRule ^(?:sitemap_index|wp-sitemap|[a-z_-]+-sitemap\d*|wp-sitemap-[a-z0-9_-]+)\.xml$ https://%{HTTP_HOST}/sitemap.xml [R=301,L,NC]
+  RewriteCond %{QUERY_STRING} (?:^|&)sitemap= [NC]
+  RewriteRule ^(?:index\.php)?$ https://%{HTTP_HOST}/sitemap.xml [R=301,L,QSD]
+
+  # WordPress-only addresses that no longer exist: 410 Gone, so search engines drop them.
+  RewriteRule ^(?:wp-admin|wp-includes|wp-json|wp-content)(?:/|$) - [G,L,NC]
+  RewriteRule ^(?:wp-login|xmlrpc|wp-cron|wp-signup|wp-trackback|wp-comments-post|wp-links-opml)\.php$ - [G,L,NC]
+  RewriteRule ^(?:.+/)?(?:feed|trackback|embed)(?:/(?:rss2?|atom|rdf))?/?$ - [G,L,NC]
+  RewriteRule ^comments/ - [G,L,NC]
+  RewriteCond %{QUERY_STRING} (?:^|&)(?:rest_route|feed|attachment_id|replytocom)= [NC]
+  RewriteRule ^(?:index\.php)?$ - [G,L]
+  # ---- end of old WordPress addresses ----
+
+  # Pages live at /page/ (page/index.html): add the missing slash, on https
+  # (absolute, so visitors behind SiteGround's proxy are not bounced through http).
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^(.*[^/])$ https://%{HTTP_HOST}/$1/ [R=301,L]
+
+  # The Sanity Studio is one page; its inner URLs (/cms/structure/...) load it.
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^cms/. /cms/index.html [L]
+</IfModule>
+
+# The upload tool's file list is never served.
+<FilesMatch "^\.ftp-deploy-sync-state\.json$">
+  Require all denied
+</FilesMatch>
+
+<IfModule mod_headers.c>
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), browsing-topics=()"
+  Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains"
+  # A staging copy is never indexed.
+  <If "%{HTTP_HOST} =~ /^staging\d*\./i">
+    Header always set X-Robots-Tag "noindex, nofollow"
+  </If>
+
+  # Content security policy: only what the pages load. Third parties: Google Tag Manager and
+  # Analytics, Ahrefs Web Analytics, the GoHighLevel (LeadConnector) form and calendar embeds,
+  # Google Maps embeds, Sanity images. Tags added in GTM that load other scripts need their
+  # domains added here.
+  # The studio at /cms talks to many Sanity hosts and is protected by Sanity login instead.
+  <If "%{REQUEST_URI} !~ m#^/cms(/|$)#">
+    Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://*.googletagmanager.com https://www.google-analytics.com https://analytics.ahrefs.com https://link.msgsndr.com https://*.leadconnectorhq.com https://*.msgsndr.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data:; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://analytics.ahrefs.com https://*.leadconnectorhq.com https://*.msgsndr.com https://cdn.sanity.io; frame-src 'self' https://www.googletagmanager.com https://maps.google.com https://www.google.com https://api.leadconnectorhq.com https://*.leadconnectorhq.com https://*.msgsndr.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests"
+  </If>
+
+  # Caching: versioned files (?v=) and fonts for a year, photos for a month, pages always fresh.
+  <FilesMatch "\.(js|css|woff2?)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <FilesMatch "\.(webp|avif|jpe?g|png|gif|svg|ico)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+  <FilesMatch "\.(html|txt|xml)$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+  AddType font/woff2 .woff2
+  AddType text/javascript .js
+</IfModule>
+
+# Compress text files. Apache serves .js as text/javascript, so both JavaScript types are listed.
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json application/manifest+json image/svg+xml text/xml application/xml text/plain
+</IfModule>

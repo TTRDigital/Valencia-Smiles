@@ -1,0 +1,1217 @@
+{
+ "slug": "services",
+ "path": "/services/",
+ "seo": {
+  "title": "Dental Services in Santa Clarita | Valencia Smile Expert",
+  "description": "Explore Valencia Smile Expert's top-rated Dental Services in Santa Clarita—modern care, advanced technology, and 1-on-1 personalized treatment. Book today.",
+  "ogImage": "/images/uploads/2025/06/valencia-photo-3-e1749154322322.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-175 page-parent wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-175 astra-addon-4.11.0",
+ "doc": {
+  "postId": "175",
+  "docType": "wp-page",
+  "cls": "elementor elementor-175",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "af1a51d",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "42673e3",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "4781a95",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "1432faa",
+          "cls": "elementor-hidden-mobile elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Your Home <br/>\nfor Comprehensive \nValencia Dental Services"
+         },
+         {
+          "_key": "c1d7927",
+          "cls": "elementor-hidden-desktop elementor-hidden-tablet elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Your Home\nfor Comprehensive \nValencia Dental Services"
+         },
+         {
+          "_type": "box",
+          "_key": "6300a2d",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "c5d5a57",
+            "cls": "elementor-mobile-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Now",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm",
+            "icon": {
+             "svg": "svg-c4bc2883"
+            },
+            "iconAfter": false
+           },
+           {
+            "_key": "a029ba0",
+            "cls": "elementor-mobile-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Explore Our Services",
+            "href": "#services",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "b2d3cba",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "edffb5f",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/06/valencia-photo-3-e1749154322322.png",
+           "width": 770,
+           "height": 907,
+           "cls": "attachment-full size-full wp-image-892",
+           "alt": "",
+           "sizes": "(max-width: 770px) 100vw, 770px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5e7acd5",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "d066dc3",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "c30844f",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Same-day care. Trusted team."
+       },
+       {
+        "_key": "0cf8883",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "At Valencia Smile Expert, we offer Valencia dental services with a focus on comfort, connection, and long-term care. From the moment you walk through our doors, you’ll notice the difference—kind faces, honest conversations, and a full range of dental treatments designed to meet your needs at every stage of life. Santa Clarita Families and individuals alike  trust us for care that’s thorough, modern, and always personal."
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "a5ff7d6",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "6f26f72",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/06/valencia-team-photo-2.png",
+         "width": 630,
+         "height": 563,
+         "cls": "attachment-full size-full wp-image-902",
+         "alt": "",
+         "sizes": "(max-width: 630px) 100vw, 630px"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "cceef21",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "0111e62",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Our Comprehensive <span style=\"color:#366797\">Dental Services</span> in Santa Clarita"
+     },
+     {
+      "_key": "4a00e52",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "At Valencia Smile Expert, we offer full-scope dental care that supports you at every stage of life. We’ll discuss your current dental health and goals during our initial consultation to ensure we create a long-term plan that puts your needs at the center."
+     },
+     {
+      "_type": "box",
+      "_key": "576fae3",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "f0f9e9d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "cefa08d",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "8ec7416",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/06/preventive-dentistry-image.png",
+             "width": 604,
+             "height": 318,
+             "cls": "attachment-full size-full wp-image-759",
+             "alt": "",
+             "sizes": "(max-width: 604px) 100vw, 604px"
+            }
+           },
+           {
+            "_key": "958501a",
+            "cls": "elementor-widget-heading",
+            "_type": "heading",
+            "tag": "h3",
+            "html": "Preventive Dentistry"
+           },
+           {
+            "_key": "ceefe9a",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Through regular cleanings, screenings, and early interventions, we help you avoid more serious problems down the road—saving you time, money, and discomfort.</p>"
+           },
+           {
+            "_type": "box",
+            "_key": "bc92d5c",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "63dbb62",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Teeth Cleaning",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Fluoride Treatments",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Oral Cancer Screening",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             },
+             {
+              "_key": "030a0db",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Periodontal Deep Cleaning",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Safe Mercury Removal",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "6439c40",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Now",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "1a3ab19",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "766b162",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/05/Frame-1984078742-1.png",
+             "width": 1208,
+             "height": 636,
+             "cls": "attachment-full size-full wp-image-224",
+             "alt": "",
+             "sizes": "auto, (max-width: 1208px) 100vw, 1208px"
+            }
+           },
+           {
+            "_key": "a184339",
+            "cls": "elementor-widget-heading",
+            "_type": "heading",
+            "tag": "h3",
+            "html": "Cosmetic Dentistry"
+           },
+           {
+            "_key": "629e056",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Our cosmetic treatments are designed to enhance both your smile and oral health using advanced dentistry technology.</p>"
+           },
+           {
+            "_type": "box",
+            "_key": "36c7e7e",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "b9b2e7d",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Veneers",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Teeth Whitening",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Clear Aligners",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "4e81ed8",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Now",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "4fbd9b8",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "8f7dd76",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "fbb2a45",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/06/restorative-dentistry-image.png",
+             "width": 604,
+             "height": 318,
+             "cls": "attachment-full size-full wp-image-758",
+             "alt": "",
+             "sizes": "auto, (max-width: 604px) 100vw, 604px"
+            }
+           },
+           {
+            "_key": "2e31f8b",
+            "cls": "elementor-widget-heading",
+            "_type": "heading",
+            "tag": "h3",
+            "html": "Restorative Dentistry"
+           },
+           {
+            "_key": "df2d9a1",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Whether you’re dealing with decay, damage, or missing teeth, our restorative dentistry solutions rebuild your smile from the inside out. We focus on long-lasting results that look natural and feel comfortable.</p>"
+           },
+           {
+            "_type": "box",
+            "_key": "803632e",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "e387937",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Crowns",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Fillings",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Dental Implants",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i3",
+                "text": "Bridges",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i4",
+                "text": "Full & Partial Dentures",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             },
+             {
+              "_key": "6d52401",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Extractions",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Root Canals",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Autogenous Bone and Dentin Grafting",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i3",
+                "text": "Platelet-Rich Fibrin (PRF)",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "0b259d0",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Now",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "a9dc378",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "d238733",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/05/family-dentistry-image.png",
+             "width": 604,
+             "height": 318,
+             "cls": "attachment-full size-full wp-image-136",
+             "alt": "",
+             "sizes": "auto, (max-width: 604px) 100vw, 604px"
+            }
+           },
+           {
+            "_key": "96a33e4",
+            "cls": "elementor-widget-heading",
+            "_type": "heading",
+            "tag": "h3",
+            "html": "Family Dentistry"
+           },
+           {
+            "_key": "4e6c6a4",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>From baby teeth to permanent teeth (and everything in between), our family dentistry services make it easy to keep everyone in your household smiling. We provide age-appropriate care in a calm, friendly setting that kids and adults alike can feel good about.</p>"
+           },
+           {
+            "_type": "box",
+            "_key": "3d4e41b",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "0496832",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Children’s Dentistry",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Teen Dentistry",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Sealants",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             },
+             {
+              "_key": "4993c0e",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Infant Exams",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Pediatric Restorative Dentistry",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Sports Mouthguards",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "a24b9c2",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Now",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "fe7ccf3",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "4d47737",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "d1a202c",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "5ff7ff8",
+              "cls": "elementor-widget-image",
+              "_type": "image",
+              "img": {
+               "src": "/images/uploads/2025/06/treatment-image-5.png",
+               "width": 603,
+               "height": 475,
+               "cls": "attachment-full size-full wp-image-757",
+               "alt": "",
+               "sizes": "auto, (max-width: 603px) 100vw, 603px"
+              }
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "4b8235a",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "c51b7f5",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "h3",
+              "html": "Oral Treatments & Surgical Care"
+             },
+             {
+              "_key": "ba9d269",
+              "cls": "elementor-widget-text-editor",
+              "_type": "text",
+              "html": "<p>We offer targeted treatments for jaw discomfort, gum disease, sleep apnea, and other conditions that affect your quality of life—always with a focus on whole-body wellness.</p>"
+             },
+             {
+              "_type": "box",
+              "_key": "c4321f7",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "be8b418",
+                "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+                "_type": "iconList",
+                "items": [
+                 {
+                  "_key": "i0",
+                  "text": "TMJD Treatment",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i1",
+                  "text": "Sleep Apnea Appliances",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i2",
+                  "text": "Teeth Grinding Therapy",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i3",
+                  "text": "Functional Crown Lengthening",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i4",
+                  "text": "Osseous Surgery (Pocket Reduction)",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 }
+                ]
+               },
+               {
+                "_key": "094214e",
+                "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+                "_type": "iconList",
+                "items": [
+                 {
+                  "_key": "i0",
+                  "text": "Periodontal Regeneration",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i1",
+                  "text": "Gum Grafting",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i2",
+                  "text": "Ridge Augmentation",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i3",
+                  "text": "Sinus Lift",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "_key": "e8aad1a",
+              "cls": "elementor-align-justify elementor-widget-button",
+              "_type": "button",
+              "text": "Book Now",
+              "href": "#popup-566",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm"
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "418025d",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "1188a05",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Patients Choose  <span style=\"color:#366797\">Valencia Smile</span> Expert"
+     },
+     {
+      "_key": "9829d79",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "Finding the right dentist isn’t just about credentials—it’s about feeling seen, heard, and genuinely cared for. At Valencia Smile Expert, we’ve built a reputation for providing some of the most trusted and compassionate dental services in Santa Clarita, thanks to our commitment to comfort, transparency, and real relationships."
+     },
+     {
+      "_key": "eed65f4",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "Here’s what makes us different from other dental services near me"
+     },
+     {
+      "_type": "box",
+      "_key": "fa67eae",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "d7f0896",
+        "cls": "e-grid e-con-full why-patient-slider-wrap e-con e-child",
+        "children": [
+         {
+          "_key": "3c3d242",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-5180bb2e"
+          },
+          "titleTag": "h3",
+          "title": "One-on-One Attention",
+          "descTag": "p",
+          "desc": "Every appointment is led by Dr. Moezzi herself, who takes time to understand your goals and walk you through your options with clarity and care."
+         },
+         {
+          "_key": "ea2c400",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-da61f480"
+          },
+          "titleTag": "h3",
+          "title": "Same-Day Appointments",
+          "descTag": "p",
+          "desc": "We know life doesn’t always stick to a schedule. That’s why we offer same-day availability for urgent needs and flexible booking for busy families and professionals."
+         },
+         {
+          "_key": "f5f44a4",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "h3",
+          "title": "Advanced Technology",
+          "descTag": "p",
+          "desc": "From guided implant surgery to PRF therapy and digital X-rays, our high-tech tools help deliver faster, safer, and more precise treatments."
+         },
+         {
+          "_key": "247ff47",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-543ab953"
+          },
+          "titleTag": "h3",
+          "title": "All Your Needs, One Office",
+          "descTag": "p",
+          "desc": "No need to visit multiple specialists. Our full-scope dental services in Valencia cover everything from routine cleanings to complex surgeries—all in one convenient location."
+         },
+         {
+          "_key": "3d4ea3d",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "h3",
+          "title": "Family-Like Environment",
+          "descTag": "p",
+          "desc": "Patients often tell us that our office doesn’t feel like a dental clinic—it feels like visiting friends. We take that as the highest compliment."
+         },
+         {
+          "_key": "fcb285c",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-53c04902"
+          },
+          "titleTag": "h3",
+          "title": "Transparent Pricing",
+          "descTag": "p",
+          "desc": "We believe quality care should be accessible. That’s why we offer a $59 new patient special, easy financing options, and open conversations about cost—so you’re never caught off guard."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "6642c2e",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "a12562d",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "6355030",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "d468c70",
+          "cls": "elementor-hidden-mobile elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/06/dr-photo-1.png",
+           "width": 470,
+           "height": 515,
+           "cls": "attachment-large size-large wp-image-782",
+           "alt": "",
+           "sizes": "auto, (max-width: 470px) 100vw, 470px"
+          }
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "63f6999",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "d482de2",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h2",
+          "html": "Affordable Care & Flexible Payment Options"
+         },
+         {
+          "_key": "d2ed434",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "We believe everyone should have access to excellent dental care—without stress, confusion, or financial guesswork. That’s why we offer clear pricing, flexible financing, and extra support to make your experience as smooth as possible."
+         },
+         {
+          "_key": "df5789a",
+          "cls": "elementor-hidden-desktop elementor-hidden-tablet elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/06/dr-photo-1.png",
+           "width": 470,
+           "height": 515,
+           "cls": "attachment-large size-large wp-image-782",
+           "alt": "",
+           "sizes": "auto, (max-width: 470px) 100vw, 470px"
+          }
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "2d13745",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "f8f2b20",
+          "cls": "elementor-widget-mobile__width-initial elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+          "_type": "carousel",
+          "slides": [
+           {
+            "_type": "box",
+            "_key": "103e0f8",
+            "cls": "e-flex e-con-boxed e-con e-child",
+            "children": [
+             {
+              "_key": "e5f9e81",
+              "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+              "_type": "iconBox",
+              "icon": {
+               "svg": "svg-db5341fd"
+              },
+              "titleTag": "h3",
+              "title": "$59 New Patient Special",
+              "descTag": "p",
+              "desc": "For those exploring Santa Clarita dental services they can trust, our new patient special includes a thorough exam and digital X-rays—all for just $59."
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "cd61b07",
+            "cls": "e-flex e-con-boxed e-con e-child",
+            "children": [
+             {
+              "_key": "cd6873c",
+              "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+              "_type": "iconBox",
+              "icon": {
+               "svg": "svg-21e02fb2"
+              },
+              "titleTag": "h3",
+              "title": "Convenient Patient Portal",
+              "descTag": "p",
+              "desc": "As a patient, you’ll access our secure online portal to manage appointments, complete forms, review your history, and message our team."
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "2a0b3c5",
+            "cls": "e-flex e-con-boxed e-con e-child",
+            "children": [
+             {
+              "_key": "ac21529",
+              "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+              "_type": "iconBox",
+              "icon": {
+               "svg": "svg-f6859af4"
+              },
+              "titleTag": "h3",
+              "title": "Flexible Financing Available",
+              "descTag": "p",
+              "desc": "We accept major PPO insurance and offer third-party financing for those without coverage. Our team will help you understand your benefits and choose the best options for your budget."
+             }
+            ]
+           }
+          ],
+          "ariaLive": "polite",
+          "pagination": true,
+          "settings": {
+           "carousel_items": [
+            {
+             "slide_title": "Slide #1",
+             "_id": "f499c7c"
+            },
+            {
+             "slide_title": "Slide #2",
+             "_id": "db94007"
+            },
+            {
+             "slide_title": "Slide #3",
+             "_id": "4d12fcc"
+            }
+           ],
+           "image_spacing_custom": {
+            "unit": "px",
+            "size": 20,
+            "sizes": []
+           },
+           "image_spacing_custom_tablet": {
+            "unit": "px",
+            "size": 10,
+            "sizes": []
+           },
+           "slides_to_show": "3",
+           "slides_to_show_tablet": "2",
+           "slides_to_show_mobile": "1",
+           "speed": 500,
+           "pagination": "bullets",
+           "image_spacing_custom_mobile": {
+            "unit": "px",
+            "size": "",
+            "sizes": []
+           }
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "02564ca",
+    "cls": "why-patient-slider-wrapper e-con-full e-flex e-con e-parent",
+    "children": [
+     {
+      "_key": "d023806",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "We Accept <span style=\"color:#366797\">Most Insurance</span> Plans"
+     },
+     {
+      "_key": "898418b",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>At Valencia Smile Expert, we work hard to make dental care accessible and affordable for every patient. That includes accepting a wide range of PPO insurance plans and helping you get the most out of your benefits.</p>"
+     },
+     {
+      "_type": "box",
+      "_key": "c9752b8",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "c9c8f00",
+        "cls": "elementor-widget-image-carousel",
+        "_type": "imageCarousel",
+        "images": [
+         {
+          "src": "/images/uploads/2025/06/image-9.png",
+          "cls": "swiper-slide-image",
+          "alt": "image 9",
+          "_key": "i0"
+         },
+         {
+          "src": "/images/uploads/2025/06/image-10.png",
+          "cls": "swiper-slide-image",
+          "alt": "image 10",
+          "_key": "i1"
+         },
+         {
+          "src": "/images/uploads/2025/06/image-11.png",
+          "cls": "swiper-slide-image",
+          "alt": "image 11",
+          "_key": "i2"
+         },
+         {
+          "src": "/images/uploads/2025/06/image-12.png",
+          "cls": "swiper-slide-image",
+          "alt": "image 12",
+          "_key": "i3"
+         },
+         {
+          "src": "/images/uploads/2025/06/image-13.png",
+          "cls": "swiper-slide-image",
+          "alt": "image 13",
+          "_key": "i4"
+         },
+         {
+          "src": "/images/uploads/2025/06/image-15.png",
+          "cls": "swiper-slide-image",
+          "alt": "image 15",
+          "_key": "i5"
+         },
+         {
+          "src": "/images/uploads/2025/06/image-16.png",
+          "cls": "swiper-slide-image",
+          "alt": "image 16",
+          "_key": "i6"
+         },
+         {
+          "src": "/images/uploads/2025/06/image-17.png",
+          "cls": "swiper-slide-image",
+          "alt": "image 17",
+          "_key": "i7"
+         }
+        ],
+        "settings": {
+         "slides_to_show": "5",
+         "slides_to_show_tablet": "3",
+         "slides_to_scroll": "1",
+         "navigation": "none",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 80,
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": 25,
+          "sizes": []
+         },
+         "slides_to_show_mobile": "2",
+         "autoplay": "yes",
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "autoplay_speed": 5000,
+         "infinite": "yes",
+         "speed": 500,
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "63da2db",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "095b37a",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "6310cf5",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5491307",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Need Help Understanding Your Coverage?"
+         },
+         {
+          "_key": "0b07207",
+          "cls": "elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Our team is happy to verify your benefits, explain what’s covered, and walk you through your options before any treatment begins. No confusing paperwork, no hidden fees—just clear answers and support.</p>"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "c103cef",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "0dfebbb",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "255d2dd",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "9b03856",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Book Your Appointment Today"
+         },
+         {
+          "_key": "582511c",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p style=\"margin-bottom: 0;\">Looking for trusted, comprehensive Valencia dental services with a personal touch? We’d love to welcome you to our dental family. Whether it’s your first visit or your first in a while, we’ll make sure you feel comfortable, heard, and cared for every step of the way.</p>"
+         },
+         {
+          "_type": "box",
+          "_key": "24c146f",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "ecd2239",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Schedule Your Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

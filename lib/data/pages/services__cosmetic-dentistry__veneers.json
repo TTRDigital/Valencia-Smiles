@@ -1,0 +1,2030 @@
+{
+ "slug": "services__cosmetic-dentistry__veneers",
+ "path": "/services/cosmetic-dentistry/veneers/",
+ "seo": {
+  "title": "Veneers in Santa Clarita | Valencia Smile Expert",
+  "description": "Explore Valencia Smile Expert's top-rated Veneers in Santa Clarita—modern care, advanced technology, and 1-on-1 personalized treatment. Book today.",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1159 page-child parent-pageid-1136 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1159 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1159",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1159",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "16a4e7be",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6d14c22",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "2b2cef02",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5b7e572d",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Stunning Custom Veneers in Santa Clarita"
+         },
+         {
+          "_key": "3b70772d",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Advanced cosmetic dentistry that makes your dream smile a reality—right here in Valencia, CA.</p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "298ab8b9",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "376a3359",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "494f4ec2",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6e488e9a",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "47ad3d88",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Smile Brighter with Personalized Veneers in Santa Clarita"
+       },
+       {
+        "_key": "315203ee",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Looking to transform your smile with precision-crafted veneers in Santa Clarita? At Valencia Smile Expert, we specialize in creating confident, natural-looking smiles using advanced cosmetic dentistry. Whether you’re dealing with chipped teeth, small gaps, or uneven edges, our personalized veneer treatments can help you achieve a brighter, more symmetrical smile. Led by Dr. Moezzi, our team combines expert care with modern technology to ensure results that not only look beautiful—but feel completely you.</p><p><strong>Discover what’s possible with veneers tailored to your smile—book your consultation today</strong>.</p>"
+       },
+       {
+        "_key": "7899c747",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Book Your Veneers Consultation",
+        "href": "#popup-835",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "2cec542a",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2ee573a8",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6d29d3fa",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "60bd457e",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "What <span style=\"color: #366797\">Exactly Are Veneers</span>—and What Can They Fix?"
+       },
+       {
+        "_key": "1aac26fc",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Veneers are ultra-thin, custom-crafted shells—typically made of durable porcelain or composite resin—that are bonded to the front surface of your teeth. Designed to enhance both function and appearance, veneers are a trusted solution for refining your smile without major dental work. Veneers address a range of common concerns, including:</p>"
+       },
+       {
+        "_key": "41e0eded",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/08/restorative-dentistry-image.png",
+         "width": 604,
+         "height": 318,
+         "cls": "attachment-large size-large wp-image-1161",
+         "alt": "",
+         "sizes": "(max-width: 604px) 100vw, 604px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "46b0effb",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "48d0e4fb",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Chipped or cracked teeth"
+       },
+       {
+        "_key": "2cacc596",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Uneven or worn edges"
+       },
+       {
+        "_key": "5bc8e06d",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Small gaps between teeth"
+       },
+       {
+        "_key": "3823280c",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Minor misalignment"
+       },
+       {
+        "_key": "1e82ac5d",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Deep discoloration that whitening can’t fix"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "4c695b96",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "45d2bbf",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "534b4697",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Types of Veneers: <span style=\"color: #366797\">Porcelain vs. Composite Resin</span>"
+       },
+       {
+        "_key": "23796fd",
+        "cls": "eael-dt-th-align-center eael-table-align-center elementor-widget-eael-data-table",
+        "_type": "table",
+        "head": [
+         "Feature",
+         "Porcelain Veneers",
+         "Composite Resin Veneers"
+        ],
+        "rows": [
+         {
+          "_key": "r0",
+          "cells": [
+           "<b>Material</b>",
+           "High-quality ceramic",
+           "Tooth-colored resin"
+          ]
+         },
+         {
+          "_key": "r1",
+          "cells": [
+           "<b>Durability</b>",
+           "10–15 years or more",
+           "5–7 years"
+          ]
+         },
+         {
+          "_key": "r2",
+          "cells": [
+           "<b>Aesthetics</b>",
+           "More natural, stain-resistant",
+           "Good, but more prone to staining"
+          ]
+         },
+         {
+          "_key": "r3",
+          "cells": [
+           "<b>Procedure Time</b>",
+           "Requires 2–3 visits",
+           "Often completed in a single visit"
+          ]
+         },
+         {
+          "_key": "r4",
+          "cells": [
+           "<b>Cost</b>",
+           "Higher",
+           "More budget-friendly"
+          ]
+         },
+         {
+          "_key": "r5",
+          "cells": [
+           "<b>Reversibility</b>",
+           "Not reversible",
+           "Sometimes reversible"
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "7158e5c6",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "16f67dec",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "2476e2d1",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Is <span style=\"color: #366797\">Veneer Treatment</span> Right for You?"
+       },
+       {
+        "_key": "7fc105bb",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Veneers are ideal for adults looking to improve the appearance of their smile without undergoing extensive dental work. You may be a great candidate if you:</p>"
+       },
+       {
+        "_key": "1564668a",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "6bec8fcd",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "7b56ad98",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Have healthy teeth and gums"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "310d734b",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "7336c3e4",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Are dealing with cosmetic concerns like chips, gaps, or stains"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2f34edd",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "71f51dbe",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Want to improve symmetry or create a more uniform smile"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "71cb3347",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "6eb5a635",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Have minor alignment issues you’d rather not treat with braces"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "10b7e10c",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "3751d623",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Are looking for a long-lasting solution that looks and feels natural"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5c4c5e0b",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "739e1c49",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "6224c30a",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "The Benefits of <span style=\"color: #366797\">Veneers</span>"
+       },
+       {
+        "_key": "4c3188be",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Choosing veneers isn’t just about improving your teeth—it’s about elevating your confidence and quality of life. At Valencia Smile Expert, our custom veneers are designed to look natural, feel comfortable, and last for years with proper care.</p><p>Here are just a few reasons why patients across Santa Clarita and Valencia love their veneers:</p>"
+       },
+       {
+        "_type": "box",
+        "_key": "522fa3d9",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "6d5b74e9",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Natural-Looking Results</b> – Veneers mimic the translucency and texture of real enamel for a lifelike smile.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i1",
+            "text": "<b>Whiter, Brighter Teeth</b> – Permanently conceal deep stains that whitening can’t fix.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i2",
+            "text": "<b>Improved Symmetry</b> – Balance uneven edges and tooth sizes for a more harmonious smile.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i3",
+            "text": "<b>Lasting Confidence</b> – Enjoy the freedom to smile, speak, and laugh without hesitation.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i4",
+            "text": "<b>Fast, Minimally Invasive Procedures</b> – Porcelain veneers are stain-resistant and built to withstand daily function.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i5",
+            "text": "<b>Low Maintenance</b> – Care for your veneers just like natural teeth—daily brushing, flossing, and routine checkups.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "683b5d4b",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5ebd179",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "461524a5",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "Your Veneers Journey: What to Expect"
+     },
+     {
+      "_key": "7da8a85d",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>At Valencia Smile Expert, getting veneers is a smooth, personalized experience. Here’s how we make your smile transformation simple and stress-free:</p>"
+     },
+     {
+      "_key": "5068b93",
+      "cls": "elementor-hidden-mobile elementor-widget-image",
+      "_type": "image",
+      "img": {
+       "src": "/images/uploads/2025/07/line-background.svg",
+       "width": 928,
+       "height": 228,
+       "cls": "attachment-full size-full wp-image-1023",
+       "alt": ""
+      }
+     },
+     {
+      "_type": "box",
+      "_key": "1f97b2c6",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "38da4b09",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "4490679d",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/1-image.png",
+           "width": 58,
+           "height": 134,
+           "cls": "attachment-full size-full wp-image-1024",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Personalized Consultation & Smile Design",
+          "desc": "Dr. Moezzi will assess your oral health, discuss your goals, and design a custom treatment plan. Using digital tools, we’ll preview your new smile and select the ideal veneer type and shade."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "6110c73c",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "1741eafb",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/2-image.png",
+           "width": 102,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1025",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Tooth Preparation & Impressions",
+          "desc": "A minimal amount of enamel is gently removed (if needed), and we take precise impressions to craft your custom veneers. You’ll leave this visit with temporary veneers to protect your teeth."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "6393dc88",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "375aa215",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/3-image.png",
+           "width": 104,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1026",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Final Placement & Smile Reveal",
+          "desc": "Once your veneers are ready, we bond them securely in place, make any final adjustments, and polish your smile to perfection. The result? A natural, confident look you’ll love from day one."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "54e380ec",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "15528079",
+      "cls": "elementor-widget__width-initial elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "How to Care for Your <span style=\"color:#366797\">Veneers</span>"
+     },
+     {
+      "_key": "77d2f010",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>Veneers are designed to be durable and low-maintenance—but keeping them beautiful for years comes down to a few simple habits. Whether you choose porcelain veneers or composite veneers, following these care tips will help protect your investment and preserve your results.</p>"
+     },
+     {
+      "_key": "26d54601",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "Veneer Care: Do's and Don'ts"
+     },
+     {
+      "_type": "box",
+      "_key": "1a7e9ad8",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "450f379e",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "43564fbf",
+          "cls": "elementor-widget__width-initial elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Do"
+         },
+         {
+          "_key": "3c768d45",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Brush twice daily with a soft-bristled toothbrush",
+            "icon": {
+             "svg": "svg-390285af"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "5650493e",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Floss gently once a day",
+            "icon": {
+             "svg": "svg-390285af"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "9e25bd1",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Visit your dentist every 6 months for cleanings and exams",
+            "icon": {
+             "svg": "svg-390285af"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "7010f19d",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Wear a night guard if you grind your teeth",
+            "icon": {
+             "svg": "svg-390285af"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "2bd89b2d",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Limit stain-causing foods and drinks (coffee, red wine)",
+            "icon": {
+             "svg": "svg-390285af"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "7fa2e684",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "2e29b867",
+          "cls": "elementor-widget__width-initial elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Don't"
+         },
+         {
+          "_key": "7e0e5e68",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Use abrasive toothpaste or hard-bristled brushes",
+            "icon": {
+             "svg": "svg-e11d02ed"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "7941bcd9",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Skip flossing (this can lead to gum issues)",
+            "icon": {
+             "svg": "svg-e11d02ed"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "18e619b1",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Delay checkups or ignore follow-ups",
+            "icon": {
+             "svg": "svg-e11d02ed"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "567cfd21",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Clench or grind without protection",
+            "icon": {
+             "svg": "svg-e11d02ed"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "3a784fd8",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "Smoke or consume staining beverages excessively",
+            "icon": {
+             "svg": "svg-e11d02ed"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "20de94b7",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "6dfa441f",
+      "cls": "elementor-widget__width-initial elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Santa Clarita Locals Trust <span style=\"color:#366797\">Valencia Smile Expert</span> for Veneers"
+     },
+     {
+      "_key": "22703cbf",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>When it comes to enhancing your smile, precision and personalization make all the difference. At Valencia Smile Expert, we combine advanced cosmetic dentistry with a warm, patient-focused approach to deliver exceptional results—every time.</p>"
+     },
+     {
+      "_key": "ca9e80e",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "40530158",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "1d71f315",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "p",
+          "title": "Doctor-Led Expertise",
+          "descTag": "p",
+          "desc": "Dr. Moezzi is known for her attention to detail, artistic eye, and genuine commitment to each patient’s goals."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "339a83de",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "177b7001",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-5180bb2e"
+          },
+          "titleTag": "p",
+          "title": "Custom Smile Design",
+          "descTag": "p",
+          "desc": "Every veneer is crafted with your facial features, tooth shape, and ideal shade in mind."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "67224c40",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "1e673901",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Advanced Technolog",
+          "descTag": "p",
+          "desc": "We use modern digital imaging and shade matching for precise, predictable results."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "503eb879",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "3ea75ce7",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-29af3ae4"
+          },
+          "titleTag": "p",
+          "title": "Comfortable Experience",
+          "descTag": "p",
+          "desc": "Our caring team offers a stress-free atmosphere with clear communication and gentle techniques."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "c8dd3f0",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "7924df5d",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-53c04902"
+          },
+          "titleTag": "p",
+          "title": "Affordable, Transparent Pricing",
+          "descTag": "p",
+          "desc": "No hidden fees, flexible financing options, and a focus on value at every step."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "polite",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #4",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #5",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2d0ff94b",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "70a8c716",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "Real Results: Smile Transformations You Can See"
+     },
+     {
+      "_key": "2729a732",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>At Valencia Smile Expert, we take pride in delivering not just dental work—but life-changing smile transformations. Our patients often tell us how their confidence and quality of life improved after completing a cosmetic smile makeover in Santa Clarita.</p>"
+     },
+     {
+      "_type": "box",
+      "_key": "ffefa53",
+      "cls": "e-con-full before-after-slider-wrap e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "35ed2b8",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-4.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-4.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-1",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "7738557",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-1.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-1.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-2",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "307638e",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-2.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-2.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-3",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "81589d8",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-3.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-3.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-4",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "25036d2",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-5.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-5.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-5",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "8d502c5",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-6.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-6.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-6",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5390264c",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6b48206b",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "66f20484",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "Patient Testimonials"
+       },
+       {
+        "_key": "18c86433",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Patients throughout Santa Clarita and Valencia choose Dr. Moezzi for her gentle approach, advanced skills, and genuine care. Whether it’s a first consultation or a complete cosmetic smile makeover, the feedback speaks for itself:"
+       },
+       {
+        "_type": "box",
+        "_key": "1772826d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "4341b7cc",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "557ec244",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/07/logos_google.webp\" width=\"93\"/> Rating"
+           },
+           {
+            "_key": "7adf8935",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "642adb8a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "35bd4eba",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "737088a",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "5dfc8943",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "500c69ef",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "55340220",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "520e065a",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "1f3b55e",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "f9bce14",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "3bc0808b",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "5a37c7a0",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "2e313f3d",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4aebf229",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "642ad7e3",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "174e4469",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "4652e479",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "157c889e",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "aa9f2cc",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "154dd588",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "16ca01a1",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "2d0d37bc",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "5d9e721a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "227531b8",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "2e74c872",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "1a7469ac",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "4a8bc5dc",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "640f7956",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "558bc58e",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "5f1b9618",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "18fb376c",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "40309d9a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "6d029e07",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "2a30f6d3",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "3b3ef766",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "2d55c385",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "608041b2",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "3123a8aa",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "614ad938",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "1b0b480c",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "5bde62dd",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "46fe16ee",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "3b1b1700",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "16840a57",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "4fcc2912",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "53ed65d9",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "cbbcd8e",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "736eb0cd",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "19f3d17b",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "11bcf7d0",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "44c322c0",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "4daea8cb",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "163bb27e",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Book Your Veneers Consultation Today"
+         },
+         {
+          "_key": "2077eecd",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Ready to enhance your smile with natural-looking veneers? At Valencia Smile Expert, we’re here to guide you every step of the way with personalized care, advanced technology, and results that speak for themselves. Whether you’re just exploring your options or ready to get started, we’re here to help you smile with confidence. Discover the difference that expertly crafted veneers in Santa Clarita can make.</p>"
+         },
+         {
+          "_type": "box",
+          "_key": "5e5001d7",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "775b7304",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Your Veneers Consultation",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "424adf70",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "44c68d56",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita"
+     },
+     {
+      "_type": "box",
+      "_key": "7e916bd2",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "41d08133",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "11282d97",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "72c4ba68",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "5a2d8774",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "7ea79110",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "737f9037",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "4a08eb32",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "1a28a205",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7833aeb3",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "57d27ec1",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "733b160f",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "172e8014",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "a642bb2",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "50ae65d2",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "15d8dfd5",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "76e3806f",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "54140f18",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "1fbc635",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7bf94c89",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "2bf0f8bc",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5691b3cc",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "1ca05639",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "<span style=\"color:#366797\">Veneers</span> FAQs"
+     },
+     {
+      "_key": "74aeefee",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "18e2e40",
+        "title": "How long do veneers last?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "18e2e40",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "60f0233f",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Porcelain veneers typically last 10 to 15 years or more with proper care. Composite veneers may have a shorter lifespan, around 5 to 7 years, but both can last longer with good oral hygiene and regular dental visits.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "59e0071a",
+        "title": "Do veneers look like natural teeth?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "59e0071a",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "69843d4f",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Yes! Our veneers are custom-designed to match the color, shape, and texture of your natural teeth. Most people won’t be able to tell you’ve had dental work done—they’ll just see a beautiful smile.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "713f3e94",
+        "title": "Is getting veneers painful?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "713f3e94",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "7bea0745",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>The procedure is minimally invasive and usually very comfortable. Some patients experience mild sensitivity after tooth preparation, but this typically fades quickly. We always prioritize your comfort at every step.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "1876b9b",
+        "title": "Are veneers permanent?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "1876b9b",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "6e5a6251",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Porcelain veneers are not reversible, as a small amount of enamel is typically removed. That said, they’re a long-term solution that offers lasting beauty and strength.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "2888c4a0",
+        "title": "How much do veneers cost in Santa Clarita?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "2888c4a0",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "4905c1ff",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>The cost of veneers can vary based on the material used and the number of teeth being treated. During your consultation, we’ll provide a transparent quote and discuss financing options if needed.</p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

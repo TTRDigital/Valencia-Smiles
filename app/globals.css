@@ -1,0 +1,33 @@
+/*
+ * The page styles are the live site's own CSS (Astra + Elementor), ported per
+ * page into public/css/*.css and linked by components/layout/SiteFrame.tsx.
+ * Tailwind is loaded without its reset (preflight) so it cannot change them;
+ * only its utilities are available for new markup.
+ */
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+/* Only our own components are scanned: the page data carries WordPress class names
+   (size-full, hidden, ...) that would otherwise turn into Tailwind utilities. */
+@import "tailwindcss/utilities.css" layer(utilities) source(none);
+@source "../components/ui";
+
+/* The ported CSS styles .site-body (the live <body> classes) instead of <body>. */
+body {
+  margin: 0;
+}
+
+/* The full menu never wraps: public/js/site.js adds this class when it would, and the phone menu takes over. */
+.vse-menu-collapsed .elementor-nav-menu--main {
+  display: none !important;
+}
+.vse-menu-collapsed .elementor-menu-toggle {
+  display: flex !important;
+}
+.vse-menu-collapsed nav.elementor-nav-menu--dropdown {
+  display: block !important;
+}
+
+/* Elementor centers the pop-up box with script; here the overlay's flex centering does it. */
+.elementor-popup-modal .dialog-widget-content {
+  position: relative;
+}

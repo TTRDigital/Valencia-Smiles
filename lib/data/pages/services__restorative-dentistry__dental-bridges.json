@@ -1,0 +1,1971 @@
+{
+ "slug": "services__restorative-dentistry__dental-bridges",
+ "path": "/services/restorative-dentistry/dental-bridges/",
+ "seo": {
+  "title": "Dental Bridges - Valencia Smile Expert",
+  "description": "",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1297 page-child parent-pageid-1221 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1297 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1297",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1297",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "1160ea9e",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "17724acc",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "3274e25b",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "729c684b",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Dental Bridges in Valencia | Trusted Restorative Dentistry"
+         },
+         {
+          "_key": "5458114d",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">Replace missing teeth and restore your confidence with ease.</span></p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "149e484",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "67002332",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "b3761b5",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6d6a192",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "605d3893",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Santa Clarita’s Dental Bridge Experts"
+       },
+       {
+        "_key": "2942d1f0",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">When one or more teeth are missing, everyday things like chewing and speaking can become more difficult. A dental bridge is a common fixed dental restoration that helps fill these gaps by anchoring an artificial tooth to the surrounding natural teeth or implants. At Valencia Smile Expert, we provide dental bridges in Valencia and Santa Clarita designed to look natural, restore bite and chewing function, and support long-term oral health.</span></p>"
+       },
+       {
+        "_key": "435f3b7",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Request Your Appointment",
+        "href": "#popup-835",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "d4546c",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "69c35691",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "5e2a8a3c",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "47d62eb8",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "What Are<span style=\"color: #366797\"> Dental Bridges</span>"
+       },
+       {
+        "_key": "1297f362",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">A dental bridge is a tooth replacement option used to replace one or more missing teeth. It works by placing a false tooth (called a pontic) in the gap and securing it to the natural teeth or dental implants on either side. Bridges are custom-made to match the shape, size, and color of your surrounding teeth, so they blend in naturally with your smile.</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "79375c07",
+        "cls": "e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "409184af",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>3D Digital Imaging</b>- We start with a quick, mess-free scan using our iTero scanner to create a high-resolution, interactive map of your smile—no traditional impressions needed.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "3798e1d2",
+        "cls": "e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "10f10e8b",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Custom Clear Aligners</b>- Your treatment plan is carefully designed to guide your teeth into better alignment using a set of BPA-free plastic aligners made specifically for your mouth.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "4cec8205",
+        "cls": "e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5dc7258a",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Daily Wear &amp; Routine Care</b>- Wear your aligners 20–22 hours a day, removing them only to eat, brush, and floss. You’ll enjoy the flexibility to maintain your normal diet and hygiene routine—something traditional metal braces can’t offer.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "1b260706",
+        "cls": "e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "1e3d5e38",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Progress Monitoring</b>- We’ll schedule regular check-ins to ensure your teeth are tracking correctly. As your smile improves, you’ll switch to a new set of aligners every 1–2 weeks.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "7d524bdf",
+        "cls": "e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "12cc1172",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Smile Transformation</b>- Most patients complete their clear aligner treatment within 6 to 18 months, depending on the level of correction needed. The result? A straighter, healthier-looking smile with minimal disruption to your lifestyle.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "1d41393d",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "568e85ba",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "5ee58235",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "411ec640",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Types of <span style=\"color: #366797\">Dental Bridges</span>"
+       },
+       {
+        "_key": "365502a2",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">There isn’t just one kind of dental bridge—different designs are available to fit different needs, budgets, and oral health situations. Each type has its own way of staying in place, along with unique advantages. At Valencia Smile Expert, we help patients in Santa Clarita understand their options and choose the bridge that best supports their smile. The chart below highlights the main types of dental bridges and what makes each one distinct.</span></p>"
+       },
+       {
+        "_key": "4cfbf050",
+        "cls": "eael-dt-th-align-center eael-table-align-center elementor-widget-eael-data-table",
+        "_type": "table",
+        "head": [
+         "Type of Bridge",
+         "Support Method",
+         "Best For",
+         "Advantages"
+        ],
+        "rows": [
+         {
+          "_key": "r0",
+          "cells": [
+           "<b>Traditional Bridge</b>",
+           "Crowns on both teeth next to the gap",
+           "Replacing one or more teeth between healthy natural teeth",
+           "Strong and durable"
+          ]
+         },
+         {
+          "_key": "r1",
+          "cells": [
+           "<b>Cantilever Bridge</b>",
+           "Crown on one adjacent tooth",
+           "Cases where only one tooth is next to the gap",
+           "Less tooth preparation than traditional bridge"
+          ]
+         },
+         {
+          "_key": "r2",
+          "cells": [
+           "<b>Maryland Bridge</b>",
+           "Metal or porcelain framework bonded to the back of teeth",
+           "Front teeth replacement with minimal tooth preparation",
+           "Conservative, minimal impact on natural teeth"
+          ]
+         },
+         {
+          "_key": "r3",
+          "cells": [
+           "<b>Implant-Supported Bridge</b>",
+           "Anchored to dental implants placed in the jawbone",
+           "Patients missing multiple teeth or needing extra stability",
+           "Most stable and long-lasting option"
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "4e3d027b",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "206f30dd",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "6479e075",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Who Is a Good <span style=\"color: #366797\">Candidate for Dental Bridges?\n</span>"
+       },
+       {
+        "_key": "53cd9ebd",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Not everyone who needs missing teeth replacement requires the same type of treatment. While some patients may benefit from implants or dentures, dental bridges are often an excellent choice for people who want a secure, natural-looking dental restoration without surgery or lengthy recovery times.</span></p><p><span style=\"font-weight: 400;\">A bridge may be recommended if you:</span></p><p><span style=\"font-weight: 400;\"> </span></p>"
+       },
+       {
+        "_key": "2d8e6a51",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "2228d15a",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "46ef784c",
+            "cls": "elementor-widget-icon-box",
+            "_type": "iconBox",
+            "descTag": "p",
+            "desc": "Have one or more missing teeth with healthy natural teeth or implants nearby that can support the restoration."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3093841d",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "4e983d26",
+            "cls": "elementor-widget-icon-box",
+            "_type": "iconBox",
+            "descTag": "p",
+            "desc": "Prefer a tooth-supported bridge rather than a removable option like partial dentures, which can shift or require more maintenance."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4e1dd332",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "40e39036",
+            "cls": "elementor-widget-icon-box",
+            "_type": "iconBox",
+            "descTag": "p",
+            "desc": "Have healthy gums and surrounding teeth that provide the stability needed for a long-lasting bridge."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "71de2a4d",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "111a977d",
+            "cls": "elementor-widget-icon-box",
+            "_type": "iconBox",
+            "descTag": "p",
+            "desc": "Want to restore function quickly, since bridges typically require fewer appointments and less healing time than implants."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3563dd94",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "5074302c",
+            "cls": "elementor-widget-icon-box",
+            "_type": "iconBox",
+            "descTag": "p",
+            "desc": "Are looking for a solution that balances cost with durability and appearance."
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       },
+       {
+        "_key": "4a729164",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">For many patients searching for</span><i><span style=\"font-weight: 400;\"> dental bridges near me</span></i><span style=\"font-weight: 400;\">, this treatment is a way to eat comfortably, speak clearly, and feel confident in their smile again without going through surgery. At Valencia Smile Expert, Dr. Moezzi takes time to review your oral health, lifestyle, and goals so you can decide whether a bridge—or another option—best supports your long-term dental needs</span></p>"
+       },
+       {
+        "_key": "ef045c5",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Request Your Dental Bridge Appointment",
+        "href": "#popup-835",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "62296a69",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "7fd6123c",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "749c032d",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Benefits of<span style=\"color: #366797\"> Dental Bridges</span>"
+       },
+       {
+        "_key": "37eff91",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Choosing a dental bridge offers more than just a way to fill a gap in your smile. Bridges can have a positive impact on your overall oral health, comfort, and confidence. Some of the key benefits include:</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "17c1e630",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "73d58e0c",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Restore bite and chewing function</b> Missing teeth can make it harder to enjoy certain foods or pronounce words clearly. A bridge helps bring back normal function.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "69ee5a20",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Maintain natural facial shape</b> Gaps in your smile can cause surrounding teeth to shift and even change the way your face looks over time. Bridges help preserve your natural appearance.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "414ac870",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>  Prevent surrounding teeth from shifting</b> Filling the empty space keeps nearby teeth in their proper positions, reducing the risk of future dental issues.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "4d7cb276",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Provide a natural look:</b> Bridges are custom-made to match the color and shape of your teeth, blending in seamlessly",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         },
+         {
+          "_key": "56c647c8",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Boost confidence:</b> Many patients feel more comfortable smiling, speaking, and socializing after replacing missing teeth with a bridge.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "6649516b",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2f6a4ba7",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "48b87809",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "6032906d",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "The Dental Bridges Process at <span style=\"color: #366797\">Valencia Smile Expert\n</span>"
+       },
+       {
+        "_key": "457922b1",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Getting a dental bridge is a straightforward treatment, and we guide you through each step with care:</span></p>"
+       },
+       {
+        "_key": "3ad2e0af",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/08/restorative-dentistry-image.png",
+         "width": 604,
+         "height": 318,
+         "cls": "attachment-large size-large wp-image-1161",
+         "alt": "",
+         "sizes": "(max-width: 604px) 100vw, 604px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "62212553",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "423099fa",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Personalized Consultation",
+        "descTag": "p",
+        "desc": "Dr. Moezzi begins with an exam, digital imaging, and a discussion of your goals to determine the best type of bridge for your smile."
+       },
+       {
+        "_key": "4715d1f6",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Preparation & Temporary Bridge",
+        "descTag": "p",
+        "desc": "The supporting teeth are prepared, and impressions are taken to design your custom bridge. A temporary bridge is placed so you remain comfortable while your permanent one is being made."
+       },
+       {
+        "_key": "7c7e404c",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Final Placement",
+        "descTag": "p",
+        "desc": "Your custom bridge is securely bonded in place. With advanced technology and precise fitting, it feels natural, restores function, and blends seamlessly with your smile."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "6d9cf83f",
+    "cls": "e-flex e-con-boxed e-con e-child",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "66bd57",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "46232aa6",
+        "cls": "elementor-hidden-mobile elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/09/dr-photo-1.png",
+         "width": 470,
+         "height": 515,
+         "cls": "attachment-large size-large wp-image-1286",
+         "alt": "",
+         "sizes": "(max-width: 470px) 100vw, 470px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "173dfa3",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "269595a9",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "Expert Tips on Caring for Your Dental Bridge"
+       },
+       {
+        "_key": "7d9902a6",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">A dental bridge can last many years with the right care. Following a consistent routine not only protects your bridge but also supports the health of your natural teeth and gums. Here are a few key tips:</span></p>"
+       },
+       {
+        "_key": "335146a1",
+        "cls": "elementor-hidden-desktop elementor-hidden-tablet elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/09/dr-photo-1.png",
+         "width": 470,
+         "height": 515,
+         "cls": "attachment-large size-large wp-image-1286",
+         "alt": "",
+         "sizes": "(max-width: 470px) 100vw, 470px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "43ab4229",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "40f432aa",
+        "cls": "elementor-widget-mobile__width-initial elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "746fcbfb",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "1bc16b26",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-tooth"
+            },
+            "titleTag": "h3",
+            "title": "Brush twice a day",
+            "descTag": "p",
+            "desc": "Use a soft-bristled toothbrush and fluoride toothpaste to clean around your bridge and natural teeth."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "507f988d",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "18518d42",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-far-smile"
+            },
+            "titleTag": "h3",
+            "title": "Floss daily",
+            "descTag": "p",
+            "desc": "Special floss threaders or interdental brushes make it easier to clean underneath the bridge."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3b56a5ca",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "79d74f60",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-far-calendar-check"
+            },
+            "titleTag": "h3",
+            "title": "Schedule regular checkups",
+            "descTag": "p",
+            "desc": "Routine visits allow Dr. Moezzi to check the fit of your bridge and monitor your overall oral health."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3621cec0",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "39793d50",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-heartbeat"
+            },
+            "titleTag": "h3",
+            "title": "Be mindful of your diet",
+            "descTag": "p",
+            "desc": "Limiting sticky or hard foods helps reduce extra stress on the bridge and prevents damage."
+           }
+          ]
+         }
+        ],
+        "ariaLive": "polite",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "f499c7c"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "db94007"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "4d12fcc"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "5ff7be4"
+          }
+         ],
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 20,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "slides_to_show": "3",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "speed": 500,
+         "pagination": "bullets",
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       },
+       {
+        "_key": "7d3235ac",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p style=\"text-align: center;\"><span style=\"font-weight: 400;\">For more information on caring for dental bridges, you can also visit the</span><a href=\"https://my.clevelandclinic.org/health/treatments/10921-dental-bridges\"><span style=\"font-weight: 400;\"> Cleveland Clinic’s guide</span></a><span style=\"font-weight: 400;\">.</span></p>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "87e8ffb",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "1fbcfd57",
+      "cls": "elementor-widget__width-initial elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose <span style=\"color:#366797\">Valencia Smile Expert for Dental Bridges in Santa Clarita\n</span>"
+     },
+     {
+      "_key": "28fa738d",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">When it comes to </span><a href=\"/services/restorative-dentistry/\"><span style=\"font-weight: 400;\">restorative dentistry in Santa Clarita</span></a><span style=\"font-weight: 400;\">, choosing the right dental team makes all the difference. At Valencia Smile Expert, patients trust us for more than just results—they choose us for care that feels personal, modern, and reliable. Here’s why locals turn to us for dental bridges:</span><span style=\"font-weight: 400;\"><br/></span></p>"
+     },
+     {
+      "_key": "54c8fee1",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "66af4e98",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "7718f16d",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "p",
+          "title": "Advanced Technology",
+          "descTag": "p",
+          "desc": "From digital imaging to precision design, your bridge is crafted with accuracy and comfort in mind."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "dcc4f67",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "7f20e30",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-5180bb2e"
+          },
+          "titleTag": "p",
+          "title": "Comprehensive Care",
+          "descTag": "p",
+          "desc": "Whether you need preventive, restorative, or cosmetic services, we provide full-scope dentistry for the whole family."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "6b0a1699",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "2dded7fe",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Stress-Free Dentistry",
+          "descTag": "p",
+          "desc": "Sedation options and a welcoming atmosphere help make every visit easier."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "38c1c4f9",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "5481a60",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-29af3ae4"
+          },
+          "titleTag": "p",
+          "title": "Clear Pricing & Flexible Options",
+          "descTag": "p",
+          "desc": "Transparent communication so you always know what to expect when it comes to your treatment plan."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "6f46a0fc",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "cb46aa",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-53c04902"
+          },
+          "titleTag": "p",
+          "title": "Doctor-Led Personalization",
+          "descTag": "p",
+          "desc": "Dr. Moezzi is known for her compassionate approach and attention to detail, ensuring your bridge looks and feels natural."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "polite",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #4",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #5",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "76475c56",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "3a01d53c",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "50a91533",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "Patient Reviews"
+       },
+       {
+        "_key": "6e130e0c",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p style=\"text-align: left;\"><span style=\"font-weight: 400;\">Many of our patients from Valencia and the greater Santa Clarita area have trusted us to restore their smiles with dental bridges. Here’s what a few of them had to say</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "493f422b",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "7fae4043",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "5ee01467",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/07/logos_google.webp\" width=\"93\"/> Rating"
+           },
+           {
+            "_key": "408af35d",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "52de32dc",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "6bd5f606",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "79eb1fec",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "61e36746",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "1c48526d",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "59869026",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "121b5c28",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "71cc59e6",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2ff3fe45",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "28f6244e",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "6e2cba16",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "4cb50b8d",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "6c4dc4bb",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "519417c",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "7ad78253",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "6601b0fb",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "7173690c",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "913d2ca",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "8c8deae",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "1b254804",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "57915e15",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "5203e480",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "3c45efd3",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "72d0a3a",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "48932546",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "38c48224",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2db63a32",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "64645ad6",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "162c20fd",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "60c48f6d",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "56a218ef",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "43fe31c5",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "3879df4f",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "61d5643e",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "593adc40",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "a55ecc2",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "3801c0cb",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "3cfc1709",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "7f6bb6f7",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "5174a2a9",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "63f00b4f",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "3c67d239",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "ee82884",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "40bfe44",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "442e0955",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "543cc493",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "36902351",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "66d29708",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "313a3158",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "2994a64a",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita"
+     },
+     {
+      "_key": "5c48788",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p style=\"text-align: center;\"><span style=\"font-weight: 400;\">Whether you’re exploring cosmetic dental treatment, replacing missing teeth, or considering an implant-supported bridge, our office makes it easy to get the care you need. Conveniently located in Valencia, we serve patients throughout Santa Clarita and the surrounding communities with advanced, compassionate dental care.</span></p>"
+     },
+     {
+      "_type": "box",
+      "_key": "45284f78",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "4c8bbcfe",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "1aea66d",
+          "cls": "elementor-widget-html",
+          "_type": "html",
+          "html": "<iframe allowfullscreen=\"\" height=\"450\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3291.202188372406!2d-118.57800250000001!3d34.421619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2874d14635617%3A0x256d3b6148eedd65!2s27420%20Tourney%20Rd%20STE%20240%2C%20Valencia%2C%20CA%2091355%2C%20USA!5e0!3m2!1sen!2sco!4v1756951582704!5m2!1sen!2sco\" style=\"border:0;\" width=\"600\"></iframe>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "4631da0c",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "9fed7f7",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "470ff35",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "578efeba",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "3e8c02d0",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "e98c885",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "32474c85",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "7bcde11f",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "7c1c2559",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "30c5609a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "522bfe45",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "2996581f",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "55557634",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "373f0cc8",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7581aa99",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "311cdf09",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/>Saturday – Sunday: Closed</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "19e808a3",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7b863ca6",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "766d9b2f",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "3e7c1486",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "2b684f30",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "500968bb",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Book Your Appointment for Dental Bridges in Valencia"
+         },
+         {
+          "_key": "f30782f",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">If you’re ready to restore your smile, our team at Valencia Smile Expert is here to help. We provide personalized, natural-looking dental restoration through dental bridges in Valencia and Santa Clarita, designed to improve function, comfort, and confidence. Call us today or book online to schedule your consultation.</span></p>"
+         },
+         {
+          "_type": "box",
+          "_key": "3beb85bb",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "4244d633",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Request Your Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "3f0ef970",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "1da00d7f",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "<span style=\"color:#366797\">FAQs</span> About Dental Bridges"
+     },
+     {
+      "_key": "be43144",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "5621b185",
+        "title": "1. How long do dental bridges last?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "5621b185",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "94c7aaf",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\"> With proper care, most dental bridges last anywhere from 5 to 15 years, and some even longer. Regular checkups and good oral hygiene play a big role in their lifespan.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "56306939",
+        "title": "2. Do dental bridges look natural?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "56306939",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "261d0e30",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Yes. Bridges are custom-designed to match the color, size, and shape of your surrounding teeth, so they blend in seamlessly with your smile.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "72f8664a",
+        "title": "3. Is getting a dental bridge painful?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "72f8664a",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "246a2879",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">The procedure is typically comfortable. At Valencia Smile Expert, we use local anesthesia and offer sedation options if needed to help you feel at ease.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "27b70e94",
+        "title": "4. What’s the difference between a dental bridge and an implant?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "27b70e94",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "6acc516",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\"> A bridge uses neighboring teeth or implants for support, while an implant is a standalone restoration anchored directly into the jawbone. Patients often ask about this bridge vs implant comparison during consultations—Dr. Moezzi will explain both options so you can make the best choice for your smile.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "151d7a14",
+        "title": "5. How do I care for my dental bridge",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "151d7a14",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "62ace7ad",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\"> Daily brushing, flossing (with a floss threader or interdental brush), and regular dental visits are key. Avoiding very sticky or hard foods also helps protect your bridge.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "71f09d80",
+        "title": "6. What are my other options if I have missing teeth?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "71f09d80",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "4882dc52",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Besides bridges, other tooth replacement options include dental implants, which provide a long-lasting solution anchored in the jawbone, and partial dentures, which are removable appliances. The right choice depends on your oral health, budget, and personal goals. At </span><a href=\"/\"><span style=\"font-weight: 400;\">Valencia Smile Expert</span></a><span style=\"font-weight: 400;\">, we’ll review all possible treatments—from implants to cosmetic dental treatment—to help you decide what works best for your smile.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "3e638596",
+        "title": "7. Does dental insurance cover dental bridges?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "3e638596",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "14241bed",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<div class=\"QhwbB\"><div class=\"ZKRKU\" data-testid=\"post-renderer-component\"><div class=\"fV3Jt\"><div class=\"GOJZx\"><div class=\"agPPc U4hHe hWX7X fs-mask GIejc\"><p>Many dental insurance plans provide partial coverage for dental bridges, though the exact amount depends on your policy and provider. In most cases, insurance will cover a portion of the procedure if the bridge is considered medically necessary to restore function. At Valencia Smile Expert, our team is happy to review your benefits, explain coverage details, and help you understand any out-of-pocket costs before treatment begins.</p></div></div></div></div><div class=\"NR9Lj\"> </div><div class=\"KisaV\"> </div></div><div class=\"vuDdh\"><div class=\"bK30V SVcU1\" data-testid=\"post-watched\"> </div></div>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

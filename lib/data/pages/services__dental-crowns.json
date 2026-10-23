@@ -1,0 +1,1965 @@
+{
+ "slug": "services__dental-crowns",
+ "path": "/services/dental-crowns/",
+ "seo": {
+  "title": "Dental Crowns - Valencia Smile Expert",
+  "description": "",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1315 page-child parent-pageid-175 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1315 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1315",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1315",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "4a97c10b",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "28b3d19",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "44d241d6",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "23f9947c",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Dental Crowns in Valencia | Santa Clarita’s Trusted Restorative Dentistry Experts"
+         },
+         {
+          "_key": "7a144149",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">Strengthen and protect your teeth with crowns designed for comfort, durability, and a natural look.</span></p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "62d43df3",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "6e5f4613",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "d22f6ee",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "a73153e",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "421a7f5b",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Restoring Smiles in Santa Clarita"
+       },
+       {
+        "_key": "25b62919",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">A dental crown is one of the most reliable ways to protect a damaged tooth and bring back its natural strength and appearance. Whether your tooth is cracked, worn down, or weakened after a root canal, a crown covers it securely while blending in with your smile. At Valencia Smile Expert, Dr. Moezzi uses advanced technology and a detail-oriented approach to design crowns that look natural, fit comfortably, and support long-term oral health. Schedule your dental crown appointment today at Valencia Smile Expert.</span></p>"
+       },
+       {
+        "_key": "1c89c44a",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Request Your Appointment",
+        "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "28bf9505",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2b6270f4",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "9046c8d",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     },
+     {
+      "_type": "box",
+      "_key": "456ac316",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "6b1ec63e",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "What Are Dental Crowns?"
+       },
+       {
+        "_key": "3dbe4aba",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">A dental crown is a custom-made cap that covers and protects a tooth that has been weakened by decay, cracks, or a root canal. Unlike a simple filling, a crown restores both the strength and appearance of the tooth, allowing it to function like normal again. At Valencia Smile Expert, we craft crowns from durable porcelain and ceramic materials that are carefully matched to your natural teeth, so your smile looks seamless.</span></p><p><span style=\"font-weight: 400;\">Crowns are often used to:</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "1cbd76cf",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5cbbb984",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<strong>Strengthen teeth that have large fillings or fractures</strong>",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "203407d5",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "1020f4bc",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<strong>Restore normal chewing and speaking function</strong>",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "7dc85e1e",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "65cfd68c",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<strong>Improve the look of discolored or misshapen teeth</strong>",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "e7b5a53",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "35e13cc5",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<strong>Protect a tooth after root canal treatment</strong>",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "635ad5f9",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "73ede19e",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "584ccfdf",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Who Needs Dental Crowns?"
+       },
+       {
+        "_key": "35d3d134",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Not every dental issue requires a crown, but they’re often the best choice when a tooth is too weak to be repaired with a filling. At Valencia Smile Expert, we recommend dental crowns in Santa Clarita for patients who have:</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "f48e9d7",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "1ef50ad",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<h4>Cracked or Broken Teeth </h4>RestCrowns act like a protective shield, preventing cracks from spreading and preserving the natural tooth.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "3065b58d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "af605a7",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<h4>Severely Worn-Down Teeth</h4> Grinding, clenching, or natural wear can shorten teeth over time. A crown restores their height and function.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "4c2788ad",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5219a80a",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<h4>Large Fillings</h4>When too much tooth structure is missing, a crown provides strength and stability where a filling can’t.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "10ba9a4b",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "7ebef4c6",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<h4>Root Canal–Treated Teeth</h4>After a root canal, teeth are more fragile. A crown reinforces the tooth and helps prevent fractures.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "78dc8428",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5558bbb",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<h4>Cosmetic Concerns </h4>Crowns can cover discolored, misshapen, or uneven teeth, improving both appearance and confidence.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "4445196c",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><em><span style=\"font-weight: 400;\">If you’re experiencing discomfort, sensitivity, or visible damage, a crown can help preserve your natural tooth and restore full function. Many of our patients searching for dental crowns near me in Valencia discover it’s the simplest way to protect their smile and avoid more invasive treatment down the road.</span></em></p>"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "36a36598",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "ef65cf9",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "a17240f",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "50cdc198",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Benefits of Dental Crowns"
+       },
+       {
+        "_key": "2865cdd0",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Choosing a crown does more than just fix a damaged tooth—it helps protect your overall oral health and keeps your smile looking its best. Patients who come to us for dental crowns in Valencia often experience these benefits:</span></p>"
+       },
+       {
+        "_key": "6377126c",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/valencia-photo-5.png",
+         "width": 618,
+         "height": 449,
+         "cls": "attachment-large size-large wp-image-1020",
+         "alt": "",
+         "sizes": "(max-width: 618px) 100vw, 618px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "122ab6a7",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "ea4d154",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Strength and Protection",
+        "descTag": "p",
+        "desc": "Crowns act as a durable cover, shielding weak or fractured teeth from breaking further."
+       },
+       {
+        "_key": "367f6be3",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Natural Appearance",
+        "descTag": "p",
+        "desc": "Porcelain and ceramic crowns are carefully color-matched so they blend seamlessly with your surrounding teeth."
+       },
+       {
+        "_key": "422e6e33",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Natural Appearance",
+        "descTag": "p",
+        "desc": "Porcelain and ceramic crowns are carefully color-matched so they blend seamlessly with your surrounding teeth."
+       },
+       {
+        "_key": "723e8967",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Improved Comfort",
+        "descTag": "p",
+        "desc": "By restoring the full shape of a tooth, crowns allow you to chew and speak normally without pain or sensitivity."
+       },
+       {
+        "_key": "af515e8",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Long-Lasting Solution",
+        "descTag": "p",
+        "desc": "With good oral hygiene and routine dental visits, crowns can last 10–15 years or even longer."
+       },
+       {
+        "_key": "385b2152",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Confidence Boost",
+        "descTag": "p",
+        "desc": "A crown enhances the look of your smile while preserving the natural tooth underneath, helping you feel more confident day to day."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "44c359cc",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "1a721574",
+      "cls": "elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "75a5baf0",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Benefits of <span style=\"color: #366797\">Restorative Dentistry</span>"
+       },
+       {
+        "_key": "21365fda",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Restorative dentistry isn’t just about fixing what’s broken—it’s about giving you back a fully functioning, confident smile. When done right, it improves far more than just your teeth. Some of the key benefits include:"
+       },
+       {
+        "_key": "6647c10c",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "56e3f851",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "c78b2ed",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Improved comfort and chewing function"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "65064b93",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "305c65bb",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Stronger, more stable teeth"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "21e14e2c",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "c293a56",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Natural-looking results that boost your confidence"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "588c9381",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "374e7a94",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Better speech and bite alignment"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2af1b04b",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "452bb7dc",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Protection against future dental problems"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2b2c2897",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "67802eb6",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Restored facial balance and symmetry"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "ddfe286"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "129d4d46",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "42ff6b59",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Our Dental Crown Procedure – What to Expect"
+       },
+       {
+        "_key": "43b9ae10",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>We make your tooth implant process as smooth and comfortable as possible—combining advanced technology with personalized, compassionate care. Here’s how it works:</p>"
+       },
+       {
+        "_key": "2fc7ec62",
+        "cls": "elementor-hidden-mobile elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/line-background.svg",
+         "width": 928,
+         "height": 228,
+         "cls": "attachment-full size-full wp-image-1023",
+         "alt": ""
+        }
+       },
+       {
+        "_type": "box",
+        "_key": "7226d9a4",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "3aacac29",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "4b71f45c",
+            "cls": "elementor-position-top elementor-widget-image-box",
+            "_type": "imageBox",
+            "img": {
+             "src": "/images/uploads/2025/07/1-image.png",
+             "width": 58,
+             "height": 134,
+             "cls": "attachment-full size-full wp-image-1024",
+             "alt": ""
+            },
+            "titleTag": "p",
+            "title": "Step 1: Exam and Preparation",
+            "desc": "We begin with a full exam, then reshape the damaged tooth so it can securely hold a crown. A digital impression is taken for accuracy and comfort."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "1b4acdf7",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "569165fd",
+            "cls": "elementor-position-top elementor-widget-image-box",
+            "_type": "imageBox",
+            "img": {
+             "src": "/images/uploads/2025/07/2-image.png",
+             "width": 102,
+             "height": 133,
+             "cls": "attachment-full size-full wp-image-1025",
+             "alt": ""
+            },
+            "titleTag": "p",
+            "title": "Step 2: Temporary Protection",
+            "desc": "A temporary crown is placed to protect your tooth and keep your smile functional while your custom crown is crafted in the lab."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "39c61d6e",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "6770bdd9",
+            "cls": "elementor-position-top elementor-widget-image-box",
+            "_type": "imageBox",
+            "img": {
+             "src": "/images/uploads/2025/07/3-image.png",
+             "width": 104,
+             "height": 133,
+             "cls": "attachment-full size-full wp-image-1026",
+             "alt": ""
+            },
+            "titleTag": "p",
+            "title": "Step 3: Final Placement",
+            "desc": "Your permanent crown is bonded in place, adjusted for a natural bite, and polished so it blends seamlessly with your surrounding teeth."
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "16ec6882",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "1e361719",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "Caring for Your New Dental Crown"
+     },
+     {
+      "_key": "103c19cb",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">Taking care of your crown is simple and helps ensure it lasts for many years. Here’s what to keep in mind before and after treatment:</span></p>"
+     },
+     {
+      "_type": "box",
+      "_key": "70a0fd46",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "3f387f89",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "6d32abb3",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Before Treatment"
+         },
+         {
+          "_type": "box",
+          "_key": "3228cb72",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "799b5c3e",
+            "cls": "elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+            "_type": "iconList",
+            "items": [
+             {
+              "_key": "i0",
+              "text": "<b>Keep up</b> with your daily brushing and flossing routine",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i1",
+              "text": "<b>Avoid chewing </b> on very hard foods if your tooth is already cracked or weakened",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i2",
+              "text": "<b>Let us know about any dental sensitivity </b> or grinding habits so we can plan the best approach",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "59a2079c",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "82c6a48",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "After Treatment"
+         },
+         {
+          "_type": "box",
+          "_key": "7c4b314b",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "32b79baf",
+            "cls": "elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+            "_type": "iconList",
+            "items": [
+             {
+              "_key": "i0",
+              "text": "<b>Brush and floss</b> as you normally would, paying attention to the gumline around the crown",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i1",
+              "text": "<b>Avoid sticky or hard foods</b> during the first few days while you adjust",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i2",
+              "text": "<b>Schedule regular checkups</b> so we can monitor your crown and overall oral health",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i3",
+              "text": "<b>If you grind your teeth at night,</b> ask about a custom night guard to protect your crown and other teeth",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "a9b9cfc",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "566cf918",
+      "cls": "elementor-widget__width-initial elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose Valencia Smile Expert for Dental Crowns?"
+     },
+     {
+      "_key": "6e0a0496",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">When it comes to restoring your smile, you want a dental team that combines advanced technology with a personal touch. Patients looking for dental crowns in Santa Clarita trust </span><a href=\"/about/\"><span style=\"font-weight: 400;\">Valencia Smile Expert</span></a><span style=\"font-weight: 400;\"> because we offer:</span></p>"
+     },
+     {
+      "_key": "f3434ef",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "34cf4731",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "5ab81688",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "p",
+          "title": "Same-Day & Emergency Appointments",
+          "descTag": "p",
+          "desc": "We know dental problems don’t wait, so we offer fast solutions when you need them most."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "8ea0c6b",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "4be2a920",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-5180bb2e"
+          },
+          "titleTag": "p",
+          "title": "Advanced Technology",
+          "descTag": "p",
+          "desc": "From digital impressions to precision shade-matching, we use modern tools to make your crown accurate, comfortable, and natural-looking."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "1f225143",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "72da17c7",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Comfort-First Care",
+          "descTag": "p",
+          "desc": "With sedation options and a warm, welcoming office, even patients with dental anxiety feel at ease during treatment."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "4ff1f18d",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "26bdda6d",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-29af3ae4"
+          },
+          "titleTag": "p",
+          "title": "Affordable, Transparent Pricing",
+          "descTag": "p",
+          "desc": "We offer flexible financing and clear communication so there are no surprises about your care or costs."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "60da543c",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "3de20c67",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-53c04902"
+          },
+          "titleTag": "p",
+          "title": "Doctor-Led Personalization",
+          "descTag": "p",
+          "desc": "Dr. Moezzi is known for her attention to detail and compassionate approach, ensuring every crown is designed to fit your smile perfectly."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "polite",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #4",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #5",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "10f48276",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "44eade94",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "47977559",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "Patient Reviews"
+       },
+       {
+        "_key": "1e766c82",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Our patients often tell us how much of a difference their new crown has made in both comfort and confidence. Here’s what some have shared about their experience at Valencia Smile Expert:</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "5204bb23",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "700efab8",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "24a71e31",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/07/logos_google.webp\" width=\"93\"/> Rating"
+           },
+           {
+            "_key": "206fcc15",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "18eafe27",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7ee2834f",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "6ad78f61",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "67fbd928",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "4554dc9a",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "4bb6c162",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "23fb9a94",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "780cc88d",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "15ecd4d",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "cda974",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "36c24afd",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "53824b15",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4a704c46",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "2857c0a8",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "2c6f7db2",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "4b147000",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "78d1da04",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "4afe1a42",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "12031a45",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "ec2d37f",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "504ba013",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4980f749",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "2a2f5f2a",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "6a198e73",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "37a84327",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "3662fd4b",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "7610036d",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "5a1a8011",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "405fca1d",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "4a723126",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "26ac0ba2",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "3f3c937f",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "53c2c54c",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2eef0cb0",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "33d2d2d2",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "4b3ac82a",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "99e3ab7",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "61bbe0a4",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "5845f1b1",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "35e761d0",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "4726b9b7",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "79899b72",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "564b833b",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "2d729649",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "4f9ef081",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "69e57723",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "7d9582a9",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "213b4902",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "12dc4d0b",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "195b0a63",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita"
+     },
+     {
+      "_type": "box",
+      "_key": "226da92a",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "73f8cf77",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "38cf4074",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "749c7856",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "4ceb352c",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "60e5414f",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "3dfc4368",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "387de9ac",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "58b5e35c",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "35e0efc4",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "e51b240",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "b4d799c",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "5fb87493",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "5f95284c",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "78f88695",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "74b30848",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "172d40fb",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4c4d937c",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "5f304f7b",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "648f5131",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "4a5d1710",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2b6e100d",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "71874813",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "283cd1da",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "107aa787",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Book Your Dental Crowns Appointment in Valencia"
+         },
+         {
+          "_key": "1624a25c",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">If you’re dealing with a cracked, weakened, or damaged tooth, don’t wait until it gets worse. At Valencia Smile Expert, we make it easy to restore your smile with dental crowns in Valencia that are comfortable, natural-looking, and built to last. Schedule your appointment today and experience compassionate, advanced care right here in Santa Clarita.</span></p>"
+         },
+         {
+          "_type": "box",
+          "_key": "451e46d9",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "301d2380",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Request Your Appointment",
+            "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2f67c65",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "2f2fcf75",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "Frequently Asked Questions About Dental Crowns"
+     },
+     {
+      "_key": "71ad1750",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "c364a66",
+        "title": "How long do dental crowns last?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "c364a66",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "61152712",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">With good oral hygiene and regular checkups, most crowns last 10–15 years, and some even longer.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "27fa90dd",
+        "title": "Will getting a crown hurt?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "27fa90dd",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "bdb92d3",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">The procedure is not painful. We use local anesthetic to numb the tooth, and sedation options are available for patients with dental anxiety.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "5f3e86fd",
+        "title": "What are dental crowns made of?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "5f3e86fd",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "456fb661",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Most crowns are made from porcelain, ceramic, metal, or a combination of materials. At Valencia Smile Expert, we focus on porcelain and ceramic because they are strong, durable, and blend naturally with your smile. You can also explore the</span><a href=\"https://my.clevelandclinic.org/health/treatments/10923-dental-crowns?utm_source=chatgpt.com\"> <span style=\"font-weight: 400;\">Cleveland Clinic’s overview of dental crowns</span></a><span style=\"font-weight: 400;\"> for more details on the different types available.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "6979b43d",
+        "title": "How much do dental crowns cost in Santa Clarita?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "6979b43d",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "129aa5ee",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">The cost can vary depending on the type of crown and your insurance coverage. We offer transparent pricing and flexible financing to keep treatment affordable. Give us a call to discuss your coverage and payment options. </span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "3da323d2",
+        "title": "Can I get a same-day crown?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "3da323d2",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "34f96115",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">In some cases, yes. If you have a dental emergency, we’ll do everything possible to see you the same day and provide temporary or permanent protection as needed.</span></p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

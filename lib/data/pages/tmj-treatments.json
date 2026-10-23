@@ -1,0 +1,2019 @@
+{
+ "slug": "tmj-treatments",
+ "path": "/tmj-treatments/",
+ "seo": {
+  "title": "tmj treatments - Valencia Smile Expert",
+  "description": "",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1284 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1284 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1284",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1284",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "4265f462",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "5a76caca",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "592d1890",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "30f41271",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "TMJ Dentist in Valencia for Jaw Pain & Headaches"
+         },
+         {
+          "_key": "7b42e72a",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">Restore comfort and function with expert TMJ treatment from Valencia Smile Expert</span></p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "391b935d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "3f791fb0",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "390d8763",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "25558f5f",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "1b516777",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Get Relief with a TMJ Dentist in Santa Clarita"
+       },
+       {
+        "_key": "2d644c9a",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Living with jaw pain, headaches or difficulty chewing can ruin your day. At Valencia Smile Expert we have gentle and effective solutions to help you get back to comfort and function. Our TMJ treatments in Santa Clarita are personalized – using advanced diagnostics, custom oral appliances and holistic approaches to address the root cause of the discomfort not just the symptoms. Schedule your TMJ appointment in Santa Clarita with us today and get full function and comfort back to your jaw.</span></p>"
+       },
+       {
+        "_key": "179d5bb4",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Request Your Appointment",
+        "href": "/services/",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "46f1345",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2895c14",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "595ced32",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "3ce1b7c0",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "What Are <span style=\"color: #366797\"> TMJ Disorders?</span>"
+       },
+       {
+        "_key": "eaba686",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">The temporomandibular joint (TMJ) is the hinge that connects your jawbone to your skull, allowing you to chew, speak, and yawn. When this joint becomes strained, injured, or misaligned, it can lead to temporomandibular disorders (TMD). These conditions often cause ongoing discomfort that affects more than just your jaw.</span></p>"
+       },
+       {
+        "_key": "39d0d5cf",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/valencia-photo-5.png",
+         "width": 618,
+         "height": 449,
+         "cls": "attachment-large size-large wp-image-1020",
+         "alt": "",
+         "sizes": "(max-width: 618px) 100vw, 618px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "70d2ddf2",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "1424a59",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "p",
+        "html": "Common causes of TMJ disorders include:"
+       },
+       {
+        "_key": "1e092652",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Teeth grinding or clenching (bruxism)"
+       },
+       {
+        "_key": "8baeffd",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Misaligned bite or jaw structure"
+       },
+       {
+        "_key": "6ccd42b9",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Stress and muscle tension"
+       },
+       {
+        "_key": "3756dfd8",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Arthritis or inflammation in the joint"
+       },
+       {
+        "_key": "3f72ad0d",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Injury to the jaw or face"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "1346c3cd",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6f21a7cb",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "6aacc054",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Typical<span style=\"color: #366797\"> symptoms </span> may include:"
+       },
+       {
+        "_key": "662e2281",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "3bb2c77b",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "12960f62",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Jaw pain or stiffness"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "397862e5",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "5f6679f",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Clicking, popping, or locking of the jaw"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "430b41a",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "42e7bbd8",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Headaches or earaches"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3322cab",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "36910490",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Difficulty chewing or opening your mouth fully"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "6238f6e7",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "65536366",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Neck or shoulder pain from muscle tension"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "405aa7c3",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "387a9457",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "7b1e4319",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Who Is a Candidate for TMJ Treatment?"
+       },
+       {
+        "_key": "666d8778",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Have you been searching for </span><i><span style=\"font-weight: 400;\">TMJ treatment near me</span></i><span style=\"font-weight: 400;\">? Not every case of jaw tension requires professional care, but if your symptoms are frequent or getting worse, it may be time to see a TMJ specialist in Valencia. Seeking treatment early can prevent long-term complications and protect your teeth and jaw health.</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "4afbb6b3",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "3a1c74b4",
+          "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h3",
+          "html": "Signs You Need TMJ Treatment:"
+         },
+         {
+          "_key": "69d3e181",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Frequent Jaw Pain or Stiffness:</b> Discomfort that often appears in the morning or after chewing can signal strain on the joint.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i1",
+            "text": "<b>Clicking, Popping, or Locking of the Jaw: </b>Sounds or limited movement during everyday functions like eating or speaking may point to TMJ issues.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i2",
+            "text": "<b>Recurring Headaches or Earaches: </b> Tension in the jaw muscles can radiate, creating pain in the head, ears, and even the temples.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i3",
+            "text": "<b>Difficulty Chewing:</b> Pain or restricted movement when biting or chewing harder foods is a common indicator.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i4",
+            "text": "<b>Nighttime Teeth Grinding or Clenching:</b>  This habit, often noticed by a partner, can wear down teeth and worsen jaw tension.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i5",
+            "text": "<b>Neck or Shoulder Pain:</b> Muscle strain from TMJ dysfunction sometimes spreads beyond the jaw to surrounding areas.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "3fc0480f",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "d52855b",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "5696d47f",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Benefits of TMJ Treatments"
+     },
+     {
+      "_key": "4a0275b4",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">Choosing to get professional treatment for TMJ disorders does more than just ease daily discomfort. At Valencia Smile Expert, our patients often notice meaningful improvements in both their oral health and overall quality of life.</span></p>"
+     },
+     {
+      "_key": "47202703",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "359639d4",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "3234fb75",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "e-far-check-circle"
+          },
+          "titleTag": "p",
+          "title": "Lasting Pain Relief",
+          "descTag": "p",
+          "desc": "Targeted treatment reduces jaw tension, headaches, and muscle soreness linked to TMJ disorders."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "743e66b9",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "1f0aacb6",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "e-far-check-circle"
+          },
+          "titleTag": "p",
+          "title": "Improved Jaw Function",
+          "descTag": "p",
+          "desc": "Restores smoother, more comfortable movement when speaking, chewing, or yawning."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "7353632c",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "5032a420",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "e-far-check-circle"
+          },
+          "titleTag": "p",
+          "title": "Better Sleep Quality",
+          "descTag": "p",
+          "desc": "Night guards and other therapies help minimize teeth grinding and nighttime clenching."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "7ef98049",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "4ac16d9",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "e-far-check-circle"
+          },
+          "titleTag": "p",
+          "title": "Protection for Teeth and Gums",
+          "descTag": "p",
+          "desc": "Prevents long-term damage caused by grinding, uneven bite pressure, or misalignment."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "42831a7b",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "3e3de478",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "e-far-check-circle"
+          },
+          "titleTag": "p",
+          "title": "Enhanced Overall Well-Being",
+          "descTag": "p",
+          "desc": "Relief from pain and tension allows you to enjoy daily activities with greater ease and confidence."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "polite",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "234c046"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "f97c8bd"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "71733a69",
+    "cls": "e-flex e-con-boxed e-con e-child",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "16ad1fef",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "565f6c3b",
+        "cls": "elementor-hidden-mobile elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/09/dr-photo-1.png",
+         "width": 470,
+         "height": 515,
+         "cls": "attachment-large size-large wp-image-1286",
+         "alt": "",
+         "sizes": "(max-width: 470px) 100vw, 470px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "38f20be3",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "668d2f83",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "TMJ Treatment Options at Valencia Smile Expert"
+       },
+       {
+        "_key": "f9bdd0c",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">At Valencia Smile Expert, we take a comprehensive approach to TMJ care. Our goal is to relieve pain, protect your teeth, and restore balance with treatment options tailored to your needs.</span></p>"
+       },
+       {
+        "_key": "2aad5410",
+        "cls": "elementor-hidden-desktop elementor-hidden-tablet elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/09/dr-photo-1.png",
+         "width": 470,
+         "height": 515,
+         "cls": "attachment-large size-large wp-image-1286",
+         "alt": "",
+         "sizes": "(max-width: 470px) 100vw, 470px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "599178f",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "2cc9c45b",
+        "cls": "elementor-widget-mobile__width-initial elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "5dcbd809",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "38d49ebc",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-far-check-circle"
+            },
+            "titleTag": "h3",
+            "title": "Custom Night Guards",
+            "descTag": "p",
+            "desc": "Designed to reduce teeth grinding and clenching, night guards ease pressure on the jaw joint and protect your teeth from wear."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "5bddc4c7",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "54f85c11",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-far-check-circle"
+            },
+            "titleTag": "h3",
+            "title": "Botox for TMJ Relief",
+            "descTag": "p",
+            "desc": "Targeted Botox injections can relax overactive jaw muscles, reducing pain, tension, and strain caused by TMJ disorders."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "6c0c4c71",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "1eaa5bd",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-far-check-circle"
+            },
+            "titleTag": "h3",
+            "title": "Sleep Apnea & Oral Devices",
+            "descTag": "p",
+            "desc": "Specialized appliances not only improve nighttime breathing but also help reduce clenching and grinding that worsen TMJ symptoms."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "a637adb",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "1f20cc82",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-far-check-circle"
+            },
+            "titleTag": "h3",
+            "title": "Bite Adjustments & Restorative Solutions",
+            "descTag": "p",
+            "desc": "Correcting bite alignment or addressing worn teeth restores proper function and reduces stress on the jaw joint."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4928085",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "273c79bf",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-far-check-circle"
+            },
+            "titleTag": "h3",
+            "title": "Lifestyle & Stress Management Guidance",
+            "descTag": "p",
+            "desc": "Our team provides practical strategies for posture, relaxation, and daily habits that can minimize TMJ triggers and support long-term relief."
+           }
+          ]
+         }
+        ],
+        "ariaLive": "polite",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "f499c7c"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "db94007"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "4d12fcc"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "5ff7be4"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "2d1bfb8"
+          }
+         ],
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 20,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "slides_to_show": "3",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "speed": 500,
+         "pagination": "bullets",
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "205cbae0",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "48073228",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "What to Expect: Step-by-Step TMJ Treatment Process"
+     },
+     {
+      "_key": "6c57a056",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">Getting relief from TMJ pain starts with understanding your unique symptoms and creating a plan that fits your lifestyle. At Valencia Smile Expert, here’s how the process works:</span></p>"
+     },
+     {
+      "_key": "43b95139",
+      "cls": "elementor-hidden-mobile elementor-widget-image",
+      "_type": "image",
+      "img": {
+       "src": "/images/uploads/2025/07/line-background.svg",
+       "width": 928,
+       "height": 228,
+       "cls": "attachment-full size-full wp-image-1023",
+       "alt": ""
+      }
+     },
+     {
+      "_type": "box",
+      "_key": "58cf7150",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "134363d1",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "aff221d",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/1-image.png",
+           "width": 58,
+           "height": 134,
+           "cls": "attachment-full size-full wp-image-1024",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Comprehensive Evaluation",
+          "desc": "We begin with a thorough exam that may include bite analysis, digital imaging, and a review of your medical history to pinpoint the cause of your discomfort."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "723778f4",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "3abd13fe",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/2-image.png",
+           "width": 102,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1025",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Personalized Treatment Plan",
+          "desc": "Based on your diagnosis, Dr. Moezzi designs a custom treatment plan that may involve oral appliances, Botox therapy, bite adjustments, or holistic recommendations."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "10306986",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "49cc4d30",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/3-image.png",
+           "width": 104,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1026",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Ongoing Care & Support",
+          "desc": "Your progress is monitored closely with follow-up visits to adjust treatment, provide at-home guidance, and ensure lasting relief and improved jaw function."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "735fe946",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "f9c321f",
+      "cls": "elementor-widget__width-initial elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose Valencia Smile <span style=\"color:#366797\">Expert for TMJ Treatment\n</span>in Santa Clarita"
+     },
+     {
+      "_key": "6a440b72",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">Choosing the right Santa Clarita TMJ treatment provider is important for lasting relief from TMJ pain. At Valencia Smile Expert, our team goes beyond symptom management to deliver personalized, compassionate care you can trust.</span></p>"
+     },
+     {
+      "_key": "512f5423",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "407aade6",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "29cd38dc",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "p",
+          "title": "Compassionate, Patient-Centered Care",
+          "descTag": "p",
+          "desc": "Dr. Moezzi is known for her detail-oriented approach and commitment to helping patients feel comfortable and understood."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "257976da",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "1b6c95d0",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-5180bb2e"
+          },
+          "titleTag": "p",
+          "title": "Advanced Technology",
+          "descTag": "p",
+          "desc": "From digital imaging to precision oral appliances, we use the latest tools to diagnose and treat TMJ disorders effectively."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "53ab4959",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "1781738a",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Stress-Free Experience",
+          "descTag": "p",
+          "desc": "With sedation options and a welcoming environment, our office feels less like a clinic and more like a trusted space for care."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "30a3ac5e",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "18e74064",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-29af3ae4"
+          },
+          "titleTag": "p",
+          "title": "Comprehensive Services Under One Roof",
+          "descTag": "p",
+          "desc": "Whether you need a night guard, Botox therapy, or restorative treatment, everything is available in one convenient Santa Clarita location."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "33364e42",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "1c00e210",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-53c04902"
+          },
+          "titleTag": "p",
+          "title": "Transparent Pricing & Flexible Options",
+          "descTag": "p",
+          "desc": "We make TMJ care accessible with clear communication, flexible financing, and a $59 new patient special."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "polite",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #4",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #5",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "176d17bd",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6c978209",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "56bc123e",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "What Our Patients Are Saying"
+       },
+       {
+        "_key": "5bb9b3bd",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Nothing speaks louder than the experiences of our patients. Many in Valencia and Santa Clarita have found lasting relief from TMJ pain with our personalized care.</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "167d5781",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "18b94e93",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7dd4d496",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p><img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/07/logos_google.webp\" width=\"93\"/> Rating</p>"
+           },
+           {
+            "_key": "72cafd13",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "492ad7a4",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7802e40e",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "3d5ccde3",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "4a670f4a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "2a118e1b",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "46ca368f",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "62830caa",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "11c8c7b2",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "6f31d266",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "63fb3989",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "77436a55",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "2c920543",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "31701252",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "31d588d6",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "59251d9a",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "1df35a76",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "3ef539b0",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "66f989ff",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "3d66f540",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "790f3888",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "4c282500",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "520bcc43",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "7f8e32e1",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "3b70d3c2",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "5ab844d4",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "689ef9ff",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "13f1bac4",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "26806e08",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "7731f8e5",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "2ff8e299",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "22b8dc07",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "4eedd4bd",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "2279e5d1",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "7534bd2c",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "730a6084",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2802cdfe",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "488c24ea",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "659a07e0",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "4f2e9ad2",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "638e7759",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "69dc9547",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "5419bdac",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "6742a5aa",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "48941ce4",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "643bed65",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "296047b2",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "97bae1f",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "22850ef5",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "662a712f",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "4e10c505",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita"
+     },
+     {
+      "_type": "box",
+      "_key": "53af789e",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "6793e47d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "7e89c7eb",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=27420%20Tourney%20Rd%20Suite%20240%20Santa%20Clarita%2C%20CA%2091355&t=m&z=17&output=embed&iwloc=near",
+          "title": "27420 Tourney Rd Suite 240 Santa Clarita, CA 91355",
+          "label": "27420 Tourney Rd Suite 240 Santa Clarita, CA 91355"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "51d17ad3",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "24a26891",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "737d121f",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "787834c2",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "4bc71167",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "7fd88c71",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "125eef4b",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "1b905392",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "c0b2d18",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "28407b2b",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "93221ad",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "1d1f6015",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "55dd2423",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "1236b9bb",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "639cbf94",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7fcfab50",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7b6252bc",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "472aad72",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5ab2d23",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "21af1598",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "75414b91",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "6ad3c60b",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Visit the #1 TMJ Dentist in Valencia Today"
+         },
+         {
+          "_key": "719240bc",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">Don’t let jaw pain, headaches, or teeth grinding continue to disrupt your quality of life. At Valencia Smile Expert, our team offers advanced TMJ treatments in Santa Clarita designed to restore comfort, function, and long-term health. Schedule your consultation with the #1 TMJ dentist in Valencia today and take the first step toward lasting relief.</span></p>"
+         },
+         {
+          "_type": "box",
+          "_key": "7805b068",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "431fb165",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Request Your Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "6639c716",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "195d592",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "Frequently Asked Questions About TMJ Treatments"
+     },
+     {
+      "_key": "73d4a054",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "467628cb",
+        "title": "What are the most common symptoms of TMJ disorders?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "467628cb",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "579cec20",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Patients often notice jaw pain, stiffness, clicking or popping sounds, headaches, and even discomfort that spreads to the neck or shoulders.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "22fc3eba",
+        "title": "How do I know if I need TMJ treatment?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "22fc3eba",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "5d2979b",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">If you’re experiencing ongoing jaw discomfort, difficulty chewing, or frequent headaches, it may be time to see a TMJ dentist in Santa Clarita. According to</span><a href=\"https://www.webmd.com/oral-health/temporomandibular-disorders-tmd?utm_source=chatgpt.com\"> <span style=\"font-weight: 400;\">WebMD’s overview of TMJ disorders</span></a><span style=\"font-weight: 400;\">, getting an evaluation early can prevent long-term complications.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "24abbabd",
+        "title": "Are TMJ treatments painful?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "24abbabd",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "246aee11",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Most TMJ treatments are non-invasive and designed to ease discomfort, not add to it. Oral appliances, Botox therapy, and bite adjustments are comfortable and focused on relief.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "2da552ee",
+        "title": "How long does it take to see results from TMJ treatment?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "2da552ee",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "69b3aa6b",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Some patients notice improvements within weeks, while others may take longer depending on the severity of their condition and treatment plan.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "49592b13",
+        "title": "Does insurance cover TMJ treatments?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "49592b13",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "511d3290",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Coverage varies by provider. Our team will review your benefits, explain what’s included, and help you explore financing options if needed.</span></p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

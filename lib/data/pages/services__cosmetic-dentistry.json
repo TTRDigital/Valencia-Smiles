@@ -1,0 +1,1780 @@
+{
+ "slug": "services__cosmetic-dentistry",
+ "path": "/services/cosmetic-dentistry/",
+ "seo": {
+  "title": "Cosmetic Dentistry in Santa Clarita | Valencia Smile Expert",
+  "description": "Explore Valencia Smile Expert's top-rated Cosmetic Dentistry in Santa Clarita—modern care, advanced technology, and 1-on-1 personalized treatment. Book today.",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1136 page-parent page-child parent-pageid-175 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1136 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1136",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1136",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "46ef7012",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "45413240",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "11d866e8",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "4944a3b9",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Cosmetic Dentistry Santa Clarita: Trusted Smile Transformations"
+         },
+         {
+          "_key": "7edb5c91",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">Let Dr. Moezzi and her team help you achieve a confident, radiant smile with the top cosmetic dentistry in Santa Clarita.</span></p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "1626734d",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "9d1dbb0",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "1adc6699",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "784958b5",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "1a40ec59",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "The Best Cosmetic Dentistry Experts of Santa Clarita"
+       },
+       {
+        "_key": "790f7594",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "When it comes to cosmetic dentistry in Santa Clarita, Valencia Smile Expert stands out for personalized care, advanced technology, and life-changing results. Led by the highly regarded Dr. Moezzi—known for her precision, warmth, and dedication—our team delivers smile transformations that look natural and feel effortless. Whether you’re considering teeth whitening, Invisalign, or porcelain veneers, we take the time to understand your goals and craft a plan that fits your lifestyle. With same-day availability, modern treatment options, and a welcoming environment that feels like home, you’re in the best hands for a smile you’ll love."
+       },
+       {
+        "_key": "4f4be540",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Book Your Cosmetic Dentistry Consultation",
+        "href": "/services/",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "5bca235a",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "74eabd03",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "56c4e414",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "527bc03f",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "What Is <span style=\"color: #366797\">Cosmetic Dentistry</span> and Why It Matters"
+       },
+       {
+        "_key": "371e070c",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Cosmetic dentistry enhances the look of your smile by addressing issues like discoloration, uneven teeth, and gaps—but at Valencia Smile Expert, it goes deeper. Under the care of Dr. Moezzi, every treatment is personalized to boost your confidence and deliver beautiful, natural-looking results with advanced, comfortable techniques.</p>"
+       },
+       {
+        "_key": "5d38b953",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/valencia-photo-5.png",
+         "width": 618,
+         "height": 449,
+         "cls": "attachment-large size-large wp-image-1020",
+         "alt": "",
+         "sizes": "(max-width: 618px) 100vw, 618px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "58fae255",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "74f721c8",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "p",
+        "html": "Common concerns cosmetic dentistry can address:"
+       },
+       {
+        "_key": "742cf0d0",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Stained or discolored teeth"
+       },
+       {
+        "_key": "3e6a8a82",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Gaps between teeth"
+       },
+       {
+        "_key": "da97710",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Chipped or cracked enamel"
+       },
+       {
+        "_key": "61c4bbb",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Uneven gum lines"
+       },
+       {
+        "_key": "2802a6eb",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Crooked or misaligned teeth"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "1c46df5c",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "3399c0a7",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "5af25cc4",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "<span style=\"color: #366797\">Cosmetic Dental</span> Treatments Offered at Valencia Smile Expert"
+       },
+       {
+        "_key": "1034edcc",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>At Valencia Smile Expert, we offer a full range of cosmetic dental treatments designed to help you achieve a natural-looking smile you’ll love. Whether you’re looking for subtle improvements or a full smile makeover in Santa Clarita, Dr. Moezzi and her experienced team provide modern, minimally invasive solutions tailored to your goals.</p>"
+       },
+       {
+        "_key": "1f45fb9b",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "283115f8",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "1cbb6776",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Professional Teeth Whitening",
+            "descTag": "p",
+            "desc": "Brighten your smile quickly and safely with clinical-strength whitening treatments—far more effective than store-bought kits. Ideal for patients looking to reverse years of tooth discoloration."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "14c9076a",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "e59a5fe",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Invisalign® Clear Aligners",
+            "descTag": "p",
+            "desc": "Straighten your teeth discreetly with removable aligners that fit your lifestyle. Invisalign is a popular choice for adults in Valencia CA who want a straighter smile without braces."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "c164f41",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "41295f1",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Porcelain Veneers",
+            "descTag": "p",
+            "desc": "Custom-crafted to fit your facial features, veneers cover chips, gaps, and stains for a flawless finish. Patients seeking cosmetic veneers in Santa Clarita love the immediate, dramatic results."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4c73d8a2",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "57ec0685",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Cosmetic Dental Bonding",
+            "descTag": "p",
+            "desc": "A quick, affordable option to repair chips, close small gaps, or reshape teeth using a tooth-colored resin that blends seamlessly with your smile."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "5776fe9a",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "73453afd",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Gum Contouring & Smile Design",
+            "descTag": "p",
+            "desc": "Refine your dental aesthetics with soft-tissue sculpting that creates balance between teeth and gums—ideal for patients with uneven gum lines or a “gummy” smile."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7f76546b",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "4fae89e3",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Full Smile Makeovers",
+            "descTag": "p",
+            "desc": "Combine two or more treatments like Invisalign, veneers, and whitening into a comprehensive plan, personalized by Dr. Moezzi for long-lasting, confidence-boosting results."
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "5393dab"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "1f5104c8",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "5c893b2c",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "7d125114",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "The Benefits of <span style=\"color: #366797\">Cosmetic Dentistry</span> From Valencia Smile Expert"
+       },
+       {
+        "_key": "378173f",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Investing in your smile isn’t just about appearance—it can have a lasting impact on your confidence, health, and quality of life. Our cosmetic dental treatments are designed to enhance how you look and feel, using modern techniques that prioritize comfort and long-term results. Here are just a few of the benefits our Santa Clarita cosmetic dentistry patients experience:</p>"
+       },
+       {
+        "_type": "box",
+        "_key": "3a2d71f4",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "26368145",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Boosted Confidence</b>: A bright, even smile can help you feel more self-assured in social and professional settings.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i1",
+            "text": "<b>Natural-Looking Results</b>: With Dr. Moezzi’s expert touch, you’ll achieve a smile that looks beautifully real—not overdone.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i2",
+            "text": "<b>Improved Oral Function</b>: Treatments like Invisalign not only straighten teeth but also improve your bite and overall dental health.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i3",
+            "text": "<b>Long-Lasting Transformations</b>: With proper care, veneers, whitening, and bonding can provide lasting results for years to come.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i4",
+            "text": "<b>Fast, Minimally Invasive Procedures</b>: Many cosmetic treatments can be completed in just one or two visits, with little to no downtime.",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "4e37606a",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "328a388a",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "42b835d6",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose <span style=\"color:#366797\">Valencia Smile Expert</span> for Cosmetic Dentistry?"
+     },
+     {
+      "_key": "59f33a2d",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "Choosing the right provider for your smile transformation is a big decision—and at Valencia Smile Expert, we make it an easy one. Led by the highly respected Dr. Moezzi, our team is known for delivering personalized dental care in a setting that feels like home."
+     },
+     {
+      "_key": "961f307",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "77c1cf51",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "1c09afe5",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "p",
+          "title": "Doctor-Led Expertise",
+          "descTag": "p",
+          "desc": "Dr. Moezzi is hands-on with every patient, bringing artistic precision and years of experience in advanced cosmetic dentistry."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "6274c784",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "19da5477",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Modern Technology",
+          "descTag": "p",
+          "desc": "From digital smile previews to guided Invisalign planning, we use today’s most effective tools to ensure natural, lasting results."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "1094562c",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "7f13475d",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-543ab953"
+          },
+          "titleTag": "p",
+          "title": "Same-Day Appointments",
+          "descTag": "p",
+          "desc": "We respect your time with flexible scheduling and convenient care, perfect for busy professionals and families alike."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "531ab4d6",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "1010f13d",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-5180bb2e"
+          },
+          "titleTag": "p",
+          "title": "Stress-Free Experience",
+          "descTag": "p",
+          "desc": "With sedation options and a warm, upbeat atmosphere, even nervous patients feel at ease."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "547fc9e4",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "b87f6f5",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-53c04902"
+          },
+          "titleTag": "p",
+          "title": "Affordable & Transparent",
+          "descTag": "p",
+          "desc": "Enjoy upfront pricing, flexible financing, and our $59 new patient special—because a confident smile should be within reach."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "polite",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #4",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #5",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "71ce6dfa",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "73afcb03",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "Real Results: Smile Transformations You Can See"
+     },
+     {
+      "_key": "3d5ce8f1",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>At Valencia Smile Expert, we take pride in delivering not just dental work—but life-changing smile transformations. Our patients often tell us how their confidence and quality of life improved after completing a cosmetic smile makeover in Santa Clarita.</p>"
+     },
+     {
+      "_type": "box",
+      "_key": "506131e",
+      "cls": "e-con-full before-after-slider-wrap e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "f2db331",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-4.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-4.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-1",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "2de06fd",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-1.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-1.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-2",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "a31833b",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-2.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-2.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-3",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "dc9a66a",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-3.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-3.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-4",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "3544a83",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-5.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-5.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-5",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "41eca50",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-6.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-6.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-6",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "109c11b6",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "21a92150",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "How to Get Started with Your Smile Transformation"
+     },
+     {
+      "_key": "67442b63",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>Getting the smile you’ve always wanted is simple with our caring, patient-focused team. Here’s how it works:</p>"
+     },
+     {
+      "_key": "7daac949",
+      "cls": "elementor-hidden-mobile elementor-widget-image",
+      "_type": "image",
+      "img": {
+       "src": "/images/uploads/2025/07/line-background.svg",
+       "width": 928,
+       "height": 228,
+       "cls": "attachment-full size-full wp-image-1023",
+       "alt": ""
+      }
+     },
+     {
+      "_type": "box",
+      "_key": "6f62acc3",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "4ce2eef1",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "59fe3151",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/1-image.png",
+           "width": 58,
+           "height": 134,
+           "cls": "attachment-full size-full wp-image-1024",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Schedule Your Consultation",
+          "desc": "Book a same-day or next-day appointment online or by phone. Dr. Moezzi will meet with you to understand your goals and recommend the right cosmetic dental treatments for your smile."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "66637c32",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "2be3e8c6",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/2-image.png",
+           "width": 102,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1025",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Get a Personalized Treatment Plan",
+          "desc": "We’ll create a custom plan using advanced diagnostics and digital smile design tools to map out your ideal results. You’ll receive clear pricing and flexible payment options up front—no surprises."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "4ca383e2",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "7ae64ffb",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/3-image.png",
+           "width": 104,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1026",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Begin Your Smile Makeover",
+          "desc": "Whether it’s professional teeth whitening, Invisalign, veneers, or a full smile makeover, we’ll deliver beautiful, natural-looking results with comfort and care every step of the way."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "78eb430c",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6f8b37db",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "73fc97b6",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "What Patients Are Saying About Their Smile Experience"
+       },
+       {
+        "_key": "e4b1423",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Patients throughout Santa Clarita and Valencia choose Dr. Moezzi for her gentle approach, advanced skills, and genuine care. Whether it’s a first consultation or a complete cosmetic smile makeover, the feedback speaks for itself:"
+       },
+       {
+        "_type": "box",
+        "_key": "5cf71610",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "6e07eea2",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "1fd97bf4",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p><img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/07/logos_google.webp\" width=\"93\"/> Rating</p>"
+           },
+           {
+            "_key": "293723bf",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4983d822",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7ba26af3",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "39c69fab",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "1661dfb5",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "c6a8318",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "42cae732",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2cb548fa",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "7f4e74f2",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "54536c43",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "19b4a45c",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "679ccde7",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "38ba199b",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4e741b9b",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "51fbe1c1",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "61b6832c",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2d379c6b",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "75f9abfb",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "77a062bf",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "41ee7037",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "2e147d9",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "6a3d029a",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3fb94b16",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "2e5d2d98",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "489b5c8c",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "77ed48a2",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "39c3c1bd",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2330362a",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "5a076d24",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "6e41b9dc",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "6f5ecf4f",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "649e8cfc",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "d32241c",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "2b2ced3",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "7eca753a",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "72c46c61",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "57f94855",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "29872dc5",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "263ffe54",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "7cf84084",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "194f3f8e",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "3ca1b03e",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "5a42d7d2",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "39eed2d7",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "5d369d2a",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "7bc17435",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "35c82425",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "9927791",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "534b7d7e",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "37a13b93",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "6a34704c",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "e9d8051",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "7ae7f19e",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Ready to Love Your Smile? <br/>\nBook Your Cosmetic Dentistry Consultation Today"
+         },
+         {
+          "_key": "4872a575",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "Your dream smile is closer than you think. At Valencia Smile Expert, we make it easy to get started with expert guidance, advanced cosmetic treatments, and a warm, welcoming team that’s here for you every step of the way. Whether you’re considering a quick enhancement or a complete smile transformation, you’ll receive personalized care you can trust. Book your consultation now and see why so many patients choose us for cosmetic dentistry Santa Clarita residents rely on for natural results, affordable care, and lasting confidence."
+         },
+         {
+          "_type": "box",
+          "_key": "3073902c",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "3cec8b9d",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Your Cosmetic Dentistry Consultation",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "23073b2",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "64acd11",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita, California"
+     },
+     {
+      "_type": "box",
+      "_key": "2264034",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "607db48f",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "780d9bf5",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "746ea30c",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "18a4325a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "53e2925a",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "5fdd2430",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "1aed1c4d",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "3bd9e29",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4a50c96f",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "69d00767",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "4a6ee492",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "298926f3",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "69813a9",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "27411945",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "6192ae7b",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "57a39f12",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2397ea64",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7c719086",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "27c5adbb",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "7cf757f2",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "79262b72",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "70b334fe",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "<span style=\"color:#366797\">Cosmetic Dentistry</span> FAQs"
+     },
+     {
+      "_key": "6818c64b",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "5324a845",
+        "title": "How do I know which cosmetic treatment is right for me?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "5324a845",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "772bae6f",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>During your consultation, Dr. Moezzi will evaluate your smile, listen to your goals, and recommend the best cosmetic dental treatments—whether that’s whitening, Invisalign, veneers, or a full smile makeover. You can also learn more about the different types of cosmetic procedures and their benefits from this helpful <a href=\"https://my.clevelandclinic.org/health/treatments/23914-cosmetic-dentistry\" rel=\"noopener\" target=\"_blank\">Cleveland Clinic guide on cosmetic dentistry</a>.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "56ed5479",
+        "title": "Is cosmetic dentistry painful?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "56ed5479",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "235521e9",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Most cosmetic procedures are minimally invasive and virtually painless. At our Santa Clarita office, we offer sedation options and gentle techniques to ensure a comfortable, stress-free experience.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "20c7bd5b",
+        "title": "How long do veneers or whitening results last?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "20c7bd5b",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "7a292b95",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Porcelain veneers can last 10–15 years or longer with proper care. Professional teeth whitening results can last up to a year or more and are easy to maintain with periodic touch-ups.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "35954f47",
+        "title": "Does insurance cover cosmetic dentistry?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "35954f47",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "59b6e330",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Cosmetic procedures are typically not covered by insurance. However, we offer transparent pricing and flexible financing options to make treatment accessible and affordable.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "57520aba",
+        "title": "How soon can I schedule an appointment?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "57520aba",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "19945294",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>We offer same-day and next-day appointments whenever possible. If you’re ready to explore cosmetic dentistry in Santa Clarita, give us a call or book online—we’ll get you in quickly.</p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

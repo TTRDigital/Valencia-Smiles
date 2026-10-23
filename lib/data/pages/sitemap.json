@@ -1,0 +1,51 @@
+{
+ "slug": "sitemap",
+ "path": "/sitemap/",
+ "seo": {
+  "title": "Sitemap - Valencia Smile Expert",
+  "description": "",
+  "ogImage": null
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1092 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1092 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1092",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1092",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "25c4047c",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "67e94b9b",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "2bd786a",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "Sitemap"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "559d509",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "9447395",
+      "cls": "elementor-widget-shortcode",
+      "_type": "html",
+      "html": "<div class=\"wsp-container\"><h2 class=\"wsp-pages-title\">Pages</h2>\n<ul class=\"wsp-pages-list\">\n<li class=\"page_item page-item-392 menu-item\"><a class=\"menu-link\" href=\"/about/\">About</a></li>\n<li class=\"page_item page-item-1367 menu-item\"><a class=\"menu-link\" href=\"/appointment/\">Appointment</a></li>\n<li class=\"page_item page-item-177 menu-item\"><a class=\"menu-link\" href=\"/contact/\">Contact</a></li>\n<li class=\"page_item page-item-12 menu-item\"><a class=\"menu-link\" href=\"/\">Home</a></li>\n<li class=\"page_item page-item-3 menu-item\"><a class=\"menu-link\" href=\"/privacy-policy/\">Privacy Policy</a></li>\n<li class=\"page_item page-item-175 page_item_has_children menu-item menu-item-has-children\"><a class=\"menu-link\" href=\"/services/\">Services</a>\n<ul class=\"children\">\n<li class=\"page_item page-item-1136 page_item_has_children menu-item menu-item-has-children\"><a class=\"menu-link\" href=\"/services/cosmetic-dentistry/\">Cosmetic Dentistry</a>\n<ul class=\"children\">\n<li class=\"page_item page-item-1223 menu-item\"><a class=\"menu-link\" href=\"/services/cosmetic-dentistry/composite-filling/\">Composite Filling</a></li>\n<li class=\"page_item page-item-1219 menu-item\"><a class=\"menu-link\" href=\"/services/cosmetic-dentistry/invisalign/\">Invisalign</a></li>\n<li class=\"page_item page-item-1177 menu-item\"><a class=\"menu-link\" href=\"/services/cosmetic-dentistry/teeth-whitening/\">Teeth Whitening</a></li>\n<li class=\"page_item page-item-1159 menu-item\"><a class=\"menu-link\" href=\"/services/cosmetic-dentistry/veneers/\">Veneers</a></li>\n</ul>\n</li>\n<li class=\"page_item page-item-1315 menu-item\"><a class=\"menu-link\" href=\"/services/dental-crowns/\">Dental Crowns</a></li>\n<li class=\"page_item page-item-1086 menu-item\"><a class=\"menu-link\" href=\"/services/dental-implants/\">Dental Implants</a></li>\n<li class=\"page_item page-item-1334 menu-item\"><a class=\"menu-link\" href=\"/services/holistic-dentistry/\">Holistic Dentistry</a></li>\n<li class=\"page_item page-item-1015 page_item_has_children menu-item menu-item-has-children\"><a class=\"menu-link\" href=\"/services/oral-surgery/\">Oral Surgery</a>\n<ul class=\"children\">\n<li class=\"page_item page-item-1043 menu-item\"><a class=\"menu-link\" href=\"/services/oral-surgery/all-on-4-implants/\">All On 4 Implants</a></li>\n<li class=\"page_item page-item-1057 menu-item\"><a class=\"menu-link\" href=\"/services/oral-surgery/bone-grafting/\">Bone Grafting</a></li>\n<li class=\"page_item page-item-1050 menu-item\"><a class=\"menu-link\" href=\"/services/oral-surgery/tooth-extractions/\">Tooth Extractions</a></li>\n<li class=\"page_item page-item-1066 menu-item\"><a class=\"menu-link\" href=\"/services/oral-surgery/wisdom-teeth-removal/\">Wisdom Teeth Removal</a></li>\n</ul>\n</li>\n<li class=\"page_item page-item-1221 page_item_has_children menu-item menu-item-has-children\"><a class=\"menu-link\" href=\"/services/restorative-dentistry/\">Restorative Dentistry</a>\n<ul class=\"children\">\n<li class=\"page_item page-item-1297 menu-item\"><a class=\"menu-link\" href=\"/services/restorative-dentistry/dental-bridges/\">Dental Bridges</a></li>\n</ul>\n</li>\n</ul>\n</li>\n<li class=\"page_item page-item-1092 current_page_item menu-item current-menu-item\"><a class=\"menu-link\" href=\"/sitemap/\">Sitemap</a></li>\n<li class=\"page_item page-item-1351 menu-item\"><a class=\"menu-link\" href=\"/terms-and-services/\">terms and services</a></li>\n<li class=\"page_item page-item-176 menu-item\"><a class=\"menu-link\" href=\"/testimonials/\">Testimonials</a></li>\n<li class=\"page_item page-item-1284 menu-item\"><a class=\"menu-link\" href=\"/tmj-treatments/\">tmj treatments</a></li>\n</ul>\n</div>"
+     }
+    ]
+   }
+  ]
+ }
+}

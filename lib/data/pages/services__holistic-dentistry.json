@@ -1,0 +1,1700 @@
+{
+ "slug": "services__holistic-dentistry",
+ "path": "/services/holistic-dentistry/",
+ "seo": {
+  "title": "Holistic Dentistry - Valencia Smile Expert",
+  "description": "",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1334 page-child parent-pageid-175 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1334 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1334",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1334",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "7e85fbaa",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "14abe365",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "48e065b7",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "491a005f",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "A Truly Holistic Dentist <br/>in Valencia"
+         },
+         {
+          "_key": "5b5cacd3",
+          "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<span style=\"font-weight: 400;\">Whole-Body Wellness Begins with a Healthy Smile <br/>at Valencia Smile Expert</span>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "784b2e67",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "58fb02b5",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "6c9cec6b",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "755f56c0",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "54059b2f",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Natural Dental Care That Supports Whole-Body Wellness"
+       },
+       {
+        "_key": "3781fb78",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">At Valencia Smile Expert, we believe your oral health is deeply connected to your overall well-being. That’s why we offer holistic dentistry in Santa Clarita—a patient-first approach that focuses on safe, biocompatible materials and minimally invasive techniques. From mercury-free fillings to fluoride-free cleanings, our care is designed to protect not just your teeth, but your entire body. Whether you’re managing a chronic condition, avoiding toxins, or simply seeking a more mindful dental experience, our team is here to support your health—naturally.</span></p>"
+       },
+       {
+        "_key": "5415cc42",
+        "cls": "elementor-mobile-align-justify elementor-widget-button",
+        "_type": "button",
+        "text": "Book Your Holistic Dentistry Appointment",
+        "href": "/services/",
+        "aCls": "elementor-button elementor-button-link elementor-size-sm"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "eee7c8f",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "7bc12449",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "4ded9289",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "1b1fcad2",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "What Is <span style=\"color: #366797\"> Holistic Dentistry</span> and How Is It Different?"
+       },
+       {
+        "_key": "162dca36",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Holistic dentistry looks at the mouth as a window to your overall health. At Valencia Smile Expert, we take a biological, whole-body approach—using non-toxic materials, focusing on prevention, and avoiding unnecessary procedures. It’s ideal for patients seeking safer, more mindful dental care.</span></p>"
+       },
+       {
+        "_key": "4d4e8629",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/valencia-photo-5.png",
+         "width": 618,
+         "height": 449,
+         "cls": "attachment-large size-large wp-image-1020",
+         "alt": "",
+         "sizes": "(max-width: 618px) 100vw, 618px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "43103c92",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "7a853798",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "p",
+        "html": "Core principles we follow:"
+       },
+       {
+        "_key": "64258e78",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Use of biocompatible, mercury-free materials"
+       },
+       {
+        "_key": "5b7b3e4",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Minimally invasive, preventive treatments"
+       },
+       {
+        "_key": "31ac05b8",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Personalized care that supports full-body wellness"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "11fd5950",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "7bb288f6",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "6b14cb76",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Our <span style=\"color: #366797\">Holistic Dental</span> Treatments"
+       },
+       {
+        "_key": "60c58d1b",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">At Valencia Smile Expert, our holistic dental treatments are designed to protect both your oral health and your overall well-being. Each treatment is rooted in a commitment to safe materials, gentle techniques, and personalized dental care that aligns with your body’s natural healing processes.</span></p>"
+       },
+       {
+        "_key": "a5e361b",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "9bb2fad",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "5c0b7c8",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Biocompatible <br/>Fillings",
+            "descTag": "p",
+            "desc": "Tooth-colored restorations made without mercury or BPA"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "66adab15",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "3927d00d",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Ozone <br/>Therapy",
+            "descTag": "p",
+            "desc": "A natural antibacterial treatment that supports healing and reduces infection"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "470d3c2c",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "3586a8d",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Safe Amalgam <br/>Removal",
+            "descTag": "p",
+            "desc": "SMART-certified techniques to safely remove old silver fillings"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "381e27b4",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "58f054ab",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Fluoride-Free <br/>Cleanings",
+            "descTag": "p",
+            "desc": "Gentle preventive care using alternative remineralizing agents"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7309528c",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "2a610a0b",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Non-Metal <br/>Restorations",
+            "descTag": "p",
+            "desc": "Durable, aesthetic crowns and bridges free from toxic metals"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "16d69d50",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "7d0dbb6f",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Holistic Periodontal <br/>Therapy",
+            "descTag": "p",
+            "desc": "Gum care that reduces inflammation and supports systemic health"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "763d4263",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "6de55934",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Holistic Bone <br/>& Gum Grafting",
+            "descTag": "p",
+            "desc": "Gum care that reduces inflammation and supports systemic health"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "5393dab"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "7d10aff"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "speed": 500,
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "78aa771",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "7c2ca07c",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "Our <span style=\"color:#366797\">Holistic Dentistry </span>Process: What to Expect"
+     },
+     {
+      "_key": "1a73b2f6",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">At Valencia Smile Expert, we make your holistic dental experience comfortable, safe, and personalized from the start. Our step-by-step approach ensures that every treatment supports your overall health as well as your smile.</span></p>"
+     },
+     {
+      "_key": "65708fe",
+      "cls": "elementor-hidden-mobile elementor-widget-image",
+      "_type": "image",
+      "img": {
+       "src": "/images/uploads/2025/07/line-background.svg",
+       "width": 928,
+       "height": 228,
+       "cls": "attachment-full size-full wp-image-1023",
+       "alt": ""
+      }
+     },
+     {
+      "_type": "box",
+      "_key": "4bae80ff",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "7c1cfcbb",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "708ff417",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/1-image.png",
+           "width": 58,
+           "height": 134,
+           "cls": "attachment-full size-full wp-image-1024",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Comprehensive Evaluation",
+          "desc": "We begin with a full oral health exam, medical history review, and, if needed, biocompatibility testing to identify the safest treatment options for your body."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "7d6dcdf9",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "460a6d62",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/2-image.png",
+           "width": 102,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1025",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Personalized Treatment Plan",
+          "desc": "We design a plan that aligns with your wellness goals—prioritizing non-toxic materials, gentle techniques, and natural therapies."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "75b70320",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "2a46cb77",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/3-image.png",
+           "width": 104,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1026",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Long-Term Care & Prevention",
+          "desc": "Our team supports your continued health with ongoing preventive care, education, and natural maintenance strategies tailored to your lifestyle."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "54e15251",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "70543b48",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "26367f2c",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Who Is a Good Candidate for <span style=\"color: #366797\">Holistic Dentistry? </span>"
+       },
+       {
+        "_key": "76573ae0",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Holistic dentistry is ideal for anyone looking for a safer, more natural approach to oral care. Whether you’re managing a health condition or simply want to avoid exposure to toxins, Valencia Smile Expert offers solutions that align with your wellness goals.</span></p>"
+       },
+       {
+        "_key": "7e87af30",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/10/preventive-dentistry-image.png",
+         "width": 604,
+         "height": 318,
+         "cls": "attachment-large size-large wp-image-1330",
+         "alt": "",
+         "sizes": "auto, (max-width: 604px) 100vw, 604px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "7ff4f30e",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "47e12889",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Prefer metal-free, mercury-free, and fluoride-free treatment options"
+       },
+       {
+        "_key": "4bbe1e64",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Have chronic conditions or autoimmune concerns"
+       },
+       {
+        "_key": "6bf51456",
+        "cls": "elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Seek gentle, minimally invasive dental care for your family"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "4230bb7",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "567fc6a8",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "3abace5a",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Benefits of <span style=\"color: #366797\">Holistic Dental</span> Care"
+       },
+       {
+        "_key": "600de946",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p><span style=\"font-weight: 400;\">Holistic dentistry offers more than just a healthy smile—it supports your entire body by reducing exposure to harmful substances and encouraging long-term wellness. Our integrative approach helps patients feel confident about their care—inside and out.</span></p>"
+       },
+       {
+        "_type": "box",
+        "_key": "1362ae1b",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "220fb67a",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "<b>Reduced exposure to toxins like mercury and fluoride</b>",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i1",
+            "text": "<b>Focus on prevention and long-term oral health</b>",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i2",
+            "text": "<b>Care that aligns with your body’s natural healing processes</b>",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i3",
+            "text": "<b>Safer treatment options for individuals with chronic or autoimmune conditions</b>",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i4",
+            "text": "<b>Lower risk of allergic or sensitivity reactions to dental materials</b>",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i5",
+            "text": "<b>Whole-body support through minimally invasive care and natural therapies</b>",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "7ca3c9c5",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "3196c64",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "7d5433f3",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose <span style=\"color:#366797\">Holistic Dentistry</span> at Valencia Smile Expert?"
+     },
+     {
+      "_key": "6b77c466",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p><span style=\"font-weight: 400;\">Choosing holistic dentistry in Valencia means prioritizing your total health—not just your teeth. We combine advanced dental technology with a whole-body philosophy to deliver integrative dental care that’s safe, effective, and personalized. Our team is trained in biocompatibility, integrative methods, and SMART mercury removal protocols to ensure your experience supports both your oral and systemic health.</span></p>"
+     },
+     {
+      "_key": "5da51cff",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "6652f80e",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "69fe4f2f",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "e-fas-leaf"
+          },
+          "titleTag": "p",
+          "title": "A biological approach that supports natural healing"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "30c25738",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "6ee3d726",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Mercury-free, fluoride-free, and non-metal options"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "6aa7c85e",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "3b0672a4",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "p",
+          "title": "Personalized care plans tailored to your health goals"
+         }
+        ]
+       }
+      ],
+      "ariaLive": "polite",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "speed": 500,
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5df7634b",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "76a713dc",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "51dcf814",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "See Why Santa Clarita Patients Love Us"
+       },
+       {
+        "_key": "27920666",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Patients throughout Santa Clarita and Valencia choose Dr. Moezzi for her gentle approach, advanced skills, and genuine care. Whether it’s a first consultation or a complete cosmetic smile makeover, the feedback speaks for itself:"
+       },
+       {
+        "_type": "box",
+        "_key": "63296514",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "70685f4",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "47ae974b",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p><img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/07/logos_google.webp\" width=\"93\"/> Rating</p>"
+           },
+           {
+            "_key": "44055ea8",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "425123ed",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "31a57f9d",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "267b061f",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "3e6597a5",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "2fdfffa5",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "10c2dbed",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "763d79ab",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "2cde3e29",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "7a4732cd",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "78000acb",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "4472754d",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "14590e89",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2a60164",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "3b4c375a",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "4d575174",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "9fb4890",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "46501149",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "37592e18",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "34e7757c",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "4e7279ae",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "39d025a4",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "6c1f75e7",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "4361c12d",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "71f16c57",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "64a810bd",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "3fac08db",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "53c355c4",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "6e2e0f22",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "2215d3e7",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "19c644bd",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "61d9544a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "43c361e3",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "5cb0ce1",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "20f6a535",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "5cf0e395",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2fd862bb",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "3dc1a367",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "368d96dc",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "6b8d315a",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "6315cb78",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "212c007c",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "7032abae",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "60758d58",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "362f7a1f",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "44bd0827",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "1c4de52d",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "31c0132f",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "1bb158b2",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "38062a5e",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "307e832f",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita, California"
+     },
+     {
+      "_type": "box",
+      "_key": "6ecd513e",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "41f02094",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5fecae",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=27420%20Tourney%20Rd%20Suite%20240%20Santa%20Clarita%2C%20CA%2091355&t=m&z=17&output=embed&iwloc=near",
+          "title": "27420 Tourney Rd Suite 240 Santa Clarita, CA 91355",
+          "label": "27420 Tourney Rd Suite 240 Santa Clarita, CA 91355"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "82804d6",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "3af4f34f",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "27fb3de9",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "1fb9ba90",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "326b3428",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "2bbce859",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "1a3da7ce",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "71b3a932",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "7ee0ac4c",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "518899cb",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "5005985f",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "50c24d6f",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "f06c40b",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "9bd437c",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "61158196",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "6f99d29c",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3bc42b47",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "5be08863",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5749f892",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "3f8114d3",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "45f65b8f",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "660c3ae",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Schedule Your Holistic Dentistry Appointment <br/>in Santa Clarita"
+         },
+         {
+          "_key": "667d3e7a",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p><span style=\"font-weight: 400;\">If you’re looking for a more natural, health-conscious approach to oral care, holistic dentistry in Santa Clarita is the answer. At Valencia Smile Expert, we use safe, biocompatible materials and whole-body strategies to help you achieve lasting dental and overall wellness. Schedule your consultation today and experience the difference of truly personalized care.</span></p>"
+         },
+         {
+          "_type": "box",
+          "_key": "34c71cfd",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "206a3533",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Your Holistic Dentistry Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "29a8b13b",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "470427a1",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "<span style=\"color:#366797\">Holistic Dentistry</span> FAQs"
+     },
+     {
+      "_key": "22f2da31",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "c2586e7",
+        "title": "What makes holistic dentistry different from traditional dentistry?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "c2586e7",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "45f46690",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Holistic dentistry focuses on the connection between oral and overall health, using biocompatible materials and avoiding toxins like mercury and fluoride. It emphasizes prevention, minimally invasive techniques, and whole-body wellness.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "5f66b22d",
+        "title": "Is holistic dentistry safe for kids and families?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "5f66b22d",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "481edb12",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Yes! Holistic care is ideal for children and families who want natural, gentle treatments without exposure to potentially harmful materials. We also offer fluoride-free options for preventive care.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "796558cf",
+        "title": "What is SMART-certified amalgam removal?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "796558cf",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "52c9efa3",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">SMART stands for Safe Mercury Amalgam Removal Technique. It’s a strict protocol for removing old silver fillings while minimizing mercury exposure. We follow guidelines set by the IAOMT to ensure your safety.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "45612237",
+        "title": "Do holistic dentists use fluoride?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "45612237",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "7a3f948",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Most holistic dentists, including ours, offer fluoride-free alternatives that help remineralize and protect teeth naturally—without synthetic additives.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "14de873f",
+        "title": "Can holistic dental care help with chronic health issues?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "14de873f",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "6e808959",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">While holistic dentistry doesn’t treat medical conditions, it may support those with autoimmune disorders, allergies, or sensitivities by reducing the toxic burden on the body and promoting overall wellness.</span></p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "55e530d6",
+        "title": "Are the materials used really that different?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "55e530d6",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "44544838",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p><span style=\"font-weight: 400;\">Yes. We avoid metals, BPA, and other potentially reactive substances. All materials are chosen based on their compatibility with your body and your unique health needs.</span></p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

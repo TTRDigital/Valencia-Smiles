@@ -1,0 +1,37 @@
+{
+ "slug": "thank-you",
+ "path": "/thank-you/",
+ "seo": {
+  "title": "Thank You - Valencia Smile Expert",
+  "description": "",
+  "ogImage": null
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-847 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-847 astra-addon-4.11.0",
+ "doc": {
+  "postId": "847",
+  "docType": "wp-page",
+  "cls": "elementor elementor-847",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "89cf853",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "c8403dd",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Thank You"
+     },
+     {
+      "_key": "d866d79",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>We’ve received your request, and someone from our team will be in touch with you shortly.<br/>For immediate assistance, feel free to call our office at <a href=\"tel:6612545200\">(661) 254-5200</a>.</p>"
+     }
+    ]
+   }
+  ]
+ }
+}

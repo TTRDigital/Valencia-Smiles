@@ -1,0 +1,1365 @@
+{
+ "slug": "services__dental-implants",
+ "path": "/services/dental-implants/",
+ "seo": {
+  "title": "Dental Implants in Santa Clarita | Valencia Smile Expert",
+  "description": "Explore Valencia Smile Expert's top-rated Dental Implants in Santa Clarita—modern care, advanced technology, and 1-on-1 personalized treatment. Book today.",
+  "ogImage": "/images/uploads/2025/07/team-image-2.png"
+ },
+ "bodyCls": "wp-singular page-template-default page page-id-1086 page-child parent-pageid-175 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-1086 astra-addon-4.11.0",
+ "doc": {
+  "postId": "1086",
+  "docType": "wp-page",
+  "cls": "elementor elementor-1086",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "fbb42bd",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "8b996f5",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "c6d2e56",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "3cf8cee",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Dental Implants in Santa Clarita"
+         },
+         {
+          "_key": "e522d3c",
+          "cls": "elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Replace missing teeth with natural-looking, long-lasting implants planned by Dr. Neda Moezzi using digital imaging, guided surgery, and personalized care.</p>"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "00b151f",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "7dc0c28",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/team-image-2.png",
+           "width": 703,
+           "height": 397,
+           "cls": "attachment-full size-full wp-image-1017",
+           "alt": "",
+           "sizes": "(max-width: 703px) 100vw, 703px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "d69cb29",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "1776a44",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "9231d8a",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Advanced, Comfortable Implant Care Led by Dr. Moezzi"
+       },
+       {
+        "_key": "5ba47bb",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"2652\" data-start=\"2322\">Missing teeth can affect how you eat, speak, and feel every day. At Valencia Smile Expert, Dr. Neda Moezzi provides dental implant treatment in Santa Clarita for patients missing one tooth, several teeth, or a full arch. Each case is carefully planned around your oral health, bone support, bite, smile goals, and comfort needs.</p><p data-end=\"2850\" data-start=\"2659\">From your first consultation to your final restoration, our team focuses on clear communication, modern technology, and a supportive experience so you can feel confident about your treatment.</p>"
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "f595527",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "cfa8fcc",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/valencia-photo-4.png",
+         "width": 647,
+         "height": 575,
+         "cls": "attachment-full size-full wp-image-1019",
+         "alt": "",
+         "sizes": "(max-width: 647px) 100vw, 647px"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "514171b",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "7173fdc",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Choose  <span style=\"color:#366797\">Valencia Smile Expert</span>  For Dental Implants?"
+     },
+     {
+      "_key": "ff8dc3b",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>Choosing the right implant dentist matters. Dental implants require careful planning, healthy bone support, precise placement, and a restoration that looks and feels natural. At Valencia Smile Expert, Dr. Moezzi combines digital imaging, guided implant planning, comfort-focused care, and personalized treatment options to help patients restore their smiles with confidence.</p>"
+     },
+     {
+      "_key": "5fcf29a",
+      "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+      "_type": "carousel",
+      "slides": [
+       {
+        "_type": "box",
+        "_key": "f63d5aa",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "ad56ce0",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-29af3ae4"
+          },
+          "titleTag": "p",
+          "title": "Doctor-Led, Detail-Oriented Care",
+          "descTag": "p",
+          "desc": "Dr. Moezzi personally evaluates your smile, bite, bone support, and treatment goals before recommending an implant plan."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "423667a",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "621290c",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "p",
+          "title": "Advanced Technology for Predictable Outcomes",
+          "descTag": "p",
+          "desc": "We use digital imaging and guided implant planning to evaluate your jawbone, bite, and treatment needs before implant placement."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "30149e2",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "ccfd8f3",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-a53f1c1a"
+          },
+          "titleTag": "p",
+          "title": "Stress-Free <br/>Experience",
+          "descTag": "p",
+          "desc": "Our team explains each step clearly and offers comfort-focused care, including sedation options when appropriate."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "282bd9a",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "bba27cb",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-543ab953"
+          },
+          "titleTag": "p",
+          "title": "Same-Day Appointments & Flexible Scheduling",
+          "descTag": "p",
+          "desc": "We make it easier for busy Santa Clarita patients to schedule consultations, treatment visits, and follow-up care."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "d4b5728",
+        "cls": "e-flex e-con-boxed e-con e-child",
+        "children": [
+         {
+          "_key": "58a6726",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f6859af4"
+          },
+          "titleTag": "p",
+          "title": "Transparent Pricing & Financing Options",
+          "descTag": "p",
+          "desc": "You’ll receive a clear treatment estimate before care begins, with flexible financing options to help make implants more manageable."
+         }
+        ]
+       }
+      ],
+      "ariaLive": "off",
+      "arrows": {
+       "prev": {
+        "svg": "e-eicon-chevron-left"
+       },
+       "next": {
+        "svg": "e-eicon-chevron-right"
+       }
+      },
+      "pagination": true,
+      "settings": {
+       "carousel_items": [
+        {
+         "slide_title": "Slide #1",
+         "_id": "64bd1f7"
+        },
+        {
+         "slide_title": "Slide #2",
+         "_id": "ee125bc"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "f4d012f"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "7eff0cf"
+        },
+        {
+         "slide_title": "Slide #3",
+         "_id": "4784b2a"
+        }
+       ],
+       "slides_to_show_tablet": "2",
+       "slides_to_show_mobile": "1",
+       "autoplay": "yes",
+       "autoplay_speed": 5000,
+       "pause_on_hover": "yes",
+       "pause_on_interaction": "yes",
+       "infinite": "yes",
+       "speed": 500,
+       "offset_sides": "none",
+       "arrows": "yes",
+       "pagination": "bullets",
+       "image_spacing_custom": {
+        "unit": "px",
+        "size": 10,
+        "sizes": []
+       },
+       "image_spacing_custom_tablet": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       },
+       "image_spacing_custom_mobile": {
+        "unit": "px",
+        "size": "",
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "4264297",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "638e722",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "66ece08",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "What Are <span style=\"color: #366797\">Dental Implants?</span>"
+       },
+       {
+        "_key": "00d2da0",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"5815\" data-start=\"5597\">Dental implants are long-lasting tooth replacements designed to restore missing teeth from the root up. An implant is a small titanium post placed in the jawbone, where it supports a custom crown, bridge, or denture.</p><p data-end=\"6137\" data-start=\"5822\">Because implants are anchored in the jawbone, they can provide strong chewing support, a natural look, and better stability than many removable tooth replacement options. At Valencia Smile Expert, Dr. Moezzi will evaluate your bone support, gum health, and smile goals to recommend the right implant option for you.</p>"
+       },
+       {
+        "_key": "d968d57",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/valencia-photo-5.png",
+         "width": 618,
+         "height": 449,
+         "cls": "attachment-large size-large wp-image-1020",
+         "alt": "",
+         "sizes": "(max-width: 618px) 100vw, 618px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "e31b487",
+      "cls": "e-con-full bg-list e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "62fe5cb",
+        "cls": "elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Multiple Tooth Implants",
+        "descTag": "p",
+        "desc": "Implant-supported bridges can replace several missing teeth with stable, natural-looking results."
+       },
+       {
+        "_key": "3c54237",
+        "cls": "elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Full-Arch Implant Options",
+        "descTag": "p",
+        "desc": "For patients missing most or all teeth, full-arch options may restore an entire upper or lower smile."
+       },
+       {
+        "_key": "ded29b0",
+        "cls": "elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Zygomatic Implants",
+        "descTag": "p",
+        "desc": "A specialized option anchored in the cheekbone (zygoma), typically used for severe bone loss in the upper jaw."
+       },
+       {
+        "_key": "5f8ee57",
+        "cls": "elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Implant-Supported Dentures",
+        "descTag": "p",
+        "desc": "A more secure alternative to traditional removable dentures for patients missing many teeth."
+       },
+       {
+        "_key": "2622354",
+        "cls": "elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget-icon-box",
+        "_type": "iconBox",
+        "icon": {
+         "svg": "svg-8d343ed6"
+        },
+        "titleTag": "p",
+        "title": "Single Tooth Implants",
+        "descTag": "p",
+        "desc": "A strong option for replacing one missing tooth without reshaping nearby healthy teeth."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "47e26c1",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "7b78c4a",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "3767121",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Who Is a Good Candidate for <span style=\"color: #366797\">Dental Implants?</span>"
+       },
+       {
+        "_key": "2a695ac",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"7848\" data-start=\"7528\">Many adults with missing teeth are candidates for dental implants, but every case needs a careful evaluation. During your consultation at Valencia Smile Expert, Dr. Moezzi will review your oral health, jawbone support, gum condition, bite, and medical history to determine the safest and most effective treatment plan.</p><p data-end=\"8001\" data-start=\"7855\">Even if you have bone loss, gum disease history, loose dentures, or failing teeth, you may still have implant options after the right preparation.</p>"
+       },
+       {
+        "_type": "box",
+        "_key": "0e70762",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "9596136",
+          "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+          "_type": "iconList",
+          "items": [
+           {
+            "_key": "i0",
+            "text": "You are missing one or more teeth",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i1",
+            "text": "You want a fixed replacement instead of a removable denture",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i2",
+            "text": "Your gums are healthy or can be treated before implant placement",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i3",
+            "text": "You have enough jawbone support, or you are open to bone grafting if needed",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           },
+           {
+            "_key": "i4",
+            "text": "You want to improve chewing, speaking, and smile confidence",
+            "icon": {
+             "svg": "e-fas-circle"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "6d4f53e",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": []
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "7cab82a",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "d7b6cfb",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_key": "32a2733",
+        "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Benefits of Dental Implants"
+       },
+       {
+        "_key": "cb86c25",
+        "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>Dental implants do more than fill the space left by missing teeth. Because they are anchored in the jawbone, they can help restore chewing strength, improve smile confidence, support nearby teeth, and provide a more stable feel than traditional removable dentures.</p>"
+       },
+       {
+        "_key": "05b781f",
+        "cls": "elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "015c3b9",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "70a7e8e",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Natural Look and Feel",
+            "descTag": "p",
+            "desc": "Implants are designed to look, function, and feel like real teeth."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "2b8cfcb",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "fc04914",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Improved Confidence",
+            "descTag": "p",
+            "desc": "Restore your smile without the worry of slipping dentures or visible gaps."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "22cc6be",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "328f6fd",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Enhanced Oral Health",
+            "descTag": "p",
+            "desc": "Implants help preserve bone structure and prevent surrounding teeth from shifting."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "fbc8f1d",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "23d807d",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Better Functionality",
+            "descTag": "p",
+            "desc": "Eat, speak, and chew comfortably—no dietary restrictions or discomfort."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "b1a41ad",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "7cd7afd",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "Long-Lasting Results",
+            "descTag": "p",
+            "desc": "With proper care, dental implants can last decades or even a lifetime."
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "74d2f77",
+          "cls": "e-flex e-con-boxed e-con e-child",
+          "children": [
+           {
+            "_key": "9f6cf12",
+            "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+            "_type": "iconBox",
+            "icon": {
+             "svg": "e-fas-check-circle"
+            },
+            "titleTag": "p",
+            "title": "No Need for Adjacent Tooth Alteration",
+            "descTag": "p",
+            "desc": "Unlike bridges, implants don’t require filing down healthy teeth."
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "arrows": {
+         "prev": {
+          "svg": "e-eicon-chevron-left"
+         },
+         "next": {
+          "svg": "e-eicon-chevron-right"
+         }
+        },
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "efa5023"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "6021a05"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "17b766a"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "aa9532e"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "4bc2c93"
+          },
+          {
+           "slide_title": "Slide #1",
+           "_id": "fe451ee"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "arrows": "yes",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "b3e690f",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "6617d5d",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "Our <span style=\"color: #366797\">Dental Implant</span> Process"
+     },
+     {
+      "_key": "beb87ad",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>We make the dental implant process clear and comfortable from the first consultation to the final restoration. Your timeline may vary depending on your oral health, bone support, healing needs, and whether extractions or bone grafting are required.</p>"
+     },
+     {
+      "_key": "b9ce3ac",
+      "cls": "elementor-hidden-mobile elementor-widget-image",
+      "_type": "image",
+      "img": {
+       "src": "/images/uploads/2025/07/line-background.svg",
+       "width": 928,
+       "height": 228,
+       "cls": "attachment-full size-full wp-image-1023",
+       "alt": ""
+      }
+     },
+     {
+      "_type": "box",
+      "_key": "1b42483",
+      "cls": "e-flex e-con-boxed e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "b131362",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "0622115",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/1-image.png",
+           "width": 58,
+           "height": 134,
+           "cls": "attachment-full size-full wp-image-1024",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Consultation &  Personalized Planning",
+          "desc": "We begin with an exam, digital imaging, and a review of your health, bite, missing teeth, and smile goals. If needed, Dr. Moezzi may recommend preparatory care such as extractions, periodontal treatment, or bone grafting."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "c306ace",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "e09d244",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/2-image.png",
+           "width": 102,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1025",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Implant Placement",
+          "desc": "The implant is placed in the jawbone using a carefully planned approach. Local anesthesia is used, and sedation options may be available. Over time, the implant heals and bonds with the bone to create a stable foundation."
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "b94b433",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5ed42c0",
+          "cls": "elementor-position-top elementor-widget-image-box",
+          "_type": "imageBox",
+          "img": {
+           "src": "/images/uploads/2025/07/3-image.png",
+           "width": 104,
+           "height": 133,
+           "cls": "attachment-full size-full wp-image-1026",
+           "alt": ""
+          },
+          "titleTag": "p",
+          "title": "Restoration & Smile Reveal",
+          "desc": "After healing, a custom crown, bridge, or denture is attached to restore your smile. We check your bite, comfort, and healing so your implant restoration feels natural and functions properly."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "a8f5303",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "cef24ef",
+      "cls": "elementor-widget-mobile__width-inherit elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h3",
+      "html": "Pre- And Post-Care For <span style=\"color: #366797\">Dental Implants</span>"
+     },
+     {
+      "_key": "ecedb31",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>Proper preparation and aftercare can support smoother healing and better long-term results. Before and after your implant procedure, our team gives you personalized instructions based on your treatment plan, medical history, and comfort needs.</p><p>For more guidance on eating during recovery, read our guide on the <a href=\"/best-foods-after-dental-implant-surgery\"><strong data-end=\"770\" data-start=\"727\">best foods after dental implant surgery</strong>.</a></p>"
+     },
+     {
+      "_type": "box",
+      "_key": "0583e24",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "910212f",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "7803b7d",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Before Your Implant Procedure:"
+         },
+         {
+          "_type": "box",
+          "_key": "a69cf09",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "d3ff521",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/implant-before-image.png",
+             "width": 599,
+             "height": 351,
+             "cls": "attachment-full size-full wp-image-1027",
+             "alt": "",
+             "sizes": "auto, (max-width: 599px) 100vw, 599px"
+            }
+           },
+           {
+            "_key": "c4e6a96",
+            "cls": "elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+            "_type": "iconList",
+            "items": [
+             {
+              "_key": "i0",
+              "text": "Follow pre-op instructions from Dr. Moezzi (this may include pausing certain medications or arranging a ride home if sedation is used)",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i1",
+              "text": "Maintain good oral hygiene to reduce bacteria and inflammation",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i2",
+              "text": "Eat a healthy, well-balanced diet leading up to surgery",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i3",
+              "text": "Eat a healthy, well-balanced diet leading up to surgery",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "cec05fb",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "0d025a0",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "After Your Implant Procedure"
+         },
+         {
+          "_type": "box",
+          "_key": "f934fe7",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "06cbe5e",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/implant-after-image.png",
+             "width": 599,
+             "height": 351,
+             "cls": "attachment-full size-full wp-image-1028",
+             "alt": "",
+             "sizes": "auto, (max-width: 599px) 100vw, 599px"
+            }
+           },
+           {
+            "_key": "9cd662c",
+            "cls": "elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+            "_type": "iconList",
+            "items": [
+             {
+              "_key": "i0",
+              "text": "Stick to soft foods for the first few days",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i1",
+              "text": "Avoid smoking, drinking through straws, or intense physical activity",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i2",
+              "text": "Keep the area clean with gentle rinses and brushing as advised",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             },
+             {
+              "_key": "i3",
+              "text": "Take prescribed medication and attend follow-up visits for healing checks",
+              "icon": {
+               "svg": "e-fas-check"
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "bce73b9",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "406f15c",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita"
+     },
+     {
+      "_type": "box",
+      "_key": "fc43340",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "42f5cdf",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "cb9664e",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "b374347",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "f06b411",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "5dc4672",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "e89f679",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "43e5f9e",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "ace4760",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "97d0faf",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "a50de13",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "44f36ee",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "502d816",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "75107ac",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "dcc28ff",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "922df27",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "4208641",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "85abc4a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "63c96f4",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "5bc8917",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "50ed9cd",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "1d56f99",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "448fe73",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "dedfaf0",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "761defd",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "p",
+          "html": "Schedule Your Dental Implant in Santa Clarita Today!"
+         },
+         {
+          "_key": "96d8747",
+          "cls": "elementor-widget__width-initial elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p style=\"margin-bottom: 0;\">If you’re considering dental implants in Santa Clarita, Valencia Smile Expert offers advanced technology, personalized care, and flexible scheduling to make your experience seamless. Book your consultation today and take the first step toward a confident, lasting smile.</p>"
+         },
+         {
+          "_type": "box",
+          "_key": "3ae457b",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "654a159",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Schedule Your Appointment",
+            "href": "#popup-566",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "e2178c1",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "ffd18da",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "Dental Implant FAQs"
+     },
+     {
+      "_key": "eb7165e",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "dc932d9",
+        "title": "How long do dental implants last?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "dc932d9",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "c9c03df",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>With proper care and regular checkups, dental implants can last 20 years or more—often a lifetime. They’re one of the most durable tooth replacement options available.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "b56b014",
+        "title": "Does getting a dental implant hurt?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "b56b014",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "6f45e62",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>The procedure is typically done under local anesthesia, with sedation options available for added comfort. Most patients report minimal discomfort during recovery, often less than a tooth extraction.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "40b7933",
+        "title": "What is the cost of dental implants in Santa Clarita?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "40b7933",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "c1a813d",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Costs vary depending on your specific treatment plan. At Valencia Smile Expert, we offer transparent pricing, flexible financing, and a detailed breakdown before treatment begins.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "6aeb3fd",
+        "title": "How long does it take to get dental implants?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "6aeb3fd",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "d6207cf",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>The full process can take a few months, depending on healing and any preparatory treatments like bone grafting. However, same-day implants may be possible in select cases.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "0d65776",
+        "title": "Are dental implants safe for seniors?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "0d65776",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "152f699",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Yes. Dental implants are a safe, effective option for older adults in good overall health and with sufficient bone density—or those open to bone grafting.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "ca452da",
+        "title": "What’s the difference between dental implants and dentures?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "ca452da",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "5cea510",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Dental implants are permanent fixtures that integrate with your jawbone, providing a stable, natural-feeling replacement for missing teeth. Unlike traditional dentures, they don’t slip, don’t require adhesives, and help prevent bone loss over time.</p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

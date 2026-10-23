@@ -1,0 +1,1903 @@
+{
+ "slug": "home",
+ "path": "/",
+ "seo": {
+  "title": "Valencia Smile Expert: Trusted Dentist in Santa Clarita",
+  "description": "Experience expert, compassionate dental care at Valencia Smile Expert in Santa Clarita. From cleanings to dental implants, we’re here to help you shine—book now!",
+  "ogImage": "/images/uploads/2025/07/hero-image.png"
+ },
+ "bodyCls": "home wp-singular page-template-default page page-id-12 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-page-builder-template ast-no-sidebar astra-4.11.1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-12 astra-addon-4.11.0",
+ "doc": {
+  "postId": "12",
+  "docType": "wp-post",
+  "cls": "elementor elementor-12",
+  "children": [
+   {
+    "_type": "box",
+    "_key": "72c261b2",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "76b44825",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "14439d01",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "45789c7c",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h1",
+          "html": "Valencia Smile Expert: \n<br/>Your Home For Comfortable, Holistic Dentistry"
+         },
+         {
+          "_key": "7c1e4d55",
+          "cls": "elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<strong>World-class dentistry meets truly personalized <br/>and integrative care by Dr. Moezzi.</strong>"
+         },
+         {
+          "_type": "box",
+          "_key": "69cd0f3c",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "137b836e",
+            "cls": "elementor-mobile-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Now",
+            "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm",
+            "icon": {
+             "svg": "svg-c4bc2883"
+            },
+            "iconAfter": false
+           },
+           {
+            "_key": "54289c91",
+            "cls": "elementor-mobile-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Explore Our Services",
+            "href": "/services/",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "7bdcf5e1",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "c1f34fc",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/hero-image.png",
+           "width": 680,
+           "height": 802,
+           "cls": "attachment-full size-full wp-image-961",
+           "alt": "",
+           "sizes": "(max-width: 680px) 100vw, 680px"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "62e6f64a",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "178ba92c",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "7832e744",
+        "cls": "elementor-widget-image",
+        "_type": "image",
+        "img": {
+         "src": "/images/uploads/2025/07/team-image.png",
+         "width": 1260,
+         "height": 1126,
+         "cls": "attachment-full size-full wp-image-962",
+         "alt": "",
+         "sizes": "(max-width: 1260px) 100vw, 1260px"
+        }
+       }
+      ]
+     },
+     {
+      "_type": "box",
+      "_key": "6e1b542f",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "239ee380",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h3",
+        "html": "Your One-Stop Dental Home in Valencia"
+       },
+       {
+        "_key": "1e5918dd",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "<p>From holistic preventive care and long-term treatment plans to advanced cosmetic and surgical solutions, our dental office in Santa Clarita offers everything you need-right here in one trusted location. Schedule your one-on-one consultation with Dr. Moezzi for any of our services today and see how her uniquely attentive care can make a difference in your life.</p>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "4ea4427b",
+    "cls": "why-patient-slider-wrapper e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "694449d0",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Why Patients Choose <span>Valencia Smile</span> Expert"
+     },
+     {
+      "_key": "26181df5",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>At Valencia Smile Expert, it’s not just the comprehensive care that keeps our patients coming back, it’s the genuine relationships Dr. Moezzi forms with each and every one of her patients and the standard of care she brings to every appointment.</p>"
+     },
+     {
+      "_type": "box",
+      "_key": "1b3a343c",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "5f7d89ae",
+        "cls": "e-grid e-con-full why-patient-slider-wrap e-con e-child",
+        "children": [
+         {
+          "_key": "62965a36",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-5180bb2e"
+          },
+          "titleTag": "h3",
+          "title": "Same-Day Care",
+          "descTag": "p",
+          "desc": "Quick, flexible scheduling-including emergencies."
+         },
+         {
+          "_key": "366c800d",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-da61f480"
+          },
+          "titleTag": "h3",
+          "title": "Personalized Attention",
+          "descTag": "p",
+          "desc": "One-on-one time with Dr. Moezzi at every visit—no handoffs, no rush."
+         },
+         {
+          "_key": "421a2cc5",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-9a864cd5"
+          },
+          "titleTag": "h3",
+          "title": "Modern Technology",
+          "descTag": "p",
+          "desc": "CBCT, iTero, PRF therapy & guided implants."
+         },
+         {
+          "_key": "6fbb5ea8",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-543ab953"
+          },
+          "titleTag": "h3",
+          "title": "Complete Services",
+          "descTag": "p",
+          "desc": "Cleanings, crowns, implants—all in one place."
+         },
+         {
+          "_key": "30562de6",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-f500723f"
+          },
+          "titleTag": "h3",
+          "title": "Comfort Options",
+          "descTag": "p",
+          "desc": "Sedation choices and a calm, welcoming space."
+         },
+         {
+          "_key": "6027fd85",
+          "cls": "elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget-icon-box",
+          "_type": "iconBox",
+          "icon": {
+           "svg": "svg-53c04902"
+          },
+          "titleTag": "h3",
+          "title": "Clear Pricing",
+          "descTag": "p",
+          "desc": "$59 new patient special & flexible financing."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "5e908169",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "412e9cd6",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "p",
+      "html": "Valencia Smile Expert"
+     },
+     {
+      "_key": "282efe3b",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Comprehensive Dental Services in Valencia"
+     },
+     {
+      "_key": "3bbd2f5c",
+      "cls": "elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-text-editor",
+      "_type": "text",
+      "html": "<p>At Valencia Smile Expert, we provide a full range of dental services under one roof-delivered with cutting-edge technology, clinical excellence, and a deeply personalized approach. Whether you’re here for preventive care or advanced surgical treatment, you’ll always be seen by Dr. Moezzi and her trusted team.</p>"
+     },
+     {
+      "_type": "box",
+      "_key": "b09923",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "76f96abd",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "68c54574",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "12d0979b",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/preventive-dentistry-image.png",
+             "width": 604,
+             "height": 318,
+             "cls": "attachment-full size-full wp-image-969",
+             "alt": "",
+             "sizes": "(max-width: 604px) 100vw, 604px"
+            }
+           },
+           {
+            "_key": "40d9a8b0",
+            "cls": "elementor-widget-heading",
+            "_type": "heading",
+            "tag": "h3",
+            "html": "Preventive Dentistry"
+           },
+           {
+            "_key": "561e5be6",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Protect your smile for the long term with proactive, personalized care.</p>"
+           },
+           {
+            "_type": "box",
+            "_key": "44bd216d",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "345403f",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Routine Cleanings & Exams",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Digital X-Rays & CBCT Scans",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Fluoride Treatments",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i3",
+                "text": "Custom Night Guards for TMJ",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             },
+             {
+              "_key": "7e5ab5b6",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Sealants",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Oral Cancer Screenings",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Sleep Apnea Appliances",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i3",
+                "text": "Sports Mouthguards",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "33f48dae",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Now",
+            "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "454d164d",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "47c14e26",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/family-dentistry-image.png",
+             "width": 604,
+             "height": 318,
+             "cls": "attachment-full size-full wp-image-971",
+             "alt": "",
+             "sizes": "auto, (max-width: 604px) 100vw, 604px"
+            }
+           },
+           {
+            "_key": "113c94e8",
+            "cls": "elementor-widget-heading",
+            "_type": "heading",
+            "tag": "h3",
+            "html": "Family Dentistry"
+           },
+           {
+            "_key": "321cb53c",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Gentle, age-appropriate care for children, teens, and growing smiles.</p>"
+           },
+           {
+            "_type": "box",
+            "_key": "3778c2e4",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "958633",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Infant Exams",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Children's Dentistry",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Teen's Dentistry",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i3",
+                "text": "﻿Pediatric Restorative Dentistry",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             },
+             {
+              "_key": "39399cf0",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Sealants",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Space Maintainers",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Oral Hygiene Education",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "4f67b1d7",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Now",
+            "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "1c391b53",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "7b0549b9",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "51b2d04c",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Frame-1984078742-1.png",
+             "width": 1208,
+             "height": 636,
+             "cls": "attachment-full size-full wp-image-972",
+             "alt": "",
+             "sizes": "auto, (max-width: 1208px) 100vw, 1208px"
+            }
+           },
+           {
+            "_key": "2375f1f",
+            "cls": "elementor-widget-heading",
+            "_type": "heading",
+            "tag": "h3",
+            "html": "Cosmetic Dentistry"
+           },
+           {
+            "_key": "34e6b21a",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Elevate your smile with treatments tailored for natural, beautiful results.</p>"
+           },
+           {
+            "_type": "box",
+            "_key": "31bcdcf6",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "59ac4a67",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Smile Makeovers",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Veneers",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Teeth Whitening",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i3",
+                "text": "Invisalign® Clear Aligners",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             },
+             {
+              "_key": "1654b8cd",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Cosmetic Bonding",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Tooth Reshaping",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "6fd3760e",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Now",
+            "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "414fac55",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "1582a45c",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Frame-1984078742.png",
+             "width": 1208,
+             "height": 636,
+             "cls": "attachment-full size-full wp-image-973",
+             "alt": "",
+             "sizes": "auto, (max-width: 1208px) 100vw, 1208px"
+            }
+           },
+           {
+            "_key": "3c372d93",
+            "cls": "elementor-widget-heading",
+            "_type": "heading",
+            "tag": "h3",
+            "html": "Restorative Dentistry"
+           },
+           {
+            "_key": "3d56068e",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p><span class=\"mce_SELRES_start\" data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\">﻿</span>Restore function, comfort, and aesthetics with precision-driven care.</p>"
+           },
+           {
+            "_type": "box",
+            "_key": "3b052688",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "d7ed496",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Dental Implants",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Crowns & Bridges",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "Full-Mouth Rehabilitation",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i3",
+                "text": "Functional Crown Lengthening",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             },
+             {
+              "_key": "31de1769",
+              "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Dentures & Partials",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "Tooth-Colored Fillings",
+                "icon": {
+                 "svg": "svg-368967fb"
+                }
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "1044b8aa",
+            "cls": "elementor-align-justify elementor-widget-button",
+            "_type": "button",
+            "text": "Book Now",
+            "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "4a8cf489",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "6246dbde",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "23b7a09c",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "64dda1aa",
+              "cls": "elementor-widget-image",
+              "_type": "image",
+              "img": {
+               "src": "/images/uploads/2025/07/Frame-1984078742-2.png",
+               "width": 1206,
+               "height": 950,
+               "cls": "attachment-full size-full wp-image-974",
+               "alt": "",
+               "sizes": "auto, (max-width: 1206px) 100vw, 1206px"
+              }
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "26fe61b8",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "47bf511b",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "h3",
+              "html": "Oral Treatments & Surgical Care"
+             },
+             {
+              "_key": "23d90427",
+              "cls": "elementor-widget-text-editor",
+              "_type": "text",
+              "html": "<p>Advanced therapies for gum health, surgical needs, and long-term support.</p>"
+             },
+             {
+              "_type": "box",
+              "_key": "1a3e321c",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "6ba32bb7",
+                "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+                "_type": "iconList",
+                "items": [
+                 {
+                  "_key": "i0",
+                  "text": "Root Canals",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i1",
+                  "text": "Extractions (Including Wisdom Teeth)",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i2",
+                  "text": "Sedation Dentistry",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i3",
+                  "text": "Bone Grafting & Ridge Augmentation",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i4",
+                  "text": "TMJ Therapy & Custom Night Guards",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 }
+                ]
+               },
+               {
+                "_key": "439bd046",
+                "cls": "elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+                "_type": "iconList",
+                "items": [
+                 {
+                  "_key": "i0",
+                  "text": "Osseous Surgery (Pocket Reduction)",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i1",
+                  "text": "Gum Grafting",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i2",
+                  "text": "Periodontal Regeneration",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 },
+                 {
+                  "_key": "i3",
+                  "text": "Sinus Lift",
+                  "icon": {
+                   "svg": "svg-368967fb"
+                  }
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "_key": "79cbdbae",
+              "cls": "elementor-align-justify elementor-widget-button",
+              "_type": "button",
+              "text": "Book Now",
+              "href": "#popup-566",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm"
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "2f408187",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "777ff140",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Transformations Gallery"
+     },
+     {
+      "_type": "box",
+      "_key": "3d2945f",
+      "cls": "e-con-full before-after-slider-wrap e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "71f576e7",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-1.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-1.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-1",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "60c850f4",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-2.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-2.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-2",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "2d1184f0",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-3.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-3.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-3",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "fd539e9",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-4.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-4.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-4",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "9954935",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-5.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-5.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-5",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       },
+       {
+        "_key": "413507e",
+        "cls": "elementor-widget-shortcode",
+        "_type": "beforeAfter",
+        "before": {
+         "src": "/images/uploads/2025/06/before-image-6.png",
+         "alt": "Before image"
+        },
+        "after": {
+         "src": "/images/uploads/2025/06/after-image-6.png",
+         "alt": "After image"
+        },
+        "n": "twenty20-6",
+        "offset": "0.5",
+        "beforeLabel": "",
+        "afterLabel": ""
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "528882d4",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "5bdb510",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "231c9707",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "7ec36af7",
+          "cls": "elementor-widget-image",
+          "_type": "image",
+          "img": {
+           "src": "/images/uploads/2025/07/about-image.png",
+           "width": 1175,
+           "height": 1269,
+           "cls": "attachment-full size-full wp-image-975",
+           "alt": "",
+           "sizes": "auto, (max-width: 1175px) 100vw, 1175px"
+          }
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "592dda81",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "2b250259",
+          "cls": "elementor-widget-heading",
+          "_type": "heading",
+          "tag": "h3",
+          "html": "Meet Dr. Neda Moezzi, DDS"
+         },
+         {
+          "_key": "5e1535e7",
+          "cls": "elementor-widget-text-editor",
+          "_type": "text",
+          "html": "<p>Hello, I’m Dr. Moezzi. To me, dentistry is about more than just treating teeth-it’s about building trust and forming real connections. I make it a priority to give every patient my full attention at every appointment, taking the time to listen, understand your goals, and create a plan that supports your long-term health and well-being. I graduated from the University of Detroit Mercy Dental School in 2010, and since then, l’ve continued to expand my skills in both general and advanced dentistry as one of the most sought-after dentists in Santa Clarita, CA. My ultimate goal is to make sure you feel comfortable, informed, and genuinely cared for—every step of the way. I look forward to meeting you.</p>"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "3461ee4a",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_type": "box",
+      "_key": "15f36f49",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_key": "47f4415",
+        "cls": "elementor-widget-heading",
+        "_type": "heading",
+        "tag": "h2",
+        "html": "Trusted by Santa Clarita Families"
+       },
+       {
+        "_key": "71c29229",
+        "cls": "elementor-widget-text-editor",
+        "_type": "text",
+        "html": "Patients across Santa Clarita turn to Valencia Smile Expert not just for results— but for the kindness, consistency, and care they experience at every visit. Here’s what just a few of them have to say:"
+       },
+       {
+        "_type": "box",
+        "_key": "279a9ba",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "71e18fad",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "37ae905e",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p><img alt=\"\" class=\"alignnone size-full wp-image-6061\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"/images/uploads/2025/05/logos_google.png\" width=\"93\"/> Rating</p>"
+           },
+           {
+            "_key": "50072350",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "4.9 <img alt=\"\" class=\"alignnone size-full wp-image-5961\" decoding=\"async\" height=\"19\" loading=\"lazy\" src=\"/images/uploads/2025/05/Group-1000009393.png\" width=\"99\"/> <span style=\"color: rgb(0,0,0,0.7); font-size: 70%;\">180 reviews</span>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "67878ce8",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "3a2b3b16",
+            "cls": "elementor-widget-button",
+            "_type": "button",
+            "text": "Write a Review",
+            "href": "https://maps.app.goo.gl/zf8fsL8TG72B2QZh9",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "_key": "3449b08d",
+        "cls": "elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget-n-carousel",
+        "_type": "carousel",
+        "slides": [
+         {
+          "_type": "box",
+          "_key": "69b601fd",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "7914261a",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "24bac40",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "7e1e62f7",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-1.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-976",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "6c11786d",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "2210ae63",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Jose C"
+               },
+               {
+                "_key": "6b643503",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>5 days ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "110bc788",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "2f100443",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>My first visit and it was amazing. From the time Alexis made my appointment to Leah the hygienist cleaning my teeth to Dr Neda explaining to me my treatment plan everything was perfect. I highly recommend them to everyone that is looking for a great dental experience. I found my dental office thank you ladies</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "7fbd5715",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "b0369da",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "78b664c7",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "34e3a79f",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-4.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-978",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "2a8818d0",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "3d25f6f0",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Doug Chong"
+               },
+               {
+                "_key": "3bad41b9",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "225fd97f",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "7dc879b8",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Best Dentist &amp; Best Dental Hygienist in the Santa Clarita. Beautiful office and friendly staff. They truly take care of you!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "35cd681c",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "723b79a4",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "23492e77",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "378af8b8",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-3.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-979",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "2061f1c0",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "13e7c399",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Tamarea Jaster"
+               },
+               {
+                "_key": "7983c0ea",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a week ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "3654254f",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "7d6dce33",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I chipped my 2 front teeth back in October pretty bad and I came here to get crowns and they look SO natural you can barely tell it’s a crown! I love it so much and the process was pretty simple, definitely recommend coming here if you need any dental work done!</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "184f873c",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "77122b49",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "766851e7",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "35fc3444",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-2.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-980",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "3103e88f",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "22ef3eef",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Kyle Figatner"
+               },
+               {
+                "_key": "423f3f59",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>2 weeksago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "5850c61e",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "74ff2c81",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Great experience. I went in with pain in one of my teeth. Dr. Moezzi took the time to discuss all treatment options and address any concerns. Treatment was painless and I had no more pain after treatment. It’s been great since.</p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "46f95b6f",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "7ef1d17e",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_type": "box",
+              "_key": "2d07bf2a",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "34f83fad",
+                "cls": "elementor-widget-image",
+                "_type": "image",
+                "img": {
+                 "src": "/images/uploads/2025/07/review-5.png",
+                 "width": 72,
+                 "height": 72,
+                 "cls": "attachment-large size-large wp-image-981",
+                 "alt": ""
+                }
+               }
+              ]
+             },
+             {
+              "_type": "box",
+              "_key": "2860e3c6",
+              "cls": "e-con-full e-flex e-con e-child",
+              "children": [
+               {
+                "_key": "592a6d87",
+                "cls": "elementor-widget-heading",
+                "_type": "heading",
+                "tag": "h2",
+                "html": "Victoria Kersanty"
+               },
+               {
+                "_key": "1b207ed1",
+                "cls": "elementor-widget-text-editor",
+                "_type": "text",
+                "html": "<p>a month ago</p>"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "_key": "46faa88a",
+            "cls": "elementor-widget-image",
+            "_type": "image",
+            "img": {
+             "src": "/images/uploads/2025/07/Group-1000009393.png",
+             "width": 99,
+             "height": 19,
+             "cls": "attachment-large size-large wp-image-977",
+             "alt": ""
+            }
+           },
+           {
+            "_key": "6bea8664",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>I’m 55 and have never had a better experience then with Dr Neda and her team. I absolutely love them and will never go anywhere else. I’ve also brought my family to her❤️ 💯 …</p>"
+           }
+          ]
+         }
+        ],
+        "ariaLive": "off",
+        "pagination": true,
+        "settings": {
+         "carousel_items": [
+          {
+           "slide_title": "Slide #1",
+           "_id": "267239b"
+          },
+          {
+           "slide_title": "Slide #2",
+           "_id": "b13921f"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "0389772"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "47e17e1"
+          },
+          {
+           "slide_title": "Slide #3",
+           "_id": "d7ff44e"
+          }
+         ],
+         "slides_to_show": "4",
+         "slides_to_show_tablet": "2",
+         "slides_to_show_mobile": "1",
+         "autoplay": "yes",
+         "autoplay_speed": 5000,
+         "pause_on_hover": "yes",
+         "pause_on_interaction": "yes",
+         "infinite": "yes",
+         "speed": 500,
+         "offset_sides": "none",
+         "pagination": "bullets",
+         "image_spacing_custom": {
+          "unit": "px",
+          "size": 10,
+          "sizes": []
+         },
+         "image_spacing_custom_tablet": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         },
+         "image_spacing_custom_mobile": {
+          "unit": "px",
+          "size": "",
+          "sizes": []
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "59036e63",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "2a89b9a1",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Frequently Asked Questions"
+     },
+     {
+      "_key": "2aa374d1",
+      "cls": "elementor-widget-n-accordion",
+      "_type": "accordion",
+      "items": [
+       {
+        "_key": "5cecfd99",
+        "title": "What makes Valencia Smile Expert different?",
+        "open": true,
+        "content": {
+         "_type": "box",
+         "_key": "5cecfd99",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "4209a630",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>We offer holistic, personalized dental care that considers your overall health—not just your teeth. Our experts provides one-on-one attention in a calm, supportive environment.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "73a49744",
+        "title": "Do you accept insurance?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "73a49744",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "24156655",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Yes, we accept most major PPO plans and can help verify your benefits before treatment.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "39dbfe6d",
+        "title": "Is holistic dentistry effective?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "39dbfe6d",
+         "cls": "e-con-full e-flex e-con e-child",
+         "children": [
+          {
+           "_key": "19c50a26",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Yes. We use safe, biocompatible materials and focus on prevention and whole-body wellness.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "119fbe10",
+        "title": "Do you offer cosmetic services like veneers or Invisalign?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "119fbe10",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "cb9910b",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Absolutely. We offer veneers, teeth whitening, and Invisalign—all customized to your unique smile.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "56f0888c",
+        "title": "What happens during my first visit?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "56f0888c",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "212087d8",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>We’ll review your health history, complete an exam, and take time to understand your goals.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "5757d263",
+        "title": "Can I get a crown in one visit?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "5757d263",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "4490e1b1",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>Yes. We offer in-house custom crowns, so many patients receive theirs the same day.</p>"
+          }
+         ]
+        }
+       },
+       {
+        "_key": "f63d7b8",
+        "title": "Where are you located, and is there parking?",
+        "open": false,
+        "content": {
+         "_type": "box",
+         "_key": "f63d7b8",
+         "cls": "e-flex e-con-boxed e-con e-child",
+         "children": [
+          {
+           "_key": "78638402",
+           "cls": "elementor-widget-text-editor",
+           "_type": "text",
+           "html": "<p>We’re in West Hollywood with nearby parking and easy elevator access.</p>"
+          }
+         ]
+        }
+       }
+      ],
+      "icons": {
+       "opened": {
+        "svg": "e-fas-minus-circle"
+       },
+       "closed": {
+        "svg": "e-fas-plus-circle"
+       }
+      },
+      "titleTag": "div",
+      "settings": {
+       "default_state": "expanded",
+       "max_items_expended": "one",
+       "n_accordion_animation_duration": {
+        "unit": "ms",
+        "size": 400,
+        "sizes": []
+       }
+      }
+     }
+    ]
+   },
+   {
+    "_type": "box",
+    "_key": "3c1f89ab",
+    "cls": "e-flex e-con-boxed e-con e-parent",
+    "children": [
+     {
+      "_key": "67531be3",
+      "cls": "elementor-widget-heading",
+      "_type": "heading",
+      "tag": "h2",
+      "html": "Visit Valencia Smile Expert in Santa Clarita"
+     },
+     {
+      "_type": "box",
+      "_key": "38f3e311",
+      "cls": "e-con-full e-flex e-con e-child",
+      "children": [
+       {
+        "_type": "box",
+        "_key": "42bc65f",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_key": "5dd4abf8",
+          "cls": "elementor-widget-google_maps",
+          "_type": "map",
+          "src": "https://maps.google.com/maps?q=Valencia%20Smile%20Expert%20Santa%20Clarita&t=m&z=17&output=embed&iwloc=near",
+          "title": "Valencia Smile Expert Santa Clarita",
+          "label": "Valencia Smile Expert Santa Clarita"
+         }
+        ]
+       },
+       {
+        "_type": "box",
+        "_key": "774cd4c1",
+        "cls": "e-con-full e-flex e-con e-child",
+        "children": [
+         {
+          "_type": "box",
+          "_key": "5c2a174a",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "5eb3a65c",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "726acb1a",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Contact Us"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "5c734c58",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "4722feb1",
+              "cls": "elementor-widget-button",
+              "_type": "button",
+              "text": "Get Directions",
+              "href": "https://maps.google.com/maps/dir//27420+Tourney+Rd+STE+240+Valencia,+CA+91355+USA/@34.421619,-118.5780025,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2874d14635617:0x256d3b6148eedd65",
+              "aCls": "elementor-button elementor-button-link elementor-size-sm",
+              "icon": {
+               "svg": "svg-36658e0a"
+              },
+              "iconAfter": false
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "4741ee17",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "1cb41c8e",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "3506cb1d",
+              "cls": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "(661) 254-5200",
+                "href": "tel:6612545200",
+                "icon": {
+                 "svg": "e-fas-phone-alt"
+                }
+               },
+               {
+                "_key": "i1",
+                "text": "info@valenciasmileexpert.com",
+                "href": "mailto:info@valenciasmileexpert.com",
+                "icon": {
+                 "svg": "e-fas-envelope"
+                }
+               },
+               {
+                "_key": "i2",
+                "text": "27420 Tourney Rd <br/>Suite 240 Santa Clarita, CA 91355",
+                "icon": {
+                 "svg": "e-fas-map-marker-alt"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "3877aa80",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_type": "box",
+            "_key": "1f6e0d8b",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "2d9bad1e",
+              "cls": "elementor-widget-heading",
+              "_type": "heading",
+              "tag": "p",
+              "html": "Office Hours:"
+             }
+            ]
+           },
+           {
+            "_type": "box",
+            "_key": "6947cf00",
+            "cls": "e-con-full e-flex e-con e-child",
+            "children": [
+             {
+              "_key": "4fa9f97c",
+              "cls": "elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget-icon-list",
+              "_type": "iconList",
+              "items": [
+               {
+                "_key": "i0",
+                "text": "Open",
+                "icon": {
+                 "svg": "e-fas-circle"
+                }
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "336a622f",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "3c2182b3",
+            "cls": "elementor-widget-text-editor",
+            "_type": "text",
+            "html": "<p>Monday – Friday: 8am – 5pm<br/><em>Saturday &amp; Sunday Closed</em></p>"
+           }
+          ]
+         },
+         {
+          "_type": "box",
+          "_key": "701faea4",
+          "cls": "e-con-full e-flex e-con e-child",
+          "children": [
+           {
+            "_key": "6c335fcc",
+            "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
+            "_type": "button",
+            "text": "Book Appointment",
+            "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
+            "aCls": "elementor-button elementor-button-link elementor-size-sm"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
