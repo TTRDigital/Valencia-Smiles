@@ -2,9 +2,10 @@
  * After `next build`, for every page except the Sanity Studio (/cms):
  *
  * 1. Inlines the page's stylesheet (public/css/<key>.css, named by the data-css
- *    attribute SiteFrame prints) into <head>. Each page group has its own
- *    stylesheet, so this saves a render-blocking request and loses no caching
- *    that mattered.
+ *    attribute SiteFrame prints) into <head>, in place of its <link>. Each page
+ *    group has its own stylesheet, so this saves a render-blocking request and
+ *    loses no caching that mattered. Without this step the pages still work:
+ *    they link the same file.
  * 2. Removes Next's client runtime: its script chunks and the page's React
  *    hydration data (a second copy of all the page's content). The pages are
  *    plain HTML with no client components; links are ordinary page loads and
@@ -41,10 +42,15 @@ for await (const file of walk(OUT)) {
     .replace(/<script\b[^>]*\bid="_R_"[^>]*>[\s\S]*?<\/script>/g, "")
     .replace(/<script>\s*\(?self\.__next_f[\s\S]*?<\/script>/g, "");
 
-  // 1. The page's own stylesheet, before Next's (so the cascade is the live site's CSS, then ours).
+  // 1. The page's own stylesheet: its <link> (printed by SiteFrame) becomes the same CSS inline, placed
+  //    before Next's own styles so the cascade is the live site's CSS, then ours. Preloads of other
+  //    pages' stylesheets (the 404 page's, which Next hints on every page) are dropped.
   const key = /\sdata-css="([a-z0-9_-]+)"/.exec(html)?.[1];
   if (key && !html.includes('id="page-css"')) {
     if (!css.has(key)) css.set(key, (await readFile(path.join(OUT, "css", `${key}.css`), "utf8")).replace(/<\/style/gi, "<\\/style"));
+    html = html
+      .replace(new RegExp(`<link\\b[^>]*\\brel="stylesheet"[^>]*\\bhref="/css/${key}\\.css[^"]*"[^>]*/?>`, "g"), "")
+      .replace(/<link\b[^>]*\brel="preload"[^>]*\bhref="\/css\/[^"]*"[^>]*\/?>/g, "");
     const at = html.search(/<style[^>]*data-precedence|<link[^>]*rel="stylesheet"|<\/head>/);
     html = `${html.slice(0, at)}<style id="page-css">${css.get(key)}</style>${html.slice(at)}`;
   }

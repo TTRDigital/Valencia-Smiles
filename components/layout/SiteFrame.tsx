@@ -21,11 +21,11 @@ export async function SiteFrame({ cssKey, bodyCls, path, children }: { cssKey: s
   return (
     <>
       {/*
-        The page's stylesheet (public/css/<key>.css, built from the live site's CSS) is inlined into
-        <head> after the build by scripts/inline-css.mjs, found through data-css below: one fewer
-        render-blocking request, and the CSS is not repeated in Next's page data. `next dev` links it.
+        The page's stylesheet (public/css/<key>.css, built from the live site's CSS) is always linked,
+        so the page is styled however it is built or served. scripts/postbuild.mjs then swaps the link
+        for the same CSS inline (one fewer render-blocking request).
       */}
-      {process.env.NODE_ENV === "development" ? <link rel="stylesheet" href={css.href} precedence="default" /> : null}
+      <link rel="stylesheet" href={css.href} precedence="default" />
       <div className={`site-body ${bodyCls}`} data-css={cssKey}>
         <a className="skip-link screen-reader-text" href="#content">
           Skip to content
