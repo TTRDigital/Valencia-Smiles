@@ -130,10 +130,10 @@ function ElementorNode({ node, ctx }: { node: Node; ctx: Ctx }) {
 }
 
 function BoxEl({ node, ctx }: { node: Box; ctx: Ctx }) {
-  const cls = `elementor-element elementor-element-${node._key} ${node.cls}`;
+  const cls = `elementor-element elementor-element-${node._key} ${node.cls}${node.sticky ? " elementor-sticky" : ""}`;
   const kids = <ElementorNodes nodes={node.children} ctx={ctx} />;
   return (
-    <div className={cls} data-id={node._key} data-element_type="container">
+    <div className={cls} data-id={node._key} data-element_type="container" data-sticky={node.sticky ? JSON.stringify(node.sticky) : undefined}>
       {node.cls.split(" ").includes("e-con-boxed") ? <div className="e-con-inner">{kids}</div> : kids}
     </div>
   );
@@ -479,7 +479,7 @@ function MenuList({ items, n, ctx, mobile, sub }: { items: MenuItem[]; n: NavMen
         const isSub = it.aCls.includes("elementor-sub-item");
         const arrow = n.arrowSvg ? `<span class="ast-icon icon-arrow">${n.arrowSvg}</span>` : "";
         const label = escapeHtml(it.label);
-        const toggle = it.children ? `<span class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" role="application" aria-expanded="false" aria-label="Menu Toggle">${arrow}</span><span class="sub-arrow">${iconHtml(n.subArrow)}</span>` : "";
+        const toggle = it.children ? `<span class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="${mobile ? -1 : 0}" role="application" aria-expanded="false" aria-label="Menu Toggle">${arrow}</span><span class="sub-arrow">${iconHtml(n.subArrow)}</span>` : "";
         return (
           <li key={it._key} className={li}>
             <a

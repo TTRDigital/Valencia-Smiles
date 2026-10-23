@@ -14,15 +14,19 @@ const CSS = cssManifest as Record<string, { href: string }>;
  * .site-body because one root layout serves every page (the ported CSS
  * targets .site-body where the original targeted body).
  */
-export async function SiteFrame({ cssKey, bodyCls, path, children, plainLink }: { cssKey: string; bodyCls: string; path: string; children: ReactNode; plainLink?: boolean }) {
+export async function SiteFrame({ cssKey, bodyCls, path, children }: { cssKey: string; bodyCls: string; path: string; children: ReactNode }) {
   const chrome = await getChrome();
   const css = CSS[cssKey] ?? CSS.plain;
   const ctx = { path };
   return (
     <>
-      {/* The 404 page's stylesheet goes in as plain markup: as a React <link>, Next would preload it on every page. */}
-      {plainLink ? <div hidden dangerouslySetInnerHTML={{ __html: `<link rel="stylesheet" href="${css.href}">` }} /> : <link rel="stylesheet" href={css.href} precedence="default" />}
-      <div className={`site-body ${bodyCls}`}>
+      {/*
+        The page's stylesheet (public/css/<key>.css, built from the live site's CSS) is inlined into
+        <head> after the build by scripts/inline-css.mjs, found through data-css below: one fewer
+        render-blocking request, and the CSS is not repeated in Next's page data. `next dev` links it.
+      */}
+      {process.env.NODE_ENV === "development" ? <link rel="stylesheet" href={css.href} precedence="default" /> : null}
+      <div className={`site-body ${bodyCls}`} data-css={cssKey}>
         <a className="skip-link screen-reader-text" href="#content">
           Skip to content
         </a>

@@ -33,6 +33,7 @@ const DIMS = imageDims as Record<string, number[]>;
  */
 function withAlt<T>(v: T): T {
   if (Array.isArray(v)) return v.map(withAlt) as T;
+  if (typeof v === "string" && v.includes("<img")) return htmlAlt(v) as T;
   if (!isObj(v)) return v;
   const out: Loose = {};
   for (const [k, x] of Object.entries(v)) out[k] = withAlt(x);
@@ -46,6 +47,17 @@ function withAlt<T>(v: T): T {
     }
   }
   return out as T;
+}
+
+/** The same written alt text for photos inside text HTML. */
+function htmlAlt(html: string): string {
+  return html.replace(/<img\b[^>]*>/g, (tag) => {
+    const src = /\ssrc="([^"]+)"/.exec(tag)?.[1];
+    const alt = src ? ALT[src] : undefined;
+    if (alt === undefined) return tag;
+    const safe = alt.replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+    return /\salt="[^"]*"/.test(tag) ? tag.replace(/\salt="[^"]*"/, ` alt="${safe}"`) : tag.replace(/^<img/, `<img alt="${safe}"`);
+  });
 }
 
 /**

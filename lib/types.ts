@@ -21,7 +21,8 @@ export type Icon = { svg?: string; img?: Img; i?: string } | null;
 
 type Base = { _key: string; cls: string; bare?: boolean };
 
-export type Box = Base & { _type: "box"; children: Node[] };
+export type Sticky = { sticky: string; sticky_on?: string[]; sticky_offset?: number; sticky_offset_tablet?: number; sticky_offset_mobile?: number; sticky_effects_offset?: number };
+export type Box = Base & { _type: "box"; children: Node[]; sticky?: Sticky };
 
 export type Heading = Base & { _type: "heading"; tag: string; html: string; size?: string; href?: string; target?: string };
 export type Text = Base & { _type: "text"; html: string };

@@ -47,20 +47,44 @@
       return !f.closest(".elementor-location-popup");
     });
     if (!frames.length) return;
-    if (!("IntersectionObserver" in window)) return frames.forEach(loadEmbed);
-    var io = new IntersectionObserver(
-      function (es) {
-        es.forEach(function (e) {
-          if (e.isIntersecting) {
-            loadEmbed(e.target);
-            io.unobserve(e.target);
-          }
-        });
-      },
-      { rootMargin: "600px 0px" }
-    );
-    frames.forEach(function (f) {
-      io.observe(f);
+    // An embed on screen when the page opens (the appointment calendar) loads once the page has
+    // loaded; the others load when the visitor first scrolls, taps or types and they come near.
+    function onScreen(f) {
+      var r = f.getBoundingClientRect();
+      return r.top < window.innerHeight && r.bottom > 0;
+    }
+    function afterLoad(cb) {
+      if (d.readyState === "complete") cb();
+      else window.addEventListener("load", cb, { once: true });
+    }
+    afterLoad(function () {
+      frames.filter(onScreen).forEach(loadEmbed);
+    });
+    var started = false;
+    function start() {
+      if (started) return;
+      started = true;
+      var rest = frames.filter(function (f) {
+        return !f.getAttribute("src");
+      });
+      if (!("IntersectionObserver" in window)) return rest.forEach(loadEmbed);
+      var io = new IntersectionObserver(
+        function (es) {
+          es.forEach(function (e) {
+            if (e.isIntersecting) {
+              loadEmbed(e.target);
+              io.unobserve(e.target);
+            }
+          });
+        },
+        { rootMargin: "800px 0px" }
+      );
+      rest.forEach(function (f) {
+        io.observe(f);
+      });
+    }
+    ["scroll", "pointerdown", "touchstart", "keydown"].forEach(function (ev) {
+      window.addEventListener(ev, start, { once: true, passive: true });
     });
   }
 
@@ -175,7 +199,7 @@
           toggle.classList.toggle("elementor-active", open);
           toggle.setAttribute("aria-expanded", open ? "true" : "false");
           drop.setAttribute("aria-hidden", open ? "false" : "true");
-          $$("a", drop).forEach(function (a) {
+          $$("a, [tabindex]", drop).forEach(function (a) {
             a.tabIndex = open ? 0 : -1;
           });
           place();
@@ -556,6 +580,10 @@
           s.classList.toggle("slick-active", on);
           s.classList.toggle("slick-current", k === i);
           s.setAttribute("aria-hidden", on ? "false" : "true");
+          // Off-screen slides are hidden from assistive tech, so nothing in them takes focus.
+          $$("a, button, [tabindex]", s).forEach(function (x) {
+            x.setAttribute("tabindex", on ? "0" : "-1");
+          });
         });
         if (dots)
           Array.prototype.forEach.call(dots.children, function (li, k) {
@@ -616,6 +644,9 @@
       handle.setAttribute("role", "slider");
       handle.setAttribute("tabindex", "0");
       handle.setAttribute("aria-label", "Drag to compare before and after");
+      handle.setAttribute("aria-valuemin", "0");
+      handle.setAttribute("aria-valuemax", "100");
+      handle.setAttribute("aria-valuenow", String(Math.round(offset * 100)));
       handle.innerHTML = '<span class="twentytwenty-left-arrow"></span><span class="twentytwenty-right-arrow"></span>';
       c.appendChild(handle);
       c.classList.add("active");
@@ -665,6 +696,68 @@
     })();
   }
 
+  /* ---------- Sticky header (Elementor's sticky option, on the live header) ---------- */
+  function initSticky() {
+    $$("[data-sticky]").forEach(function (el) {
+      // A sticky box inside another sticky box rides along with it (as on the live site).
+      if (el.parentNode.closest("[data-sticky]")) return;
+      var cfg = {};
+      try {
+        cfg = JSON.parse(el.getAttribute("data-sticky"));
+      } catch {
+        return;
+      }
+      var spacer = null;
+      var start = 0;
+      function offset() {
+        var dev = device();
+        var v = dev === "mobile" ? cfg.sticky_offset_mobile : dev === "tablet" ? cfg.sticky_offset_tablet : undefined;
+        return num(v === undefined || v === "" ? cfg.sticky_offset : v, 0);
+      }
+      function enabled() {
+        return !cfg.sticky_on || cfg.sticky_on.indexOf(device()) >= 0;
+      }
+      function measure() {
+        var ref = spacer || el;
+        start = ref.getBoundingClientRect().top + window.scrollY;
+      }
+      function on() {
+        if (spacer) return;
+        spacer = d.createElement("div");
+        spacer.className = "elementor-sticky__spacer";
+        spacer.setAttribute("aria-hidden", "true");
+        spacer.style.height = el.offsetHeight + "px";
+        el.parentNode.insertBefore(spacer, el.nextSibling);
+        el.style.position = "fixed";
+        el.style.width = spacer.getBoundingClientRect().width + "px";
+        el.style.marginTop = "0px";
+        el.style.marginBottom = "0px";
+        el.style.top = offset() + "px";
+        el.classList.add("elementor-sticky--active", "elementor-section--handles-inside", "elementor-sticky--effects");
+      }
+      function off() {
+        if (!spacer) return;
+        spacer.remove();
+        spacer = null;
+        el.style.position = el.style.width = el.style.marginTop = el.style.marginBottom = el.style.top = "";
+        el.classList.remove("elementor-sticky--active", "elementor-section--handles-inside", "elementor-sticky--effects");
+      }
+      function update() {
+        if (!enabled()) return off();
+        if (window.scrollY + offset() > start) on();
+        else off();
+      }
+      measure();
+      window.addEventListener("scroll", update, { passive: true });
+      window.addEventListener("resize", function () {
+        off();
+        measure();
+        update();
+      });
+      update();
+    });
+  }
+
   /* ---------- Scroll to top (Astra) ---------- */
   function initScrollTop() {
     var b = d.getElementById("ast-scroll-top");
@@ -686,6 +779,7 @@
   }
 
   function init() {
+    initSticky();
     initMenus();
     initAccordions();
     initSwipers();
@@ -716,15 +810,19 @@
     initScrollTop();
     initEmbeds();
   }
-  // Start after React has hydrated the page (components/layout/HydrationSignal.tsx); 3 s failsafe.
+  // The built pages are plain HTML (scripts/postbuild.mjs removes Next's runtime), so this starts
+  // right away. Under `next dev`, React hydrates the page first: wait for that
+  // (components/layout/HydrationSignal.tsx), or React would undo these changes; 3 s failsafe.
   var started = false;
   function start() {
     if (started) return;
     started = true;
     init();
   }
-  if (window.__vseHydrated) start();
-  else {
+  if (!window.__next_f || window.__vseHydrated) {
+    if (d.readyState === "loading") d.addEventListener("DOMContentLoaded", start);
+    else start();
+  } else {
     window.addEventListener("vse:hydrated", start, { once: true });
     setTimeout(start, 3000);
   }

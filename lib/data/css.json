@@ -1,114 +1,114 @@
 {
  "about": {
-  "href": "/css/about.css?v=0d9edec1",
-  "bytes": 160687
+  "href": "/css/about.css?v=2c75e694",
+  "bytes": 160849
  },
  "appointment": {
-  "href": "/css/appointment.css?v=c9c82bbf",
-  "bytes": 95992
+  "href": "/css/appointment.css?v=74cb54f2",
+  "bytes": 96154
  },
  "contact": {
-  "href": "/css/contact.css?v=57bc08d4",
-  "bytes": 165250
+  "href": "/css/contact.css?v=15534fb1",
+  "bytes": 165412
  },
  "home": {
-  "href": "/css/home.css?v=091ef7c2",
-  "bytes": 231185
+  "href": "/css/home.css?v=8edc953a",
+  "bytes": 231347
  },
  "services": {
-  "href": "/css/services.css?v=edac0a82",
-  "bytes": 208401
+  "href": "/css/services.css?v=f799501e",
+  "bytes": 208563
  },
  "services__cosmetic-dentistry": {
-  "href": "/css/services__cosmetic-dentistry.css?v=cf91ce0a",
-  "bytes": 238336
+  "href": "/css/services__cosmetic-dentistry.css?v=63699fb7",
+  "bytes": 238498
  },
  "services__cosmetic-dentistry__composite-filling": {
-  "href": "/css/services__cosmetic-dentistry__composite-filling.css?v=6d97c540",
-  "bytes": 262228
+  "href": "/css/services__cosmetic-dentistry__composite-filling.css?v=c7dd3847",
+  "bytes": 262390
  },
  "services__cosmetic-dentistry__invisalign": {
-  "href": "/css/services__cosmetic-dentistry__invisalign.css?v=827fe09a",
-  "bytes": 241431
+  "href": "/css/services__cosmetic-dentistry__invisalign.css?v=f05d3508",
+  "bytes": 241593
  },
  "services__cosmetic-dentistry__teeth-whitening": {
-  "href": "/css/services__cosmetic-dentistry__teeth-whitening.css?v=b74b4768",
-  "bytes": 208970
+  "href": "/css/services__cosmetic-dentistry__teeth-whitening.css?v=971a726a",
+  "bytes": 209132
  },
  "services__cosmetic-dentistry__veneers": {
-  "href": "/css/services__cosmetic-dentistry__veneers.css?v=1aa84c8d",
-  "bytes": 267292
+  "href": "/css/services__cosmetic-dentistry__veneers.css?v=25774c35",
+  "bytes": 267454
  },
  "services__dental-crowns": {
-  "href": "/css/services__dental-crowns.css?v=48be1138",
-  "bytes": 263405
+  "href": "/css/services__dental-crowns.css?v=dda29b5e",
+  "bytes": 263567
  },
  "services__dental-implants": {
-  "href": "/css/services__dental-implants.css?v=5d807ad4",
-  "bytes": 220278
+  "href": "/css/services__dental-implants.css?v=dd3d05d5",
+  "bytes": 220440
  },
  "services__holistic-dentistry": {
-  "href": "/css/services__holistic-dentistry.css?v=a11c26f7",
-  "bytes": 238945
+  "href": "/css/services__holistic-dentistry.css?v=35cc1289",
+  "bytes": 239107
  },
  "services__oral-surgery": {
-  "href": "/css/services__oral-surgery.css?v=d04fde02",
-  "bytes": 224773
+  "href": "/css/services__oral-surgery.css?v=4ad2aabd",
+  "bytes": 224935
  },
  "services__oral-surgery__all-on-4-implants": {
-  "href": "/css/services__oral-surgery__all-on-4-implants.css?v=8866ca56",
-  "bytes": 233624
+  "href": "/css/services__oral-surgery__all-on-4-implants.css?v=61b7e4ed",
+  "bytes": 233786
  },
  "services__oral-surgery__bone-grafting": {
-  "href": "/css/services__oral-surgery__bone-grafting.css?v=4d136a59",
-  "bytes": 236042
+  "href": "/css/services__oral-surgery__bone-grafting.css?v=cd8da1dc",
+  "bytes": 236204
  },
  "services__oral-surgery__tooth-extractions": {
-  "href": "/css/services__oral-surgery__tooth-extractions.css?v=d2fdb538",
-  "bytes": 232323
+  "href": "/css/services__oral-surgery__tooth-extractions.css?v=6c4be163",
+  "bytes": 232485
  },
  "services__oral-surgery__wisdom-teeth-removal": {
-  "href": "/css/services__oral-surgery__wisdom-teeth-removal.css?v=076c20a7",
-  "bytes": 232373
+  "href": "/css/services__oral-surgery__wisdom-teeth-removal.css?v=2060c11e",
+  "bytes": 232535
  },
  "services__restorative-dentistry": {
-  "href": "/css/services__restorative-dentistry.css?v=d3744cf9",
-  "bytes": 249896
+  "href": "/css/services__restorative-dentistry.css?v=33665d4c",
+  "bytes": 250058
  },
  "services__restorative-dentistry__dental-bridges": {
-  "href": "/css/services__restorative-dentistry__dental-bridges.css?v=5fd0ca82",
-  "bytes": 272358
+  "href": "/css/services__restorative-dentistry__dental-bridges.css?v=dff83c9f",
+  "bytes": 272520
  },
  "sitemap": {
-  "href": "/css/sitemap.css?v=3b64c92d",
-  "bytes": 96491
+  "href": "/css/sitemap.css?v=533f3309",
+  "bytes": 96653
  },
  "terms-and-services": {
-  "href": "/css/terms-and-services.css?v=98df8c53",
-  "bytes": 95358
+  "href": "/css/terms-and-services.css?v=e21544b0",
+  "bytes": 95520
  },
  "thank-you": {
-  "href": "/css/thank-you.css?v=0382c73b",
-  "bytes": 96714
+  "href": "/css/thank-you.css?v=75b0732e",
+  "bytes": 96876
  },
  "tmj-treatments": {
-  "href": "/css/tmj-treatments.css?v=466e8924",
-  "bytes": 264921
+  "href": "/css/tmj-treatments.css?v=05d9b227",
+  "bytes": 265083
  },
  "post": {
-  "href": "/css/post.css?v=7a3cfc17",
-  "bytes": 118256
+  "href": "/css/post.css?v=2b020bc6",
+  "bytes": 118418
  },
  "plain": {
-  "href": "/css/plain.css?v=3fe22989",
-  "bytes": 107930
+  "href": "/css/plain.css?v=ffd1c853",
+  "bytes": 108092
  },
  "archive": {
-  "href": "/css/archive.css?v=0938fb56",
-  "bytes": 118926
+  "href": "/css/archive.css?v=827ec023",
+  "bytes": 119088
  },
  "post-html": {
-  "href": "/css/post-html.css?v=db28f735",
-  "bytes": 113889
+  "href": "/css/post-html.css?v=acaac34b",
+  "bytes": 114051
  }
 }

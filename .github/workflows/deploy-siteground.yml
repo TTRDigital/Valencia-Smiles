@@ -1,0 +1,100 @@
+# Builds the static site and uploads it to SiteGround over FTPS.
+# Runs on every push to this branch or main, when Sanity publishes (webhook ->
+# repository_dispatch), and from Actions > "Deploy to SiteGround" > Run workflow.
+#
+# Repository secrets (Settings > Secrets and variables > Actions > Secrets):
+#   SG_FTP_SERVER    FTP host from SiteGround Site Tools > Site > FTP Accounts
+#   SG_FTP_USERNAME  the FTP account
+#   SG_FTP_PASSWORD
+# Repository variables (Settings > Secrets and variables > Actions > Variables):
+#   SG_FTP_DIR         folder the site is uploaded into, relative to the FTP account's
+#                      root (e.g. ./ or ./staging.valenciasmileexpert.com/public_html/).
+#                      Required for uploads: check the "Show SiteGround folders" step first.
+#   SANITY_PROJECT_ID  the Sanity project (empty: the site builds from lib/data)
+#   GTM_ID, GA_ID, AHREFS_KEY  tracking ids (default: the live site's; "off" turns one off)
+# Until SG_FTP_SERVER and SG_FTP_DIR are set, the workflow only builds (the site is
+# kept as a run artifact for 14 days).
+name: Deploy to SiteGround
+
+on:
+  push:
+    branches: [claude/valencia-smile-expert-nextjs-kogod1, main]
+  repository_dispatch:
+    types: [sanity-publish]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-siteground
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    # At job level so the steps' `if:` checks can see them.
+    env:
+      SG_FTP_SERVER: ${{ secrets.SG_FTP_SERVER }}
+      SG_FTP_DIR: ${{ vars.SG_FTP_DIR }}
+      NEXT_PUBLIC_SANITY_PROJECT_ID: ${{ vars.SANITY_PROJECT_ID }}
+      NEXT_PUBLIC_GTM_ID: ${{ vars.GTM_ID }}
+      NEXT_PUBLIC_GA_ID: ${{ vars.GA_ID }}
+      NEXT_PUBLIC_AHREFS_KEY: ${{ vars.AHREFS_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build static site
+        run: npm run build
+
+      # Download from the run page for a manual upload.
+      - name: Keep a copy of the site
+        uses: actions/upload-artifact@v4
+        with:
+          name: valencia-smile-expert-site
+          path: out/
+          include-hidden-files: true
+          retention-days: 14
+
+      # Lists the FTP account's folders in the run log, so SG_FTP_DIR can point at the site's
+      # real document root. On SiteGround the FTP root is often one level above the site
+      # (it lists e.g. valenciasmileexpert.com/, whose public_html is the document root).
+      - name: Show SiteGround folders
+        if: env.SG_FTP_SERVER != ''
+        env:
+          FTP_USER: ${{ secrets.SG_FTP_USERNAME }}
+          FTP_PASS: ${{ secrets.SG_FTP_PASSWORD }}
+        run: |
+          list() { curl -s --ssl-reqd --max-time 30 --user "$FTP_USER:$FTP_PASS" --list-only "ftp://$SG_FTP_SERVER/$1" || true; }
+          echo "== / (FTP account root)"
+          list "" | head -50
+          for d in $(list "" | grep -E '^[a-z0-9.-]+\.[a-z]{2,}$' | head -10); do
+            echo "== /$d/"
+            list "$d/" | head -30
+            echo "== /$d/public_html/"
+            list "$d/public_html/" | head -30
+          done
+          echo "Upload folder (SG_FTP_DIR): ${SG_FTP_DIR:-not set, upload skipped}"
+
+      - name: Upload to SiteGround
+        # Skipped (build check only) until the FTP secret and the upload folder are set.
+        if: env.SG_FTP_SERVER != '' && env.SG_FTP_DIR != ''
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.SG_FTP_SERVER }}
+          username: ${{ secrets.SG_FTP_USERNAME }}
+          password: ${{ secrets.SG_FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./out/
+          server-dir: ${{ vars.SG_FTP_DIR }}
+          # Only this site's own files are touched; everything else in the folder
+          # (e.g. the old WordPress files) is left alone.
+          dangerous-clean-slate: false

@@ -9,7 +9,7 @@ import path from "node:path";
 import sharp from "sharp";
 
 // deviceSizes + imageSizes from next.config.ts.
-const WIDTHS = [96, 256, 384, 640, 828, 1200, 1920];
+const WIDTHS = [96, 256, 384, 640, 720, 828, 1200, 1920];
 const SRC = path.resolve("public/images");
 const OUT = path.resolve("public/_img/images");
 
@@ -37,7 +37,8 @@ for await (const file of walk(SRC)) {
     await sharp(file)
       .rotate()
       .resize({ width: Math.min(w, meta.width ?? w), withoutEnlargement: true })
-      .webp({ quality: 74, effort: 5 })
+      // Lossy transparency (alphaQuality) halves the size of the cut-out portraits with no visible change.
+      .webp({ quality: 74, alphaQuality: 70, smartSubsample: true, effort: 5 })
       .toFile(target);
     made++;
   }

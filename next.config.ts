@@ -18,6 +18,8 @@ const nextConfig: NextConfig = {
   trailingSlash: true,
   poweredByHeader: false,
   images: { unoptimized: true },
+  // The small global stylesheet goes into the HTML too (no render-blocking request).
+  experimental: { inlineCss: true },
 };
 
 export default nextConfig;

@@ -2,7 +2,7 @@
 import type { Img as ImgT } from "@/lib/types";
 
 // Keep in sync with WIDTHS in scripts/optimize-images.mjs.
-const WIDTHS = [96, 256, 384, 640, 828, 1200, 1920];
+const WIDTHS = [96, 256, 384, 640, 720, 828, 1200, 1920];
 
 const local = (src: string) => src.startsWith("/images/") && /\.(png|jpe?g|webp)$/i.test(src);
 const variant = (src: string, w: number) => `/_img${src.replace(/\.(png|jpe?g|webp)$/i, "")}-${w}.webp`;

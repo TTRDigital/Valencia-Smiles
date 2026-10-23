@@ -9,7 +9,7 @@ export const metadata = { title: { absolute: "Page not found - Valencia Smile Ex
 export default function NotFound() {
   return (
     <>
-      <SiteFrame cssKey="plain" bodyCls="error404 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-plain-container ast-no-sidebar astra-4.11.1 ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 astra-addon-4.11.0" path="/404/" plainLink>
+      <SiteFrame cssKey="plain" bodyCls="error404 wp-custom-logo wp-theme-astra wp-child-theme-valencia ast-plain-container ast-no-sidebar astra-4.11.1 ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-8 astra-addon-4.11.0" path="/404/">
         <div className="ast-container">
           <div id="primary" className="content-area primary">
             <main id="main" className="site-main">

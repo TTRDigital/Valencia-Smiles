@@ -12,7 +12,8 @@ const eslintConfig = defineConfig([
       "@next/next/no-html-link-for-pages": "off",
     },
   },
-  globalIgnores([".next/**", "out/**", "build/**", "next-env.d.ts"]),
+  // One-off generators run outside the app (see scripts/import/README.md).
+  globalIgnores([".next/**", "out/**", "build/**", "next-env.d.ts", "scripts/import/**"]),
 ]);
 
 export default eslintConfig;

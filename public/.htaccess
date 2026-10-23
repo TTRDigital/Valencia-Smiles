@@ -9,6 +9,7 @@ DirectoryIndex index.html index.php
 # The trailing slash is added by a rewrite below (on https), not by Apache.
 DirectorySlash Off
 ErrorDocument 404 /404.html
+AddDefaultCharset UTF-8
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
@@ -194,12 +195,13 @@ ErrorDocument 404 /404.html
   </If>
 
   # Content security policy: only what the pages load. Third parties: Google Tag Manager and
-  # Analytics, Ahrefs Web Analytics, the GoHighLevel (LeadConnector) form and calendar embeds,
-  # Google Maps embeds, Sanity images. Tags added in GTM that load other scripts need their
-  # domains added here.
+  # Analytics, the Google Ads tag the live GTM container fires (AW-339190937: google.com,
+  # doubleclick.net, googleadservices.com), Ahrefs Web Analytics, the GoHighLevel (LeadConnector)
+  # form and calendar embeds, Google Maps embeds, Sanity images. Tags added in GTM that load
+  # other scripts need their domains added here.
   # The studio at /cms talks to many Sanity hosts and is protected by Sanity login instead.
   <If "%{REQUEST_URI} !~ m#^/cms(/|$)#">
-    Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://*.googletagmanager.com https://www.google-analytics.com https://analytics.ahrefs.com https://link.msgsndr.com https://*.leadconnectorhq.com https://*.msgsndr.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data:; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://analytics.ahrefs.com https://*.leadconnectorhq.com https://*.msgsndr.com https://cdn.sanity.io; frame-src 'self' https://www.googletagmanager.com https://maps.google.com https://www.google.com https://api.leadconnectorhq.com https://*.leadconnectorhq.com https://*.msgsndr.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests"
+    Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://*.googletagmanager.com https://www.google-analytics.com https://www.google.com https://googleads.g.doubleclick.net https://www.googleadservices.com https://analytics.ahrefs.com https://link.msgsndr.com https://*.leadconnectorhq.com https://*.msgsndr.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data:; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://www.google.com https://google.com https://*.doubleclick.net https://www.googleadservices.com https://analytics.ahrefs.com https://*.leadconnectorhq.com https://*.msgsndr.com https://cdn.sanity.io; frame-src 'self' https://www.googletagmanager.com https://*.doubleclick.net https://maps.google.com https://www.google.com https://api.leadconnectorhq.com https://*.leadconnectorhq.com https://*.msgsndr.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests"
   </If>
 
   # Caching: versioned files (?v=) and fonts for a year, photos for a month, pages always fresh.

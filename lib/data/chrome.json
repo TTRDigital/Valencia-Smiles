@@ -248,9 +248,30 @@
          }
         ]
        }
-      ]
+      ],
+      "sticky": {
+       "sticky": "top",
+       "sticky_on": [
+        "desktop",
+        "tablet",
+        "mobile"
+       ],
+       "sticky_offset": 0,
+       "sticky_offset_mobile": 28,
+       "sticky_effects_offset": 0
+      }
      }
-    ]
+    ],
+    "sticky": {
+     "sticky": "top",
+     "sticky_on": [
+      "desktop",
+      "tablet",
+      "mobile"
+     ],
+     "sticky_offset": 0,
+     "sticky_effects_offset": 0
+    }
    }
   ]
  },
