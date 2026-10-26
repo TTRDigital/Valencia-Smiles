@@ -1,15 +1,16 @@
 /*
- * Site behaviors, replacing the live site's jQuery, Elementor, Swiper, Slick
- * and Twenty20 scripts with one small file. Works on the static markup
+ * Site behaviors, replacing the live site's jQuery, Elementor, Swiper and Slick
+ * scripts with one small file. Works on the static markup
  * (components/elementor/Elementor.tsx prints the same classes Elementor did),
  * so pages render fully without it; it only adds interaction.
  *
- *  - header menu: dropdowns, phone menu toggle, and a width check that
- *    switches to the phone menu whenever the full menu would wrap
- *  - pop-ups (#popup-<id> links): the "Request Appointment" form
+ *  - header menu: dropdowns and the phone menu toggle (the menu shows and
+ *    wraps exactly as on the live site)
+ *  - pop-ups (#popup-<id> links), as on the live site
  *  - nested accordions (one open at a time, like Elementor)
  *  - carousels (Elementor nested/image carousels) and the theme's sliders
- *  - before/after comparison sliders
+ *  (the before/after sliders are left as the live page shows them: its Twenty20
+ *  script never starts, so they stay empty)
  *  - GoHighLevel embeds load when needed; scroll-to-top button
  */
 (function () {
@@ -25,6 +26,13 @@
     var w = window.innerWidth;
     return w <= MOBILE ? "mobile" : w <= TABLET ? "tablet" : "desktop";
   }
+  // Elementor gives Swiper its breakpoints as minimum widths, so the number of slides in view switches one
+  // pixel lower than the CSS does (desktop from 1024 px, tablet from 767 px), as on the live site; the
+  // spacing between slides follows the CSS breakpoints.
+  function swiperDevice() {
+    var w = window.innerWidth;
+    return w < MOBILE ? "mobile" : w < TABLET ? "tablet" : "desktop";
+  }
 
   /* ---------- GoHighLevel embeds ---------- */
   var embedScript = false;
@@ -33,6 +41,19 @@
     var h = frame.getAttribute("data-height");
     // The form's own script sets the final height; until it does, use the height GoHighLevel declared.
     if (h && !/px$/.test(frame.style.height)) frame.style.height = h + "px";
+    // GoHighLevel's script hides the frame until the form is ready, then shows it at the form's height. The
+    // space reserved around it is kept until then (so nothing below jumps), then released, so the form ends
+    // up exactly as tall as on the live site.
+    var box = frame.closest(".vse-embed");
+    if (box && window.MutationObserver) {
+      var watch = new MutationObserver(function () {
+        if (frame.style.visibility === "visible" && frame.style.position !== "absolute") {
+          box.style.minHeight = "";
+          watch.disconnect();
+        }
+      });
+      watch.observe(frame, { attributes: true, attributeFilter: ["style"] });
+    }
     frame.setAttribute("src", frame.getAttribute("data-src"));
     if (!embedScript) {
       embedScript = true;
@@ -107,7 +128,8 @@
       '<div class="dialog-widget-content dialog-lightbox-widget-content animated"><a role="button" tabindex="0" aria-label="Close" href="#" class="dialog-close-button dialog-lightbox-close-button"><svg aria-hidden="true" class="e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg></a><div class="dialog-header dialog-lightbox-header"></div><div class="dialog-message dialog-lightbox-message"></div></div>';
     modal.querySelector(".dialog-message").appendChild(doc);
     doc.style.display = "block";
-    d.body.appendChild(modal);
+    // Inside .site-body (the live <body> classes, including Elementor's global styles), where Elementor put it.
+    (d.querySelector(".site-body") || d.body).appendChild(modal);
     modal.addEventListener("click", function (e) {
       if (e.target === modal || e.target.closest(".dialog-close-button")) {
         e.preventDefault();
@@ -247,24 +269,6 @@
         });
       }
 
-      // The menu must never wrap: if the full menu does not fit on one line, show the phone menu instead.
-      if (main && toggle) {
-        var ul = main.querySelector(".elementor-nav-menu");
-        var check = function () {
-          w.classList.remove("vse-menu-collapsed");
-          if (getComputedStyle(main).display === "none") return;
-          var items = $$(":scope > li", ul);
-          if (!items.length) return;
-          var top = items[0].offsetTop;
-          var wraps = items.some(function (li) {
-            return li.offsetTop > top + 2;
-          });
-          if (wraps || ul.scrollWidth > main.clientWidth + 1) w.classList.add("vse-menu-collapsed");
-        };
-        check();
-        window.addEventListener("resize", check);
-        if (d.fonts && d.fonts.ready) d.fonts.ready.then(check);
-      }
     });
   }
 
@@ -310,7 +314,7 @@
       var timer = null;
       var paused = false;
       function perView() {
-        var dev = device();
+        var dev = swiperDevice();
         var v = dev === "mobile" ? cfg.slides_to_show_mobile : dev === "tablet" ? cfg.slides_to_show_tablet : cfg.slides_to_show;
         if (!v && dev === "mobile") v = 1;
         if (!v && dev === "tablet") v = cfg.slides_to_show ? Math.min(2, num(cfg.slides_to_show, 3)) : 2;
@@ -438,35 +442,35 @@
     );
   }
 
-  /* ---------- The theme's Slick sliders (same options as the live theme's custom.js) ---------- */
+  /*
+   * The theme's Slick sliders (same options as the live theme's custom.js), with the markup Slick 1.8.1
+   * builds there: the slides themselves sit in the track, after copies of the last slides in view and
+   * before copies of all of them.
+   */
   function initSlick(selector, opts) {
     $$(selector).forEach(function (root) {
-      var items = $$(":scope > *", root);
-      if (items.length < 2) return;
+      var slides = $$(":scope > *", root);
+      if (slides.length < 2) return;
+      var count = slides.length;
       root.classList.add("slick-initialized", "slick-slider");
+      if (opts.dots) root.classList.add("slick-dotted");
       var list = d.createElement("div");
-      list.className = "slick-list draggable";
+      list.className = opts.draggable === false ? "slick-list" : "slick-list draggable";
       var track = d.createElement("div");
       track.className = "slick-track";
+      track.style.opacity = "1";
       list.appendChild(track);
-      var slides = items.map(function (el, i) {
-        var s = d.createElement("div");
-        s.className = "slick-slide";
-        s.setAttribute("data-slick-index", i);
-        var inner = d.createElement("div");
-        s.appendChild(inner);
-        inner.appendChild(el);
-        el.style.width = "100%";
-        el.style.display = "inline-block";
-        track.appendChild(s);
-        return s;
+      slides.forEach(function (el, i) {
+        el.classList.add("slick-slide");
+        el.setAttribute("data-slick-index", i);
+        track.appendChild(el);
       });
       var prev, next, dots;
       if (opts.arrows) {
         prev = d.createElement("button");
         prev.className = "slick-prev slick-arrow";
-        prev.type = "button";
         prev.setAttribute("aria-label", "Previous");
+        prev.type = "button";
         prev.textContent = "Previous";
         root.appendChild(prev);
       }
@@ -474,8 +478,8 @@
       if (opts.arrows) {
         next = d.createElement("button");
         next.className = "slick-next slick-arrow";
-        next.type = "button";
         next.setAttribute("aria-label", "Next");
+        next.type = "button";
         next.textContent = "Next";
         root.appendChild(next);
       }
@@ -487,48 +491,64 @@
       }
       var index = 0;
       var timer = null;
+      var busy = false;
       function show() {
         var w = window.innerWidth;
         var n = opts.slidesToShow;
         (opts.responsive || []).forEach(function (r) {
           if (w < r.breakpoint) n = Math.min(n, r.slidesToShow);
         });
-        return Math.min(n, slides.length);
+        return Math.min(n, count);
       }
-      // Like Slick: in infinite mode every slide is a stop (one dot each) and the track
-      // continues into copies of the first slides; otherwise it stops at the last full view.
-      function pages() {
-        return opts.infinite ? slides.length : Math.max(1, slides.length - show() + 1);
+      var before = [];
+      var after = [];
+      function clone(el, i) {
+        var c = el.cloneNode(true);
+        c.classList.add("slick-cloned");
+        c.classList.remove("slick-active", "slick-current");
+        c.setAttribute("data-slick-index", i);
+        c.id = "";
+        c.setAttribute("aria-hidden", "true");
+        c.setAttribute("tabindex", "-1");
+        $$("a, button, [tabindex]", c).forEach(function (x) {
+          x.setAttribute("tabindex", "-1");
+        });
+        return c;
       }
-      var clones = [];
       function makeClones() {
-        clones.forEach(function (c) {
+        before.concat(after).forEach(function (c) {
           c.remove();
         });
-        clones = [];
+        before = [];
+        after = [];
         if (!opts.infinite) return;
-        for (var k = 0; k < show(); k++) {
-          var c = slides[k].cloneNode(true);
-          c.classList.add("slick-cloned");
-          c.setAttribute("aria-hidden", "true");
-          c.removeAttribute("data-slick-index");
-          $$("a, button, [tabindex]", c).forEach(function (x) {
-            x.setAttribute("tabindex", "-1");
-          });
+        for (var k = count - show(); k < count; k++) before.push(clone(slides[k], k - count));
+        before.forEach(function (c) {
+          track.insertBefore(c, slides[0]);
+        });
+        for (var j = 0; j < count; j++) after.push(clone(slides[j], j + count));
+        after.forEach(function (c) {
           track.appendChild(c);
-          clones.push(c);
-        }
+        });
+      }
+      function all() {
+        return before.concat(slides, after);
+      }
+      // In infinite mode every slide is a stop (one dot each); otherwise the slider stops at the last full view.
+      function pages() {
+        return opts.infinite ? count : Math.max(1, count - show() + 1);
       }
       function buildDots() {
         if (!dots) return;
         dots.innerHTML = "";
+        var groups = Math.ceil(count / show());
         for (var i = 0; i < pages(); i++) {
           var li = d.createElement("li");
           li.setAttribute("role", "presentation");
           var b = d.createElement("button");
           b.type = "button";
           b.setAttribute("role", "tab");
-          b.setAttribute("aria-label", i + 1 + " of " + pages());
+          b.setAttribute("aria-label", i + 1 + " of " + groups);
           b.textContent = String(i + 1);
           (function (k) {
             b.addEventListener("click", function () {
@@ -545,43 +565,32 @@
         if (n !== shown) {
           shown = n;
           makeClones();
-          // Before/after sliders inside clones need their own handles.
-          clones.forEach(function (c) {
-            $$(".twentytwenty-wrapper", c).forEach(function (wr) {
-              var cont = wr.querySelector(".twentytwenty-container");
-              wr.parentNode.insertBefore(cont, wr);
-              wr.remove();
-              $$(".twentytwenty-overlay, .twentytwenty-handle", cont).forEach(function (x) {
-                x.remove();
-              });
-              initTwentyOne(cont);
-            });
-          });
         }
         var sw = list.clientWidth / n;
-        slides.concat(clones).forEach(function (s) {
-          s.style.width = sw + "px";
+        all().forEach(function (el) {
+          el.style.width = sw + "px";
         });
-        track.style.width = sw * (slides.length + clones.length) + "px";
+        track.style.width = sw * all().length + "px";
         if (!dots || dots.children.length !== pages()) buildDots();
         go(Math.min(index, pages() - 1), false);
       }
-      function go(i, user) {
-        var max = pages() - 1;
-        if (i > max) i = opts.infinite ? 0 : max;
-        if (i < 0) i = opts.infinite ? max : 0;
-        index = i;
+      function place(pos, animate) {
         var sw = slides[0].getBoundingClientRect().width;
-        track.style.transition = user === false || reduceMotion ? "none" : "transform " + opts.speed + "ms ease";
-        track.style.transform = "translate3d(" + -i * sw + "px, 0px, 0px)";
+        track.style.transition = animate && !reduceMotion ? "transform " + opts.speed + "ms ease" : "";
+        track.style.transform = "translate3d(" + -(before.length + pos) * sw + "px, 0px, 0px)";
+      }
+      function mark(i) {
         var n = show();
-        slides.forEach(function (s, k) {
-          var on = k >= i && k < i + n;
-          s.classList.toggle("slick-active", on);
-          s.classList.toggle("slick-current", k === i);
-          s.setAttribute("aria-hidden", on ? "false" : "true");
+        var items = all();
+        items.forEach(function (el, k) {
+          var on = k >= before.length + i && k < before.length + i + n;
+          el.classList.toggle("slick-active", on);
+          if (el.classList.contains("slick-cloned")) return;
+          el.classList.toggle("slick-current", k === before.length + i);
+          el.setAttribute("aria-hidden", on ? "false" : "true");
+          el.setAttribute("tabindex", on ? "0" : "-1");
           // Off-screen slides are hidden from assistive tech, so nothing in them takes focus.
-          $$("a, button, [tabindex]", s).forEach(function (x) {
+          $$("a, button, [tabindex]", el).forEach(function (x) {
             x.setAttribute("tabindex", on ? "0" : "-1");
           });
         });
@@ -589,13 +598,40 @@
           Array.prototype.forEach.call(dots.children, function (li, k) {
             li.classList.toggle("slick-active", k === i);
           });
+      }
+      function go(i, user) {
+        if (busy) return;
+        var max = pages() - 1;
+        var target = i;
+        if (!opts.infinite) target = Math.max(0, Math.min(max, i));
+        var final = target > max ? 0 : target < 0 ? max : target;
+        index = final;
+        if (user === false) {
+          place(final, false);
+          mark(final);
+          return;
+        }
+        // Like Slick: past either end the track slides on into the copies, then jumps back to the real slide.
+        place(target, true);
+        mark(target === final ? final : target);
+        if (target !== final) {
+          busy = true;
+          setTimeout(
+            function () {
+              busy = false;
+              place(final, false);
+              mark(final);
+            },
+            reduceMotion ? 0 : opts.speed,
+          );
+        }
         if (user) restart();
       }
       function restart() {
         clearInterval(timer);
         if (opts.autoplay && !reduceMotion)
           timer = setInterval(function () {
-            if (!d.hidden) go(index + 1);
+            if (!d.hidden) go(index + 1, null);
           }, 3000);
       }
       if (prev)
@@ -606,94 +642,13 @@
         next.addEventListener("click", function () {
           go(index + 1, true);
         });
-      if (!opts.noSwipe)
-        swipe(list, function (dir) {
-          go(index + dir, true);
-        });
+      swipe(list, function (dir) {
+        go(index + dir, true);
+      });
       layout();
       restart();
       window.addEventListener("resize", layout);
     });
-  }
-
-  /* ---------- Before/after (Twenty20) ---------- */
-  function initTwenty() {
-    $$(".twentytwenty-container").forEach(initTwentyOne);
-  }
-  function initTwentyOne(c) {
-    (function () {
-      var imgs = c.querySelectorAll("img");
-      if (imgs.length < 2) return;
-      var before = imgs[0];
-      var after = imgs[1];
-      var offset = num(c.getAttribute("data-offset"), 0.5);
-      var wrap = d.createElement("div");
-      wrap.className = "twentytwenty-wrapper twentytwenty-horizontal";
-      c.parentNode.insertBefore(wrap, c);
-      wrap.appendChild(c);
-      before.classList.add("twentytwenty-before");
-      after.classList.add("twentytwenty-after");
-      var overlay = d.createElement("div");
-      overlay.className = "twentytwenty-overlay";
-      var bl = c.getAttribute("data-before");
-      var al = c.getAttribute("data-after");
-      overlay.innerHTML = (bl ? '<div class="twentytwenty-before-label" data-content="' + bl + '"></div>' : "") + (al ? '<div class="twentytwenty-after-label" data-content="' + al + '"></div>' : "");
-      c.appendChild(overlay);
-      var handle = d.createElement("div");
-      handle.className = "twentytwenty-handle";
-      handle.setAttribute("role", "slider");
-      handle.setAttribute("tabindex", "0");
-      handle.setAttribute("aria-label", "Drag to compare before and after");
-      handle.setAttribute("aria-valuemin", "0");
-      handle.setAttribute("aria-valuemax", "100");
-      handle.setAttribute("aria-valuenow", String(Math.round(offset * 100)));
-      handle.innerHTML = '<span class="twentytwenty-left-arrow"></span><span class="twentytwenty-right-arrow"></span>';
-      c.appendChild(handle);
-      c.classList.add("active");
-      function size() {
-        var w = after.getBoundingClientRect().width || c.clientWidth;
-        var h = after.getBoundingClientRect().height;
-        if (!w || !h) return;
-        c.style.height = h + "px";
-        var x = w * offset;
-        before.style.clip = "rect(0px, " + x + "px, " + h + "px, 0px)";
-        handle.style.left = x + "px";
-        handle.setAttribute("aria-valuenow", Math.round(offset * 100));
-      }
-      function move(clientX) {
-        var r = c.getBoundingClientRect();
-        offset = Math.max(0, Math.min(1, (clientX - r.left) / r.width));
-        size();
-      }
-      var drag = false;
-      c.addEventListener("pointerdown", function (e) {
-        drag = true;
-        move(e.clientX);
-        if (c.setPointerCapture) c.setPointerCapture(e.pointerId);
-      });
-      c.addEventListener("pointermove", function (e) {
-        if (drag) move(e.clientX);
-      });
-      c.addEventListener("pointerup", function () {
-        drag = false;
-      });
-      c.addEventListener("pointercancel", function () {
-        drag = false;
-      });
-      handle.addEventListener("keydown", function (e) {
-        if (e.key === "ArrowLeft" || e.key === "ArrowRight") {
-          offset = Math.max(0, Math.min(1, offset + (e.key === "ArrowLeft" ? -0.05 : 0.05)));
-          size();
-          e.preventDefault();
-        }
-      });
-      c.style.touchAction = "pan-y";
-      [before, after].forEach(function (im) {
-        if (!im.complete) im.addEventListener("load", size);
-      });
-      size();
-      window.addEventListener("resize", size);
-    })();
   }
 
   /* ---------- Sticky header (Elementor's sticky option, on the live header) ---------- */
@@ -758,6 +713,26 @@
     });
   }
 
+  /*
+   * Blog comment form and the WordPress pop-up form (pop-up 835): both posted to WordPress, which the
+   * static site does not have, so sending them shows how to reach the office instead.
+   */
+  d.addEventListener("submit", function (e) {
+    var f = e.target.closest && e.target.closest("[data-comment-form], [data-lead-form]");
+    if (!f) return;
+    e.preventDefault();
+    var note = f.querySelector(".vse-comment-note");
+    if (!note) {
+      note = d.createElement("p");
+      note.className = "vse-comment-note elementor-message";
+      note.setAttribute("role", "status");
+      f.appendChild(note);
+    }
+    note.textContent = f.hasAttribute("data-lead-form")
+      ? "Your request could not be sent online. Please call us at (661) 254-5200."
+      : "Comments are closed. Please call us at (661) 254-5200 or use the Book Now button.";
+  });
+
   /* ---------- Scroll to top (Astra) ---------- */
   function initScrollTop() {
     var b = d.getElementById("ast-scroll-top");
@@ -783,7 +758,6 @@
     initMenus();
     initAccordions();
     initSwipers();
-    initTwenty();
     initSlick(".why-patient-slider-wrap", {
       dots: false,
       arrows: false,
@@ -804,7 +778,7 @@
       speed: 300,
       slidesToShow: 3,
       autoplay: false,
-      noSwipe: true,
+      draggable: false,
       responsive: [{ breakpoint: 480, slidesToShow: 1 }],
     });
     initScrollTop();

@@ -6,7 +6,7 @@ element's own classes (`cls`, minus the ones the renderer adds back) so the port
 Elementor CSS keeps matching, and the widget's content as plain fields.
 Run: python3 -I extract.py <live dir> <repo dir>
 """
-import sys, os, re, json, base64, hashlib, html as htmlmod
+import sys, os, re, json, glob, base64, hashlib, html as htmlmod
 from urllib.parse import urlparse, unquote
 from bs4 import BeautifulSoup, Comment, NavigableString, Tag
 
@@ -62,7 +62,8 @@ def link(href):
 
 def inner(tag):
     # HTML comments (e.g. a writer's "<!-- Meta description: ... -->" note) are not page content.
-    return rewrite_html(''.join(str(c) for c in tag.contents if not isinstance(c, Comment))).strip()
+    # Only ordinary whitespace is trimmed: a no-break space at either end (&nbsp;) takes room on the line, as on the live site.
+    return rewrite_html(''.join(str(c) for c in tag.contents if not isinstance(c, Comment))).strip(' \t\n\r\f')
 
 
 def svg_key(svg):
@@ -460,10 +461,6 @@ def main():
             if pid not in chrome['popups']:
                 d = document(p)
                 d['popupSettings'] = json.loads(p.get('data-elementor-settings') or '{}')
-                # Live bug: the pop-up's only container is hidden on desktop, tablet and phone, so the
-                # "Request Appointment" pop-up opened empty. Its form is shown here.
-                for c in d['children']:
-                    c['cls'] = ' '.join(x for x in c['cls'].split() if x not in ('elementor-hidden-desktop', 'elementor-hidden-tablet', 'elementor-hidden-mobile'))
                 chrome['popups'][pid] = d
         if slug in POSTS:
             posts.append(post_data(s, slug, doc))
@@ -478,6 +475,17 @@ def main():
         page = {'slug': slug, 'path': '/' + slug.replace('__', '/') + '/' if slug != 'home' else '/', 'seo': meta(s), 'bodyCls': body_classes(s), 'doc': document(doc)}
         json.dump(page, open(os.path.join(out_pages, slug + '.json'), 'w'), indent=1, ensure_ascii=False)
     posts.sort(key=lambda p: p['date'], reverse=True)
+    # A post whose own page shows no featured image can still have one on the blog listing and in
+    # related-post cards (WordPress shows it there): keep that one as the card image.
+    cards = {}
+    for f in sorted(glob.glob(os.path.join(LIVE, 'html', 'category__blogs*.html'))):
+        for art in BeautifulSoup(open(f).read(), 'html.parser').select('article[id^=post-]'):
+            img = art.select_one('.post-thumb img')
+            if img:
+                cards[art['id'].replace('post-', '')] = img_data(img)
+    for p in posts:
+        if p['image'] is None and p['id'] in cards:
+            p['cardImage'] = cards[p['id']]
     json.dump(posts, open(os.path.join(REPO, 'lib/data/posts.json'), 'w'), indent=1, ensure_ascii=False)
     json.dump(plain, open(os.path.join(REPO, 'lib/data/plain-pages.json'), 'w'), indent=1, ensure_ascii=False)
     json.dump(chrome, open(os.path.join(REPO, 'lib/data/chrome.json'), 'w'), indent=1, ensure_ascii=False)

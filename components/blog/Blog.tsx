@@ -140,11 +140,11 @@ export function PostArticle({ post, posts }: { post: Post; posts: Post[] }) {
                   <article key={r.slug} className={`ast-related-post post-${r.id} ${POST_CLS}`}>
                     <div className="ast-related-posts-inner-section">
                       <div className="ast-related-post-content">
-                        {r.image ? (
+                        {(r.cardImage ?? r.image) ? (
                           <div className="ast-related-post-featured-section post-has-thumb">
                             <div className="post-thumb-img-content post-thumb">
                               <a aria-label={`Read more about ${r.title}`} href={r.path}>
-                                <Img img={r.image} sizes="(max-width: 1024px) 100vw, 1024px" />
+                                <Img img={(r.cardImage ?? r.image)!} sizes="(max-width: 1024px) 100vw, 1024px" />
                               </a>
                             </div>
                           </div>
@@ -172,8 +172,81 @@ export function PostArticle({ post, posts }: { post: Post; posts: Post[] }) {
               </div>
             </div>
           ) : null}
+          <CommentForm post={post} />
         </main>
       </div>
+    </div>
+  );
+}
+
+/**
+ * The live "Leave a Comment" form, as it was. Comments needed WordPress (none was ever
+ * published), so public/js/site.js answers a submission with a short note instead.
+ */
+function CommentForm({ post }: { post: Post }) {
+  return (
+    <div id="comments" className="comments-area comment-form-position-below">
+      <div id="respond" className="comment-respond">
+        <h3 id="reply-title" className="comment-reply-title">
+          Leave a Comment{" "}
+          <small>
+            <a rel="nofollow" id="cancel-comment-reply-link" href={`${post.path}#respond`} style={{ display: "none" }}>
+              Cancel Reply
+            </a>
+          </small>
+        </h3>
+        <form action="#respond" method="post" id="ast-commentform" className="comment-form" data-comment-form="">
+          <p className="comment-notes">
+            <span id="email-notes">Your email address will not be published.</span>{" "}
+            <span className="required-field-message">
+              Required fields are marked <span className="required">*</span>
+            </span>
+          </p>
+          <div className="ast-row comment-textarea">
+            <fieldset className="comment-form-comment">
+              <legend className="comment-form-legend" />
+              <div className="comment-form-textarea ast-grid-common-col">
+                <label htmlFor="comment" className="screen-reader-text">
+                  Type here..
+                </label>
+                <textarea id="comment" name="comment" placeholder="Type here.." cols={45} rows={8} aria-required="true" />
+              </div>
+            </fieldset>
+          </div>
+          <div className="ast-comment-formwrap ast-row">
+            {" "}
+            <p className="comment-form-author ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float">
+              {" "}
+              <label htmlFor="author" className="screen-reader-text">
+                Name*
+              </label>{" "}
+              <input id="author" name="author" type="text" defaultValue="" placeholder="Name*" size={30} aria-required="true" autoComplete="name" />{" "}
+            </p>{" "}
+            <p className="comment-form-email ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float">
+              {" "}
+              <label htmlFor="email" className="screen-reader-text">
+                Email*
+              </label>{" "}
+              <input id="email" name="email" type="text" defaultValue="" placeholder="Email*" size={30} aria-required="true" autoComplete="email" />{" "}
+            </p>{" "}
+            <p className="comment-form-url ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float">
+              {" "}
+              <label htmlFor="url" className="screen-reader-text">
+                Website
+              </label>{" "}
+              <input id="url" name="url" type="text" defaultValue="" placeholder="Website" size={30} autoComplete="url" />{" "}
+            </p>{" "}
+          </div>{" "}
+          <p className="comment-form-cookies-consent">
+            <input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" />{" "}
+            <label htmlFor="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+          </p>{" "}
+          <p className="form-submit">
+            <input name="submit" type="submit" id="submit" className="submit" value="Post Comment" /> <input type="hidden" name="comment_post_ID" value={post.id} id="comment_post_ID" />{" "}
+            <input type="hidden" name="comment_parent" id="comment_parent" value="0" />{" "}
+          </p>
+        </form>{" "}
+      </div>{" "}
     </div>
   );
 }
@@ -196,11 +269,11 @@ export function BlogArchive({ posts, page }: { posts: Post[]; page: number }) {
               <article key={p.slug} className={`post-${p.id} ${POST_CLS} ast-grid-common-col ast-full-width ast-article-post remove-featured-img-padding`} id={`post-${p.id}`} itemType="https://schema.org/CreativeWork" itemScope>
                 <div className="ast-post-format- blog-layout-4 ast-article-inner">
                   <div className="post-content ast-grid-common-col">
-                    {p.image ? (
+                    {(p.cardImage ?? p.image) ? (
                       <div className="ast-blog-featured-section post-thumb ast-blog-single-element">
                         <div className="post-thumb-img-content post-thumb">
                           <a aria-label={`Read: ${p.title}`} href={p.path}>
-                            <Img img={p.image} priority={i < 3} itemProp="image" sizes="(max-width: 767px) 100vw, (max-width: 1024px) 50vw, 33vw" />
+                            <Img img={(p.cardImage ?? p.image)!} priority={i < 3} itemProp="image" sizes="(max-width: 767px) 100vw, (max-width: 1024px) 50vw, 33vw" />
                           </a>
                         </div>
                       </div>
@@ -221,7 +294,9 @@ export function BlogArchive({ posts, page }: { posts: Post[]; page: number }) {
               </article>
             ))}
           </div>
-          {pages > 1 ? (
+        </main>
+        {pages > 1 ? (
+          <div className="ast-pagination">
             <nav className="navigation pagination" aria-label="Post pagination">
               <div className="nav-links">
                 {page > 1 ? (
@@ -253,8 +328,8 @@ export function BlogArchive({ posts, page }: { posts: Post[]; page: number }) {
                 ) : null}
               </div>
             </nav>
-          ) : null}
-        </main>
+          </div>
+        ) : null}
       </div>
     </div>
   );

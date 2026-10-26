@@ -16,17 +16,6 @@ body {
   margin: 0;
 }
 
-/* The full menu never wraps: public/js/site.js adds this class when it would, and the phone menu takes over. */
-.vse-menu-collapsed .elementor-nav-menu--main {
-  display: none !important;
-}
-.vse-menu-collapsed .elementor-menu-toggle {
-  display: flex !important;
-}
-.vse-menu-collapsed nav.elementor-nav-menu--dropdown {
-  display: block !important;
-}
-
 /* Elementor centers the pop-up box with script; here the overlay's flex centering does it. */
 .elementor-popup-modal .dialog-widget-content {
   position: relative;

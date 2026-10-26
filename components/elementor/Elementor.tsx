@@ -55,9 +55,7 @@ const ext = (href?: string) => !!href && /^https?:/.test(href);
 /** Pop-up links (#popup-<id>) open the matching pop-up; see public/js/site.js. */
 const linkProps = (href?: string, target?: string) => {
   if (!href) return {};
-  // Both live pop-ups ask for the same four fields; the WordPress one (835) only worked while WordPress
-  // sent its e-mails, so its buttons open the GoHighLevel one (566).
-  if (href.startsWith("#popup-")) return { href: "#popup-566", "data-popup": "566" };
+  if (href.startsWith("#popup-")) return { href, "data-popup": href.slice(7) };
   return { href, target, rel: target === "_blank" || ext(href) ? (target === "_blank" ? "noopener" : undefined) : undefined };
 };
 
@@ -436,18 +434,22 @@ function TableEl({ n }: { n: TableW }) {
 function SocialEl({ n }: { n: SocialIcons }) {
   return (
     <div className="elementor-social-icons-wrapper elementor-grid" role="list">
+      {/* The icons are inline blocks spaced by word-spacing, so they need the whitespace the live markup has between them. */}
       {n.items.map((it) => (
-        <span key={it._key} className="elementor-grid-item" role="listitem">
-          <a
-            className={`elementor-icon elementor-social-icon elementor-social-icon-${it.network} elementor-repeater-item-${it._key}`}
-            href={it.href}
-            target="_blank"
-            rel="noopener"
-            aria-label={it.label || it.network || "Instagram"}
-            dangerouslySetInnerHTML={html(`<span class="elementor-screen-only">${it.label}</span>${iconHtml(it.icon)}`)}
-          />
-        </span>
-      ))}
+        <Fragment key={it._key}>
+          {" "}
+          <span className="elementor-grid-item" role="listitem">
+            <a
+              className={`elementor-icon elementor-social-icon elementor-social-icon-${it.network} elementor-repeater-item-${it._key}`}
+              href={it.href}
+              target="_blank"
+              rel="noopener"
+              aria-label={it.label || it.network || "Instagram"}
+              dangerouslySetInnerHTML={html(`<span class="elementor-screen-only">${it.label}</span>${iconHtml(it.icon)}`)}
+            />
+          </span>
+        </Fragment>
+      ))}{" "}
     </div>
   );
 }
@@ -525,7 +527,7 @@ function escapeHtml(s: string) {
 
 function FormEl({ n }: { n: FormW }) {
   return (
-    <form className="elementor-form" method="post" name={n.name} aria-label={n.name} action="/api/lead.php" data-lead-form="">
+    <form className="elementor-form" method="post" name={n.name} aria-label={n.name} action="#" data-lead-form="">
       <div className="elementor-form-fields-wrapper elementor-labels-above">
         {n.fields.map((f) => {
           const { class: cls, ...rest } = f.attrs;

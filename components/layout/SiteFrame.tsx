@@ -45,10 +45,9 @@ export async function SiteFrame({ cssKey, bodyCls, path, children }: { cssKey: s
           </span>
           <span className="screen-reader-text">Scroll to Top</span>
         </div>
-        {Object.entries(chrome.popups).map(([id, doc]) =>
-          // Only the GoHighLevel pop-up is used; the WordPress form pop-up's buttons open it too (see Elementor.tsx).
-          id === "566" ? <ElementorDocument key={id} doc={doc} ctx={ctx} /> : null,
-        )}
+        {Object.entries(chrome.popups).map(([id, doc]) => (
+          <ElementorDocument key={id} doc={doc} ctx={ctx} />
+        ))}
       </div>
     </>
   );

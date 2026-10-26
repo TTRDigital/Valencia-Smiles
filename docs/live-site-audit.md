@@ -97,6 +97,18 @@ doctors, cities and states). The only other business is in image addresses (sect
 | Ahrefs Web Analytics | every page | `analytics.ahrefs.com/analytics.js`, data-key `zOiJ7NVjmgliAokzTHBDAw` |
 | Google Maps embeds | Home, About, Contact, service pages | three slightly different map iframes |
 
+Faults found while matching the rebuild to the live pages (Oct 26, 2026). The rebuild keeps the first two
+as they are, as asked; the last two are not copied (see the README):
+
+- The "Request Appointment" pop-up (566) opens empty: its only container is hidden on desktop, tablet and phone.
+- The "Transformations Gallery" before/after sliders (Home, Cosmetic Dentistry, Veneers, Restorative) are
+  empty: the Twenty20 script never starts, so the images stay at 0 px height.
+- The `/appointment/` calendar stays hidden (GoHighLevel never reveals it) at tablet and phone widths in a
+  test browser; at desktop width it shows.
+- `/sitemap/` is currently served from a cached copy whose stylesheets load over `http://`, which browsers
+  block on an `https` page, so it shows unstyled. It was styled on Oct 23. Clearing the SiteGround cache
+  should fix it.
+
 ## 8. Hosting
 
 - `https://www.valenciasmileexpert.com` is the canonical host today; the bare domain redirects to it, URLs

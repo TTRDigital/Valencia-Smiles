@@ -8,7 +8,9 @@ Beverly-Hills-Top-Dentist.
 - **Same pages, same addresses, same look.** Every page of the live site is rebuilt at its own URL. The
   Elementor pages are rendered from structured data with the markup Elementor printed, and styled by the live
   site's own CSS (ported per page). A layout check compares the position and size of every Elementor element
-  on the live and rebuilt pages at 1440 px and 390 px; all pages match (differences listed below).
+  on the live and rebuilt pages at 1440, 1024, 768 and 390 px.
+- **Same behaviour, live faults included** (as the client asked): the "Request Appointment" pop-up opens empty
+  and the "Transformations Gallery" before/after sliders stay empty, as they do on the live site.
 - **Same text.** Copied word for word from the live pages, with the same page titles and meta descriptions.
   Audit findings (text copied from other pages, writer's notes left in posts, missing descriptions, ...) are
   in [docs/live-site-audit.md](docs/live-site-audit.md) and are **not fixed yet**: they wait for the client's
@@ -27,7 +29,7 @@ Beverly-Hills-Top-Dentist.
 | `/cms` | Sanity Studio |
 
 One route renders them all: `app/(site)/[[...slug]]/page.tsx` (`dynamicParams = false`).
-Header, footer and the "Request Appointment" pop-up are the live Elementor templates (`lib/data/chrome.json`).
+Header, footer and the two pop-ups are the live Elementor templates (`lib/data/chrome.json`).
 
 ## How the look is kept
 
@@ -36,27 +38,26 @@ Header, footer and the "Request Appointment" pop-up are the live Elementor templ
   with fonts and images served from this site. `scripts/postbuild.mjs` inlines each page's stylesheet into
   its HTML. The live `<body>` classes sit on `.site-body` (the CSS was rewritten from `body` to `.site-body`).
 - Fonts: Cal Sans (headings) and Lato (text), self-hosted in `public/fonts` (Cal Sans subset to Latin).
-- `public/js/site.js` replaces the live site's jQuery/Elementor/Swiper/Slick/Twenty20 scripts: sticky header,
-  menu dropdowns and phone menu, pop-up, accordions (one open at a time), carousels, the theme's Slick
-  sliders, before/after sliders, scroll-to-top, and loading of the GoHighLevel embeds.
-- The menu never wraps: where the live menu broke onto two lines (768–800 px and 1025–1280 px), the
-  phone menu shows instead (a width check in `site.js` switches it whenever the full menu would not fit).
+- `public/js/site.js` replaces the live site's jQuery/Elementor/Swiper/Slick scripts: sticky header,
+  menu dropdowns and phone menu, pop-ups, accordions (one open at a time), carousels, the theme's Slick
+  sliders, scroll-to-top, and loading of the GoHighLevel embeds. (The live Twenty20 before/after script never
+  starts, so it is left out.)
+- The menu shows and wraps exactly as on the live site.
 - No React in the browser: the pages are static HTML. `scripts/postbuild.mjs` removes Next's runtime and
   hydration data from every page except `/cms` (halves the HTML, about 120 KB less JavaScript). All links are
   ordinary page loads.
 
 ## What is different from the live site
 
-Kept identical on purpose, even where the audit found problems (they wait for the client). The changes:
+Kept identical on purpose, even where the audit found problems or the live page is broken (they wait for the
+client). What differs, because a static site works differently or for speed:
 
 | Change | Why |
 |---|---|
-| The "Request Appointment" pop-up (opened by "Book Now" / "Request Your Appointment" on 25 pages) shows its GoHighLevel form | On the live site the pop-up's only container is hidden on desktop, tablet and phone, so it opens empty |
-| The 6 "Request Your Appointment" buttons that opened the WordPress form pop-up open the same GoHighLevel pop-up | The WordPress form only worked through WordPress's e-mail; both ask for the same four fields |
-| The "Transformations Gallery" before/after sliders work | They render empty on the live site |
-| The appointment calendar (GoHighLevel) is visible on desktop | It renders 0 px tall on the live site at desktop width |
-| No comment form under blog posts | Needs WordPress; no comment was ever published |
-| The 404 page links home instead of a search box | No search on a static site; the 404 now answers with a real 404 status |
+| The WordPress pop-up form (6 "Request Your Appointment" buttons) and the blog comment form look the same, but sending them shows the office phone number | They posted to WordPress, which a static site does not have |
+| The 404 page's search box sends the visitor to the home page | No search on a static site; the 404 now answers with a real 404 status |
+| `/sitemap/` is styled | The live page is currently served from a cache that loads its stylesheets over `http://`, which browsers block (it was styled on Oct 23) |
+| The `/appointment/` calendar shows at every width | GoHighLevel's own script decides; on the live site it stays hidden at tablet and phone widths in a test browser |
 | Google logo / star images served from this site | They loaded from `staging7.tiamspa.com` and `valencia.ttrdigitalmarketing.com` |
 | Alt text on every photo (`lib/data/alt.json`) | 471 image tags had none |
 | Photos: WebP copies at fixed widths, metadata removed, lazy below the fold; the hero loads with high priority | Speed |
@@ -84,7 +85,7 @@ Generated from the live site's data. All checked against Apache (268 checks):
 ## Forms, booking, tracking
 
 As on the live site: Weave "Book Now" links, the GoHighLevel calendar on `/appointment/`, the GoHighLevel
-"Request Appointment" form (pop-up) and "valencia contact" form (`/contact/`). The embeds load when needed
+"Request Appointment" pop-up (empty, as on the live site) and "valencia contact" form (`/contact/`). The embeds load when needed
 (pop-up: when opened; page embeds: once the page has loaded if on screen, otherwise when the visitor scrolls
 near). No chat widget (the live site has none).
 

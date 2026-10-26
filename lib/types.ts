@@ -135,6 +135,8 @@ export type Post = {
   dateText: string;
   author: { name: string; slug: string };
   image: Img | null;
+  /** The image on the blog listing and related-post cards when the post's own page shows none (as on the live site). */
+  cardImage?: Img;
   seo: Seo;
   bodyCls: string;
   articleCls: string;

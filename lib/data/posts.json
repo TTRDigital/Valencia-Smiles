@@ -902,6 +902,14 @@
      ]
     }
    ]
+  },
+  "cardImage": {
+   "src": "/images/uploads/2026/06/1781299269916.png",
+   "width": 1024,
+   "height": 341,
+   "cls": "attachment-large size-large wp-post-image",
+   "alt": "",
+   "sizes": "auto, (max-width: 1024px) 100vw, 1024px"
   }
  },
  {
