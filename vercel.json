@@ -3,120 +3,93 @@
   "framework": null,
   "buildCommand": "npm run build",
   "outputDirectory": "out",
-  "trailingSlash": true,
-  "redirects": [
+  "routes": [
     {
-      "source": "/:path*",
+      "src": "^/(.*)$",
+      "status": 301,
+      "headers": {
+        "Location": "https://www.valenciasmileexpert.com/$1"
+      },
       "has": [
         {
           "type": "host",
           "value": "valenciasmileexpert.com"
         }
-      ],
-      "destination": "https://www.valenciasmileexpert.com/:path*",
-      "statusCode": 301
-    },
-    {
-      "source": "/dental-implants{/}?",
-      "destination": "/services/dental-implants/",
-      "statusCode": 301
-    },
-    {
-      "source": "/author/nedamoezzi/:rest*",
-      "destination": "/about/",
-      "statusCode": 301
-    },
-    {
-      "source": "/author/:name/:rest*",
-      "destination": "/category/blogs/",
-      "statusCode": 301
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/cms/:path+",
-      "destination": "/cms/index.html"
-    }
-  ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "X-Frame-Options",
-          "value": "SAMEORIGIN"
-        },
-        {
-          "key": "X-Content-Type-Options",
-          "value": "nosniff"
-        },
-        {
-          "key": "Referrer-Policy",
-          "value": "strict-origin-when-cross-origin"
-        },
-        {
-          "key": "Permissions-Policy",
-          "value": "camera=(), microphone=(), geolocation=(), browsing-topics=()"
-        },
-        {
-          "key": "Strict-Transport-Security",
-          "value": "max-age=63072000; includeSubDomains"
-        }
       ]
     },
     {
-      "source": "/((?!cms(?:/|$)).*)",
-      "headers": [
-        {
-          "key": "Content-Security-Policy",
-          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://*.googletagmanager.com https://www.google-analytics.com https://www.google.com https://googleads.g.doubleclick.net https://www.googleadservices.com https://analytics.ahrefs.com https://link.msgsndr.com https://*.leadconnectorhq.com https://*.msgsndr.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data:; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://www.google.com https://google.com https://*.doubleclick.net https://www.googleadservices.com https://analytics.ahrefs.com https://*.leadconnectorhq.com https://*.msgsndr.com https://cdn.sanity.io; frame-src 'self' https://www.googletagmanager.com https://*.doubleclick.net https://maps.google.com https://www.google.com https://api.leadconnectorhq.com https://*.leadconnectorhq.com https://*.msgsndr.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests"
-        }
-      ]
+      "src": "^/.*$",
+      "headers": {
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Content-Type-Options": "nosniff",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Permissions-Policy": "camera=(), microphone=(), geolocation=(), browsing-topics=()",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains"
+      },
+      "continue": true
     },
     {
-      "source": "/(.*)",
+      "src": "^/(?!cms(?:/|$)).*$",
+      "headers": {
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://*.googletagmanager.com https://www.google-analytics.com https://www.google.com https://googleads.g.doubleclick.net https://www.googleadservices.com https://analytics.ahrefs.com https://link.msgsndr.com https://*.leadconnectorhq.com https://*.msgsndr.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data:; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://www.google.com https://google.com https://*.doubleclick.net https://www.googleadservices.com https://analytics.ahrefs.com https://*.leadconnectorhq.com https://*.msgsndr.com https://cdn.sanity.io; frame-src 'self' https://www.googletagmanager.com https://*.doubleclick.net https://maps.google.com https://www.google.com https://api.leadconnectorhq.com https://*.leadconnectorhq.com https://*.msgsndr.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests"
+      },
+      "continue": true
+    },
+    {
+      "src": "^/.*$",
+      "headers": {
+        "X-Robots-Tag": "noindex, nofollow"
+      },
+      "continue": true,
       "missing": [
         {
           "type": "host",
           "value": "www.valenciasmileexpert.com"
         }
-      ],
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        }
       ]
     },
     {
-      "source": "/(.*)\\.(js|css|woff|woff2)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
-        }
-      ]
+      "src": "^/.*$",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      },
+      "continue": true
     },
     {
-      "source": "/(.*)\\.(webp|avif|jpg|jpeg|png|gif|svg|ico)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=2592000"
-        }
-      ]
+      "src": "^/.*\\.(?:js|css|woff2?)$",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable"
+      },
+      "continue": true
     },
     {
-      "source": "/(.*)\\.(html|txt|xml)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    }
-  ],
-  "routes": [
+      "src": "^/.*\\.(?:webp|avif|jpe?g|png|gif|svg|ico)$",
+      "headers": {
+        "Cache-Control": "public, max-age=2592000"
+      },
+      "continue": true
+    },
+    {
+      "src": "^/dental-implants/?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/dental-implants/"
+      }
+    },
+    {
+      "src": "^/author/nedamoezzi(?:/page/\\d+)?/?$",
+      "status": 301,
+      "headers": {
+        "Location": "/about/"
+      }
+    },
+    {
+      "src": "^/author/[^/]+(?:/page/\\d+)?/?$",
+      "status": 301,
+      "headers": {
+        "Location": "/category/blogs/"
+      }
+    },
     {
       "src": "^/(?:index\\.php)?$",
       "status": 301,
@@ -2032,6 +2005,25 @@
       "headers": {
         "Location": "/"
       }
+    },
+    {
+      "src": "^/(?!cms/)((?:[^/]+/)*[^/.]+)$",
+      "status": 308,
+      "headers": {
+        "Location": "/$1/"
+      }
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "^/cms/.+$",
+      "dest": "/cms/index.html"
+    },
+    {
+      "src": "^/.*$",
+      "status": 404,
+      "dest": "/404.html"
     }
   ]
 }

@@ -67,34 +67,43 @@ routes += [
     moved('^/index\\.php$', '/'),
 ]
 
-redirects = [
-    # One address: https://www.valenciasmileexpert.com (the bare domain goes there; *.vercel.app stays).
-    {'source': '/:path*', 'has': [{'type': 'host', 'value': 'valenciasmileexpert.com'}], 'destination': HOST + '/:path*', 'statusCode': 301},
-    # WordPress's own old-address redirect, kept.
-    {'source': '/dental-implants{/}?', 'destination': '/services/dental-implants/', 'statusCode': 301},
-    # Author archives: Dr. Moezzi's to the About page, the two staff accounts' (no posts) to the blog.
-    {'source': '/author/nedamoezzi/:rest*', 'destination': '/about/', 'statusCode': 301},
-    {'source': '/author/:name/:rest*', 'destination': '/category/blogs/', 'statusCode': 301},
-]
-
-# The Sanity Studio is one page; its inner URLs (/cms/structure/...) load it.
-rewrites = [{'source': '/cms/:path+', 'destination': '/cms/index.html'}]
-
-# Headers: the same values as .htaccess.
+# The same headers as .htaccess (each route adds its headers and lets routing continue).
 security = dict(re.findall(r'Header always set (X-Frame-Options|X-Content-Type-Options|Referrer-Policy|Permissions-Policy|Strict-Transport-Security) "([^"]+)"', HT))
 csp = re.search(r'Header always set Content-Security-Policy "([^"]+)"', HT).group(1)
 assert len(security) == 5 and csp
-year, month, fresh = 'public, max-age=31536000, immutable', 'public, max-age=2592000', 'public, max-age=0, must-revalidate'
-headers = [
-    {'source': '/(.*)', 'headers': [{'key': k, 'value': v} for k, v in security.items()]},
+
+
+def headers(src, h, **cond):
+    r = {'src': src, 'headers': h, 'continue': True}
+    r.update(cond)
+    return r
+
+
+first = [
+    # One address: https://www.valenciasmileexpert.com (the bare domain goes there; *.vercel.app stays).
+    moved('^/(.*)$', HOST + '/$1', has=[{'type': 'host', 'value': 'valenciasmileexpert.com'}]),
+    headers('^/.*$', security),
     # The studio at /cms talks to many Sanity hosts and is protected by Sanity login instead.
-    {'source': '/((?!cms(?:/|$)).*)', 'headers': [{'key': 'Content-Security-Policy', 'value': csp}]},
+    headers('^/(?!cms(?:/|$)).*$', {'Content-Security-Policy': csp}),
     # Only https://www.valenciasmileexpert.com is indexed (not valencia-smiles.vercel.app or other copies).
-    {'source': '/(.*)', 'missing': [{'type': 'host', 'value': 'www.valenciasmileexpert.com'}], 'headers': [{'key': 'X-Robots-Tag', 'value': 'noindex, nofollow'}]},
-    # Caching: versioned files (?v=) and fonts for a year, photos for a month, pages always fresh.
-    {'source': '/(.*)\\.(js|css|woff|woff2)', 'headers': [{'key': 'Cache-Control', 'value': year}]},
-    {'source': '/(.*)\\.(webp|avif|jpg|jpeg|png|gif|svg|ico)', 'headers': [{'key': 'Cache-Control', 'value': month}]},
-    {'source': '/(.*)\\.(html|txt|xml)', 'headers': [{'key': 'Cache-Control', 'value': fresh}]},
+    headers('^/.*$', {'X-Robots-Tag': 'noindex, nofollow'}, missing=[{'type': 'host', 'value': 'www.valenciasmileexpert.com'}]),
+    # Caching: pages always fresh, versioned files (?v=) and fonts for a year, photos for a month.
+    headers('^/.*$', {'Cache-Control': 'public, max-age=0, must-revalidate'}),
+    headers('^/.*\\.(?:js|css|woff2?)$', {'Cache-Control': 'public, max-age=31536000, immutable'}),
+    headers('^/.*\\.(?:webp|avif|jpe?g|png|gif|svg|ico)$', {'Cache-Control': 'public, max-age=2592000'}),
+    # WordPress's own old-address redirect, kept.
+    moved('^/dental-implants/?$', '/services/dental-implants/'),
+    # Author archives: Dr. Moezzi's to the About page, the two staff accounts' (no posts) to the blog.
+    moved('^/author/nedamoezzi(?:/page/\\d+)?/?$', '/about/'),
+    moved('^/author/[^/]+(?:/page/\\d+)?/?$', '/category/blogs/'),
+]
+last = [
+    # Pages live at /page/ (page/index.html): add the missing slash (not for files, nor inside the studio).
+    {'src': '^/(?!cms/)((?:[^/]+/)*[^/.]+)$', 'status': 308, 'headers': {'Location': '/$1/'}},
+    {'handle': 'filesystem'},
+    # The Sanity Studio is one page; its inner URLs (/cms/structure/...) load it.
+    {'src': '^/cms/.+$', 'dest': '/cms/index.html'},
+    {'src': '^/.*$', 'status': 404, 'dest': '/404.html'},
 ]
 
 config = {
@@ -103,11 +112,7 @@ config = {
     'framework': None,
     'buildCommand': 'npm run build',
     'outputDirectory': 'out',
-    'trailingSlash': True,
-    'redirects': redirects,
-    'rewrites': rewrites,
-    'headers': headers,
-    'routes': routes,
+    'routes': first + routes + last,
 }
 open(os.path.join(ROOT, 'vercel.json'), 'w').write(json.dumps(config, indent=2) + '\n')
-print(len(routes), 'routes,', len(ids), 'page ids')
+print(len(config['routes']), 'routes,', len(ids), 'page ids')
