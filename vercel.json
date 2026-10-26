@@ -104,22 +104,13 @@
             "eq": "3"
           }
         }
-      ],
-      "transforms": [
-        {
-          "type": "request.query",
-          "op": "delete",
-          "target": {
-            "key": "page_id"
-          }
-        }
       ]
     },
     {
       "src": "^/(?:index\\.php)?$",
       "status": 301,
       "headers": {
-        "Location": "/privacy-policy/?"
+        "Location": "/privacy-policy/"
       },
       "has": [
         {

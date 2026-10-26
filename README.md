@@ -130,8 +130,9 @@ content security policy, and caching. It is generated from `public/.htaccess` by
 and serves `out/` as plain files (post-build step included). Only `www.valenciasmileexpert.com` is indexed;
 `*.vercel.app` gets `X-Robots-Tag: noindex`.
 
-Differences from Apache: the slash redirect is a 308 (permanent, like the 301), and a missing upload under
-`/wp-content/uploads/` answers 410 like every other `wp-content` address.
+Differences from Apache: the slash redirect is a 308 (permanent, like the 301), a missing upload under
+`/wp-content/uploads/` answers 410 like every other `wp-content` address, and the `?p=` / `?page_id=` redirects
+keep the query on the target (`/privacy-policy/?p=3`; Vercel adds it back), which the pages' canonical tags cover.
 
 ## Sanity (not connected yet)
 
