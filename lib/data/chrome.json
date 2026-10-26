@@ -496,7 +496,7 @@
     {
      "_type": "box",
      "_key": "f3635f3",
-     "cls": "elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+     "cls": "e-flex e-con-boxed e-con e-parent",
      "children": [
       {
        "_key": "23ba388",
@@ -518,115 +518,6 @@
     "open_selector": ".header-btn",
     "a11y_navigation": "yes",
     "triggers": [],
-    "timing": []
-   }
-  },
-  "835": {
-   "postId": "835",
-   "docType": "popup",
-   "cls": "elementor elementor-835 elementor-location-popup",
-   "children": [
-    {
-     "_type": "box",
-     "_key": "434d6658",
-     "cls": "e-flex e-con-boxed e-con e-parent",
-     "children": [
-      {
-       "_key": "1bda6259",
-       "cls": "elementor-widget-heading",
-       "_type": "heading",
-       "tag": "p",
-       "html": "Request Appointment"
-      },
-      {
-       "_key": "3c2b27f9",
-       "cls": "elementor-button-align-stretch elementor-widget-form",
-       "_type": "form",
-       "name": "Request Appointment",
-       "fields": [
-        {
-         "_key": "f0",
-         "groupCls": "elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required",
-         "label": "Full Name*",
-         "tag": "input",
-         "attrs": {
-          "size": "1",
-          "type": "text",
-          "name": "form_fields[name]",
-          "id": "form-field-name",
-          "class": "elementor-field elementor-size-md elementor-field-textual",
-          "placeholder": "Your Name",
-          "required": "required"
-         },
-         "button": null
-        },
-        {
-         "_key": "f1",
-         "groupCls": "elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_6cb1c66 elementor-col-100 elementor-field-required",
-         "label": "Phone*",
-         "tag": "input",
-         "attrs": {
-          "size": "1",
-          "type": "tel",
-          "name": "form_fields[field_6cb1c66]",
-          "id": "form-field-field_6cb1c66",
-          "class": "elementor-field elementor-size-md elementor-field-textual",
-          "placeholder": "Phone Number",
-          "required": "required",
-          "pattern": "[0-9()#&+*-=.]+",
-          "title": "Only numbers and phone characters (#, -, *, etc) are accepted."
-         },
-         "button": null
-        },
-        {
-         "_key": "f2",
-         "groupCls": "elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required",
-         "label": "Your Email*",
-         "tag": "input",
-         "attrs": {
-          "size": "1",
-          "type": "email",
-          "name": "form_fields[email]",
-          "id": "form-field-email",
-          "class": "elementor-field elementor-size-md elementor-field-textual",
-          "placeholder": "Email",
-          "required": "required"
-         },
-         "button": null
-        },
-        {
-         "_key": "f3",
-         "groupCls": "elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100",
-         "label": "Comment",
-         "tag": "textarea",
-         "attrs": {
-          "class": "elementor-field-textual elementor-field elementor-size-md",
-          "name": "form_fields[message]",
-          "id": "form-field-message",
-          "rows": "2",
-          "placeholder": "Write your comment here"
-         },
-         "button": null
-        },
-        {
-         "_key": "f4",
-         "groupCls": "elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons",
-         "label": "",
-         "tag": "button",
-         "attrs": {
-          "class": "elementor-button elementor-size-sm",
-          "type": "submit"
-         },
-         "button": "<span class=\"elementor-button-content-wrapper\">\n<span class=\"elementor-button-text\">Request Appointment</span>\n</span>"
-        }
-       ]
-      }
-     ]
-    }
-   ],
-   "popupSettings": {
-    "open_selector": ".header-btn",
-    "a11y_navigation": "yes",
     "timing": []
    }
   }

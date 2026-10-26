@@ -6,12 +6,13 @@
  *
  *  - header menu: dropdowns and the phone menu toggle (the menu shows and
  *    wraps exactly as on the live site)
- *  - pop-ups (#popup-<id> links), as on the live site
+ *  - the "Request Appointment" pop-up (#popup-566 links) with its GoHighLevel form
  *  - nested accordions (one open at a time, like Elementor)
  *  - carousels (Elementor nested/image carousels) and the theme's sliders
  *  (the before/after sliders are left as the live page shows them: its Twenty20
  *  script never starts, so they stay empty)
  *  - GoHighLevel embeds load when needed; scroll-to-top button
+ *  - blog comments sent to the GoHighLevel webhook
  */
 (function () {
   "use strict";
@@ -714,23 +715,82 @@
   }
 
   /*
-   * Blog comment form and the WordPress pop-up form (pop-up 835): both posted to WordPress, which the
-   * static site does not have, so sending them shows how to reach the office instead.
+   * Blog comment form: sent to the client's GoHighLevel webhook (a workflow there picks it up). Name, email
+   * and website are remembered in this browser when the visitor ticks the box, as WordPress did.
    */
-  d.addEventListener("submit", function (e) {
-    var f = e.target.closest && e.target.closest("[data-comment-form], [data-lead-form]");
-    if (!f) return;
-    e.preventDefault();
+  var COMMENT_HOOK = "https://services.leadconnectorhq.com/hooks/SR0NgXI2OVoVaS9kGsIJ/webhook-trigger/88327577-5cc5-4bbe-8ed0-1dce2c03437d";
+  var COMMENTER = "vse-commenter";
+  function commentNote(f, text) {
     var note = f.querySelector(".vse-comment-note");
     if (!note) {
       note = d.createElement("p");
-      note.className = "vse-comment-note elementor-message";
+      note.className = "vse-comment-note";
       note.setAttribute("role", "status");
       f.appendChild(note);
     }
-    note.textContent = f.hasAttribute("data-lead-form")
-      ? "Your request could not be sent online. Please call us at (661) 254-5200."
-      : "Comments are closed. Please call us at (661) 254-5200 or use the Book Now button.";
+    note.textContent = text;
+  }
+  function initCommentForms() {
+    var saved = null;
+    try {
+      saved = JSON.parse(localStorage.getItem(COMMENTER) || "null");
+    } catch {
+      saved = null;
+    }
+    if (!saved) return;
+    $$("[data-comment-form]").forEach(function (f) {
+      ["author", "email", "url"].forEach(function (k) {
+        if (f.elements[k] && saved[k]) f.elements[k].value = saved[k];
+      });
+      if (f.elements["wp-comment-cookies-consent"]) f.elements["wp-comment-cookies-consent"].checked = true;
+    });
+  }
+  d.addEventListener("submit", function (e) {
+    var f = e.target.closest && e.target.closest("[data-comment-form]");
+    if (!f) return;
+    e.preventDefault();
+    var v = function (k) {
+      return f.elements[k] ? f.elements[k].value.trim() : "";
+    };
+    if (!v("comment") || !v("author") || !v("email")) return commentNote(f, "Please fill in the comment, your name and your email.");
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v("email"))) return commentNote(f, "Please enter a valid email address.");
+    var keep = f.elements["wp-comment-cookies-consent"] && f.elements["wp-comment-cookies-consent"].checked;
+    try {
+      if (keep) localStorage.setItem(COMMENTER, JSON.stringify({ author: v("author"), email: v("email"), url: v("url") }));
+      else localStorage.removeItem(COMMENTER);
+    } catch {
+      /* storage blocked: nothing to remember */
+    }
+    var title = d.querySelector("h1.entry-title");
+    var button = f.querySelector("[type=submit]");
+    if (button) button.disabled = true;
+    commentNote(f, "Sending…");
+    fetch(COMMENT_HOOK, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        type: "blog_comment",
+        name: v("author"),
+        email: v("email"),
+        website: v("url"),
+        comment: v("comment"),
+        post_id: v("comment_post_ID"),
+        post_title: title ? title.textContent.trim() : d.title,
+        post_url: location.origin + location.pathname,
+        submitted_at: new Date().toISOString(),
+      }),
+    })
+      .then(function (r) {
+        if (!r.ok) throw new Error(String(r.status));
+        f.elements.comment.value = "";
+        commentNote(f, "Thank you! Your comment has been sent.");
+      })
+      .catch(function () {
+        commentNote(f, "Your comment could not be sent. Please try again, or call us at (661) 254-5200.");
+      })
+      .then(function () {
+        if (button) button.disabled = false;
+      });
   });
 
   /* ---------- Scroll to top (Astra) ---------- */
@@ -783,6 +843,7 @@
     });
     initScrollTop();
     initEmbeds();
+    initCommentForms();
   }
   // The built pages are plain HTML (scripts/postbuild.mjs removes Next's runtime), so this starts
   // right away. Under `next dev`, React hydrates the page first: wait for that

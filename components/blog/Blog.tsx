@@ -180,8 +180,8 @@ export function PostArticle({ post, posts }: { post: Post; posts: Post[] }) {
 }
 
 /**
- * The live "Leave a Comment" form, as it was. Comments needed WordPress (none was ever
- * published), so public/js/site.js answers a submission with a short note instead.
+ * The live "Leave a Comment" form, as it was. public/js/site.js sends a comment to the
+ * client's GoHighLevel webhook (comments are not published on the page).
  */
 function CommentForm({ post }: { post: Post }) {
   return (

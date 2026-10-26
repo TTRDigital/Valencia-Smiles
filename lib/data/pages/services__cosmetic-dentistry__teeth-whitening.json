@@ -94,7 +94,7 @@
         "cls": "elementor-mobile-align-justify elementor-widget-button",
         "_type": "button",
         "text": "Schedule Your Teeth Whitening Today",
-        "href": "#popup-835",
+        "href": "#popup-566",
         "aCls": "elementor-button elementor-button-link elementor-size-sm"
        }
       ]
@@ -839,7 +839,7 @@
             "cls": "elementor-align-justify elementor-widget__width-initial elementor-widget-button",
             "_type": "button",
             "text": "Book Appointment",
-            "href": "#popup-566",
+            "href": "https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE",
             "aCls": "elementor-button elementor-button-link elementor-size-sm"
            }
           ]

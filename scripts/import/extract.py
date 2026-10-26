@@ -435,10 +435,35 @@ def post_data(s, slug, doc):
          'image': img_data(thumb) if thumb else None, 'seo': meta(s), 'bodyCls': body_classes(s),
          'articleCls': ' '.join(art.get('class') or [])}
     if doc is not None:
-        d['doc'] = document(doc)
+        d['doc'] = booking_links(document(doc))
     else:
         d['html'] = inner(art.select_one('.entry-content'))
     return d
+
+
+# The client's booking choices (Oct 26, 2026): every "Book Now" / "Book Appointment" goes to Weave; every
+# other button that opened a pop-up opens the GoHighLevel "Request Appointment" form (pop-up 566), which
+# replaces the WordPress form pop-up (835).
+WEAVE = 'https://book2.getweave.com/657e8080-2ad9-44fa-8cfb-2c06a59cd7a7/request-appointment?source=WEBSITE'
+GHL_POPUP = '566'
+
+
+def booking_links(n):
+    if isinstance(n, list):
+        for x in n:
+            booking_links(x)
+    elif isinstance(n, dict):
+        href = n.get('href')
+        if isinstance(href, str) and href.startswith('#popup-'):
+            text = re.sub(r'<[^>]+>', '', str(n.get('text') or '')).strip()
+            if re.fullmatch(r'book (now|appointment)', text, re.I):
+                n['href'] = WEAVE
+                n.pop('target', None)
+            else:
+                n['href'] = '#popup-' + GHL_POPUP
+        for v in n.values():
+            booking_links(v)
+    return n
 
 
 def main():
@@ -461,6 +486,11 @@ def main():
             if pid not in chrome['popups']:
                 d = document(p)
                 d['popupSettings'] = json.loads(p.get('data-elementor-settings') or '{}')
+                if pid == GHL_POPUP:
+                    # On the live site the pop-up's only container is hidden on desktop, tablet and phone, so it
+                    # opened empty; the client wants its GoHighLevel form shown.
+                    for c in d['children']:
+                        c['cls'] = ' '.join(x for x in c['cls'].split() if x not in ('elementor-hidden-desktop', 'elementor-hidden-tablet', 'elementor-hidden-mobile'))
                 chrome['popups'][pid] = d
         if slug in POSTS:
             posts.append(post_data(s, slug, doc))
@@ -472,7 +502,7 @@ def main():
                               'articleCls': ' '.join(art.get('class') or []), 'title': s.select_one('h1.entry-title').get_text(),
                               'html': inner(s.select_one('.entry-content'))})
             continue
-        page = {'slug': slug, 'path': '/' + slug.replace('__', '/') + '/' if slug != 'home' else '/', 'seo': meta(s), 'bodyCls': body_classes(s), 'doc': document(doc)}
+        page = {'slug': slug, 'path': '/' + slug.replace('__', '/') + '/' if slug != 'home' else '/', 'seo': meta(s), 'bodyCls': body_classes(s), 'doc': booking_links(document(doc))}
         json.dump(page, open(os.path.join(out_pages, slug + '.json'), 'w'), indent=1, ensure_ascii=False)
     posts.sort(key=lambda p: p['date'], reverse=True)
     # A post whose own page shows no featured image can still have one on the blog listing and in
@@ -488,6 +518,9 @@ def main():
             p['cardImage'] = cards[p['id']]
     json.dump(posts, open(os.path.join(REPO, 'lib/data/posts.json'), 'w'), indent=1, ensure_ascii=False)
     json.dump(plain, open(os.path.join(REPO, 'lib/data/plain-pages.json'), 'w'), indent=1, ensure_ascii=False)
+    # Nothing opens the WordPress form pop-up any more.
+    chrome['popups'] = {k: v for k, v in chrome.get('popups', {}).items() if k == GHL_POPUP}
+    booking_links(chrome)
     json.dump(chrome, open(os.path.join(REPO, 'lib/data/chrome.json'), 'w'), indent=1, ensure_ascii=False)
     json.dump(ICONS, open(os.path.join(REPO, 'lib/data/icons.json'), 'w'), indent=1, ensure_ascii=False)
     json.dump(IMAGES, open(os.path.join(LIVE, 'images.json'), 'w'), indent=1)

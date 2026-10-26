@@ -9,8 +9,8 @@ Beverly-Hills-Top-Dentist.
   Elementor pages are rendered from structured data with the markup Elementor printed, and styled by the live
   site's own CSS (ported per page). A layout check compares the position and size of every Elementor element
   on the live and rebuilt pages at 1440, 1024, 768 and 390 px.
-- **Same behaviour, live faults included** (as the client asked): the "Request Appointment" pop-up opens empty
-  and the "Transformations Gallery" before/after sliders stay empty, as they do on the live site.
+- **Same behaviour, live faults included** (as the client asked): the "Transformations Gallery" before/after
+  sliders stay empty, as they do on the live site. Bookings and forms follow the client's choices (below).
 - **Same text.** Copied word for word from the live pages, with the same page titles and meta descriptions.
   Audit findings (text copied from other pages, writer's notes left in posts, missing descriptions, ...) are
   in [docs/live-site-audit.md](docs/live-site-audit.md) and are **not fixed yet**: they wait for the client's
@@ -29,7 +29,7 @@ Beverly-Hills-Top-Dentist.
 | `/cms` | Sanity Studio |
 
 One route renders them all: `app/(site)/[[...slug]]/page.tsx` (`dynamicParams = false`).
-Header, footer and the two pop-ups are the live Elementor templates (`lib/data/chrome.json`).
+Header, footer and the "Request Appointment" pop-up are the live Elementor templates (`lib/data/chrome.json`).
 
 ## How the look is kept
 
@@ -54,7 +54,9 @@ client). What differs, because a static site works differently or for speed:
 
 | Change | Why |
 |---|---|
-| The WordPress pop-up form (6 "Request Your Appointment" buttons) and the blog comment form look the same, but sending them shows the office phone number | They posted to WordPress, which a static site does not have |
+| Every "Book Now" and "Book Appointment" button goes to Weave | The client's choice (Oct 26); 24 of them opened the empty pop-up |
+| The "Request Appointment" pop-up shows its GoHighLevel form, and the 25 other appointment buttons that opened a pop-up open it (including the 6 that opened the WordPress form pop-up, which is gone) | The client's choice; on the live site the pop-up's only container is hidden, so it opened empty |
+| Blog comments are sent to the client's GoHighLevel webhook (`COMMENT_HOOK` in `public/js/site.js`) | WordPress comments need WordPress; the client maps the fields in GoHighLevel |
 | The 404 page's search box sends the visitor to the home page | No search on a static site; the 404 now answers with a real 404 status |
 | `/sitemap/` is styled | The live page is currently served from a cache that loads its stylesheets over `http://`, which browsers block (it was styled on Oct 23) |
 | The `/appointment/` calendar shows at every width | GoHighLevel's own script decides; on the live site it stays hidden at tablet and phone widths in a test browser |
@@ -85,7 +87,9 @@ Generated from the live site's data. All checked against Apache (268 checks):
 ## Forms, booking, tracking
 
 As on the live site: Weave "Book Now" links, the GoHighLevel calendar on `/appointment/`, the GoHighLevel
-"Request Appointment" pop-up (empty, as on the live site) and "valencia contact" form (`/contact/`). The embeds load when needed
+"Request Appointment" form (pop-up) and "valencia contact" form (`/contact/`). Blog comments go to a
+GoHighLevel webhook as JSON: `type` ("blog_comment"), `name`, `email`, `website`, `comment`, `post_id`,
+`post_title`, `post_url`, `submitted_at`. The embeds load when needed
 (pop-up: when opened; page embeds: once the page has loaded if on screen, otherwise when the visitor scrolls
 near). No chat widget (the live site has none).
 
