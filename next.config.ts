@@ -5,7 +5,8 @@ import type { NextConfig } from "next";
  * HTML/CSS/JS to `out/`, which goes into public_html.
  *
  * What a static host has no Node server for lives elsewhere:
- * - redirects, security headers (CSP) and caching: public/.htaccess
+ * - redirects, security headers (CSP) and caching: public/.htaccess (Apache) and
+ *   vercel.json (Vercel), generated from it by scripts/import/vercel.py
  * - forms: the live site's GoHighLevel embeds (pop-up and contact page)
  * - images: WebP copies made before the build by scripts/optimize-images.mjs
  * - page styles: the live site's CSS, per page, in public/css

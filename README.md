@@ -121,6 +121,18 @@ only builds (the site is kept as a run artifact for 14 days).
 
 The upload only adds or replaces this site's files; it never deletes the WordPress files.
 
+## Vercel (`vercel.json`)
+
+Vercel ignores `.htaccess`, so `vercel.json` carries the same rules: the bare domain to www, the old
+WordPress addresses (301), 410 Gone for WordPress-only addresses, trailing slashes, the security headers and
+content security policy, and caching. It is generated from `public/.htaccess` by
+`python3 scripts/import/vercel.py` (rerun it after changing `.htaccess`). Vercel builds with `npm run build`
+and serves `out/` as plain files (post-build step included). Only `www.valenciasmileexpert.com` is indexed;
+`*.vercel.app` gets `X-Robots-Tag: noindex`.
+
+Differences from Apache: the slash redirect is a 308 (permanent, like the 301), and a missing upload under
+`/wp-content/uploads/` answers 410 like every other `wp-content` address.
+
 ## Sanity (not connected yet)
 
 `sanity/env.ts` reads `NEXT_PUBLIC_SANITY_PROJECT_ID` (empty until the project ID is provided); dataset

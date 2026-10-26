@@ -1,0 +1,2037 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "npm run build",
+  "outputDirectory": "out",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "valenciasmileexpert.com"
+        }
+      ],
+      "destination": "https://www.valenciasmileexpert.com/:path*",
+      "statusCode": 301
+    },
+    {
+      "source": "/dental-implants{/}?",
+      "destination": "/services/dental-implants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/author/nedamoezzi/:rest*",
+      "destination": "/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/author/:name/:rest*",
+      "destination": "/category/blogs/",
+      "statusCode": 301
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/cms/:path+",
+      "destination": "/cms/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), browsing-topics=()"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=63072000; includeSubDomains"
+        }
+      ]
+    },
+    {
+      "source": "/((?!cms(?:/|$)).*)",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://*.googletagmanager.com https://www.google-analytics.com https://www.google.com https://googleads.g.doubleclick.net https://www.googleadservices.com https://analytics.ahrefs.com https://link.msgsndr.com https://*.leadconnectorhq.com https://*.msgsndr.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data:; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://www.google.com https://google.com https://*.doubleclick.net https://www.googleadservices.com https://analytics.ahrefs.com https://*.leadconnectorhq.com https://*.msgsndr.com https://cdn.sanity.io; frame-src 'self' https://www.googletagmanager.com https://*.doubleclick.net https://maps.google.com https://www.google.com https://api.leadconnectorhq.com https://*.leadconnectorhq.com https://*.msgsndr.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "missing": [
+        {
+          "type": "host",
+          "value": "www.valenciasmileexpert.com"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)\\.(js|css|woff|woff2)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)\\.(webp|avif|jpg|jpeg|png|gif|svg|ico)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=2592000"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)\\.(html|txt|xml)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/privacy-policy/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "3"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/privacy-policy/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "3"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "12"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "12"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "175"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "175"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/testimonials/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "176"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/testimonials/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "176"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/contact/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "177"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/contact/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "177"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/about/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "392"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/about/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "392"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/thank-you/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "847"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/thank-you/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "847"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/oral-surgery/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1015"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/oral-surgery/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1015"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/oral-surgery/all-on-4-implants/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1043"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/oral-surgery/all-on-4-implants/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1043"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/oral-surgery/tooth-extractions/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1050"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/oral-surgery/tooth-extractions/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1050"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/oral-surgery/bone-grafting/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1057"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/oral-surgery/bone-grafting/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1057"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/oral-surgery/wisdom-teeth-removal/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1066"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/oral-surgery/wisdom-teeth-removal/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1066"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/dental-implants/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1086"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/dental-implants/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1086"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/sitemap/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1092"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/sitemap/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1092"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/cosmetic-dentistry/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1136"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/cosmetic-dentistry/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1136"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/cosmetic-dentistry/veneers/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1159"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/cosmetic-dentistry/veneers/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1159"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/cosmetic-dentistry/teeth-whitening/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1177"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/cosmetic-dentistry/teeth-whitening/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1177"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/cosmetic-dentistry/invisalign/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1219"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/cosmetic-dentistry/invisalign/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1219"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/restorative-dentistry/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1221"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/restorative-dentistry/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1221"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/cosmetic-dentistry/composite-filling/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1223"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/cosmetic-dentistry/composite-filling/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1223"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/tmj-treatments/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1284"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/tmj-treatments/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1284"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/restorative-dentistry/dental-bridges/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1297"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/restorative-dentistry/dental-bridges/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1297"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/dental-crowns/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1315"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/dental-crowns/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1315"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/holistic-dentistry/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1334"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/services/holistic-dentistry/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1334"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/terms-and-services/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1351"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/terms-and-services/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1351"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/appointment/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1367"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/appointment/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1367"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/why-choose-valencia-smile-what-to-expect-on-your-first-visit/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1401"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/why-choose-valencia-smile-what-to-expect-on-your-first-visit/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1401"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/why-regular-dental-cleanings-matter-health-cost-how-often-to-come-dental-cleaning-valencia/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1413"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/why-regular-dental-cleanings-matter-health-cost-how-often-to-come-dental-cleaning-valencia/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1413"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/top-5-cosmetic-dentistry-procedures/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1441"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/top-5-cosmetic-dentistry-procedures/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1441"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-valencia-cost-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1448"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-valencia-cost-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1448"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-vs-dentures/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1451"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-vs-dentures/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1451"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/how-long-do-dental-implants-take/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1456"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/how-long-do-dental-implants-take/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1456"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/do-dental-implants-hurt-recovery-pain-healing-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1459"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/do-dental-implants-hurt-recovery-pain-healing-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1459"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/best-foods-after-dental-implant-surgery/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1462"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/best-foods-after-dental-implant-surgery/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1462"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-for-seniors-safety-success/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1465"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-for-seniors-safety-success/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1465"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-cost/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1558"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-cost/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1558"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/delay-replacing-missing-tooth-risks-costs/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1562"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/delay-replacing-missing-tooth-risks-costs/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1562"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/what-is-all-on-x-complete-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1565"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/what-is-all-on-x-complete-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1565"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/all-on-x-vs-dentures-complete-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1568"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/all-on-x-vs-dentures-complete-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1568"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/all-on-x-recovery-timeline/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1571"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/all-on-x-recovery-timeline/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1571"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/bone-grafting-for-dental-implants-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1574"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/bone-grafting-for-dental-implants-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1574"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/bone-grafting-healing-timeline/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1577"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/bone-grafting-healing-timeline/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1577"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/bone-grafting-is-it-painful/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1580"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/bone-grafting-is-it-painful/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1580"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/when-is-tooth-extraction-necessary/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1583"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/when-is-tooth-extraction-necessary/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1583"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/tooth-extraction-healing-diet-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1586"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/tooth-extraction-healing-diet-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1586"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/is-tooth-extraction-painful/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1589"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/is-tooth-extraction-painful/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1589"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-bridge-vs-implant-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1592"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-bridge-vs-implant-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1592"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/how-long-do-dental-bridge-last/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1596"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/how-long-do-dental-bridge-last/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1596"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-bridge-cost-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1599"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-bridge-cost-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1599"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-crowns-cost-santa-clarita-prices-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1602"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-crowns-cost-santa-clarita-prices-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1602"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/how-long-do-dental-crowns-last/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1605"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/how-long-do-dental-crowns-last/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1605"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/crown-vs-filling-dental-crown-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1608"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/crown-vs-filling-dental-crown-guide/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1608"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-for-one-missing-tooth/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1732"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-for-one-missing-tooth/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1732"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implant-timeline/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1735"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implant-timeline/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1735"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/candidate-for-dental-implants/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1738"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/candidate-for-dental-implants/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1738"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-with-bone-loss/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": {
+            "eq": "1741"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/dental-implants-with-bone-loss/"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": {
+            "eq": "1741"
+          }
+        }
+      ]
+    },
+    {
+      "src": "^/(?:sitemap_index|wp-sitemap|[a-z_-]+-sitemap\\d*|wp-sitemap-[a-z0-9_-]+)\\.xml$",
+      "status": 301,
+      "headers": {
+        "Location": "/sitemap.xml"
+      }
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 301,
+      "headers": {
+        "Location": "/sitemap.xml"
+      },
+      "has": [
+        {
+          "type": "query",
+          "key": "sitemap"
+        }
+      ]
+    },
+    {
+      "src": "^/wp-content/uploads/(2025/08/female\\-patient\\-wearing\\-braces|2025/08/model\\-tooth\\-dentist\\-doctor\\-shows\\-patient\\-tooth\\-reception\\-dentist\\-s\\-office|2025/08/pexels\\-arvind\\-philomin\\-187831830\\-11887613|2025/09/dentist\\-whiting\\-teeth\\-scaled\\-1)(?:-\\d+x\\d+)?\\.jpg$",
+      "status": 301,
+      "headers": {
+        "Location": "/images/uploads/$1.jpg"
+      }
+    },
+    {
+      "src": "^/wp-content/uploads/(2025/05/Frame\\-1984078742\\-1|2025/05/Frame\\-1984078812|2025/05/Group\\-1000009393|2025/05/family\\-dentistry\\-image|2025/05/favicon|2025/05/logos_google|2025/05/valencia\\-logo|2025/06/about\\-banner|2025/06/about\\-image|2025/06/about\\-image\\-2\\-1|2025/06/about\\-image\\-3\\-1|2025/06/about\\-image\\-4\\-1|2025/06/about\\-image\\-6|2025/06/after\\-image\\-1|2025/06/after\\-image\\-2|2025/06/after\\-image\\-3|2025/06/after\\-image\\-4|2025/06/after\\-image\\-5|2025/06/after\\-image\\-6|2025/06/before\\-image\\-1|2025/06/before\\-image\\-2|2025/06/before\\-image\\-3|2025/06/before\\-image\\-4|2025/06/before\\-image\\-5|2025/06/before\\-image\\-6|2025/06/cta\\-bg|2025/06/dr\\-photo\\-1|2025/06/image\\-10|2025/06/image\\-11|2025/06/image\\-12|2025/06/image\\-13|2025/06/image\\-15|2025/06/image\\-16|2025/06/image\\-17|2025/06/image\\-9|2025/06/preventive\\-dentistry\\-image|2025/06/restorative\\-dentistry\\-image|2025/06/review\\-1|2025/06/review\\-2|2025/06/review\\-3|2025/06/review\\-4|2025/06/review\\-5|2025/06/team\\-image\\-2|2025/06/treatment\\-image\\-5|2025/06/valencia\\-photo\\-3\\-e1749154322322|2025/06/valencia\\-team\\-photo\\-2|2025/07/1\\-image|2025/07/2\\-image|2025/07/3\\-image|2025/07/Frame\\-1984078742|2025/07/Frame\\-1984078742\\-1|2025/07/Frame\\-1984078742\\-2|2025/07/Group\\-1000009393|2025/07/about\\-banner|2025/07/about\\-image|2025/07/cta\\-bg|2025/07/family\\-dentistry\\-image|2025/07/hero\\-image|2025/07/implant\\-after\\-image|2025/07/implant\\-before\\-image|2025/07/preventive\\-dentistry\\-image|2025/07/review\\-1|2025/07/review\\-2|2025/07/review\\-3|2025/07/review\\-4|2025/07/review\\-5|2025/07/team\\-image|2025/07/team\\-image\\-2|2025/07/valencia\\-photo\\-4|2025/07/valencia\\-photo\\-5|2025/07/valencia\\-photo\\-6|2025/08/about\\-image\\-1|2025/08/about\\-image\\-2|2025/08/image|2025/08/restorative\\-dentistry\\-image|2025/08/team\\-image\\-3|2025/09/dr\\-photo\\-1|2025/10/preventive\\-dentistry\\-image|2026/04/1776382495907|2026/04/1776812130201|2026/04/1776813209633|2026/04/1776893633346|2026/04/1776894084542|2026/04/1776894374984|2026/04/1776894737538|2026/04/img\\-2026\\-04\\-08T151242\\.374Z|2026/06/1781215752220|2026/06/1781216113972|2026/06/1781216492203|2026/06/1781217034792|2026/06/1781217378905|2026/06/1781281585705|2026/06/1781282303677|2026/06/1781282838501|2026/06/1781283171205|2026/06/1781284187540|2026/06/1781298215450|2026/06/1781298589450|2026/06/1781298845777|2026/06/1781299006361|2026/06/1781299269916|2026/06/1781299448369|2026/06/1781299654294|2026/07/1784585627239|2026/07/1784586115299|2026/07/1784586458312|2026/07/1784586772102)(?:-\\d+x\\d+)?\\.png$",
+      "status": 301,
+      "headers": {
+        "Location": "/images/uploads/$1.png"
+      }
+    },
+    {
+      "src": "^/wp-content/uploads/(2025/07/line\\-background)(?:-\\d+x\\d+)?\\.svg$",
+      "status": 301,
+      "headers": {
+        "Location": "/images/uploads/$1.svg"
+      }
+    },
+    {
+      "src": "^/wp-content/uploads/(2025/07/logos_google)(?:-\\d+x\\d+)?\\.webp$",
+      "status": 301,
+      "headers": {
+        "Location": "/images/uploads/$1.webp"
+      }
+    },
+    {
+      "src": "^/(?:wp-admin|wp-includes|wp-json|wp-content)(?:/.*)?$",
+      "status": 410,
+      "dest": "/404.html"
+    },
+    {
+      "src": "^/(?:wp-login|xmlrpc|wp-cron|wp-signup|wp-trackback|wp-comments-post|wp-links-opml)\\.php$",
+      "status": 410,
+      "dest": "/404.html"
+    },
+    {
+      "src": "^/(?:.+/)?(?:feed|trackback|embed)(?:/(?:rss2?|atom|rdf))?/?$",
+      "status": 410,
+      "dest": "/404.html"
+    },
+    {
+      "src": "^/comments/.*$",
+      "status": 410,
+      "dest": "/404.html"
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 410,
+      "dest": "/404.html",
+      "has": [
+        {
+          "type": "query",
+          "key": "rest_route"
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 410,
+      "dest": "/404.html",
+      "has": [
+        {
+          "type": "query",
+          "key": "feed"
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 410,
+      "dest": "/404.html",
+      "has": [
+        {
+          "type": "query",
+          "key": "attachment_id"
+        }
+      ]
+    },
+    {
+      "src": "^/(?:index\\.php)?$",
+      "status": 410,
+      "dest": "/404.html",
+      "has": [
+        {
+          "type": "query",
+          "key": "replytocom"
+        }
+      ]
+    },
+    {
+      "src": "^/\\.htaccess$",
+      "status": 404,
+      "dest": "/404.html"
+    },
+    {
+      "src": "^/index\\.php$",
+      "status": 301,
+      "headers": {
+        "Location": "/"
+      }
+    }
+  ]
+}
