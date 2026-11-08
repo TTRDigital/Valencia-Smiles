@@ -146,3 +146,16 @@ The seed script and the "Load content into Sanity" workflow come with the Sanity
 The data in `lib/data` and the CSS in `public/css` were generated from the live site on Oct 23, 2026 (Python and
 Node scripts run outside the repo: Elementor HTML to page data, per-page CSS trimming, image download with
 metadata removed, alt text map). After the switch, edit content in `/cms` instead.
+
+
+## Sanity (project ord9drh8, dataset production)
+
+- **Read:** the build fetches published content from the project and merges it over `lib/data`; anything missing
+  falls back to the built-in copy, so the build never breaks. Vercel Preview builds with `SANITY_API_READ_TOKEN`
+  (Viewer token, Preview environment only) build from drafts. Production never reads drafts.
+  (`/api/preview` is not possible: the site is a static export, which the live Vercel project and SiteGround use.)
+- **Seed:** `npm run seed` is a dry run (lists what would be created, needs no token).
+  `SANITY_WRITE_TOKEN=<Editor token> npm run seed -- --apply` creates only the missing documents
+  (`createIfNotExists`; nothing is overwritten or deleted). Photos stay as built-in files until uploaded in the Studio.
+- **TTR OS tracker:** set `NEXT_PUBLIC_TTR_SITE_KEY` (the site's key from TTR OS) and the script is added to every page.
+- The Elementor class names stay: they are the hooks of the ported stylesheets, so removing them would change the look.

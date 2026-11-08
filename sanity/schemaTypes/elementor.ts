@@ -16,7 +16,7 @@ const link = (name = "href", title = "Link") => defineField({ name, title, type:
 const target = defineField({ name: "target", title: "Open in", type: "string", options: { list: [{ title: "Same tab", value: "" }, { title: "New tab", value: "_blank" }] } });
 const icon = defineField({ name: "icon", title: "Icon", type: "elIcon" });
 
-export const WIDGET_TYPES = ["heading", "text", "button", "image", "iconBox", "imageBox", "iconList", "map", "beforeAfter", "accordion", "carousel", "imageCarousel", "table", "html", "socialIcons", "siteLogo", "navMenu", "form"];
+export const WIDGET_TYPES = ["heading", "textWidget", "button", "imageWidget", "iconBox", "imageBox", "iconList", "map", "beforeAfter", "accordion", "carousel", "imageCarousel", "table", "html", "socialIcons", "siteLogo", "navMenu", "form"];
 const children = (name = "children", title = "Content") =>
   defineField({ name, title, type: "array", of: ["box", ...WIDGET_TYPES].map((t) => defineArrayMember({ type: t })) });
 
@@ -50,7 +50,7 @@ export const elementorTypes = [
     preview: { select: { t: "html", tag: "tag" }, prepare: ({ t, tag }) => ({ title: String(t ?? "").replace(/<[^>]+>/g, " "), subtitle: `Heading ${tag ?? ""}` }) },
   }),
   defineType({
-    name: "text",
+    name: "textWidget",
     title: "Text",
     type: "object",
     fields: [htmlField("html", "Text (HTML)", 8), cls, bare],
@@ -63,7 +63,7 @@ export const elementorTypes = [
     fields: [defineField({ name: "text", title: "Label", type: "string" }), link(), target, icon, defineField({ name: "iconAfter", type: "boolean", hidden: true }), defineField({ name: "aCls", type: "string", hidden: true }), defineField({ name: "buttonId", type: "string", hidden: true }), cls, bare],
     preview: { select: { title: "text", subtitle: "href" } },
   }),
-  defineType({ name: "image", title: "Photo", type: "object", fields: [defineField({ name: "img", title: "Photo", type: "elImage" }), link(), target, htmlField("caption", "Caption", 2), cls, bare], preview: { select: { media: "img", title: "img.alt" }, prepare: ({ media, title }) => ({ media, title: title || "Photo" }) } }),
+  defineType({ name: "imageWidget", title: "Photo", type: "object", fields: [defineField({ name: "img", title: "Photo", type: "elImage" }), link(), target, htmlField("caption", "Caption", 2), cls, bare], preview: { select: { media: "img", title: "img.alt" }, prepare: ({ media, title }) => ({ media, title: title || "Photo" }) } }),
   defineType({
     name: "iconBox",
     title: "Icon box",

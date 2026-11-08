@@ -34,6 +34,15 @@ function addKeys<T>(v: T, path = "k"): T {
   return v;
 }
 
+/** Sanity reserves the names "text" and "image": those page-builder widgets are stored as textWidget / imageWidget. */
+function renameWidgets<T>(v: T): T {
+  if (Array.isArray(v)) return v.map(renameWidgets) as T;
+  if (v && typeof v === "object") {
+    return Object.fromEntries(Object.entries(v).map(([k, x]) => [k, k === "_type" && (x === "text" || x === "image") ? `${x}Widget` : renameWidgets(x)])) as T;
+  }
+  return v;
+}
+
 // lib/data/site.ts is TypeScript with a few typed exports: pull the object literal out of it.
 function settings(): Record<string, unknown> {
   const src = readFileSync(join(root, "lib/data/site.ts"), "utf8");
@@ -55,10 +64,15 @@ function build(): Doc[] {
     const { slug, image, ...rest } = p;
     docs.push({ _id: `post-${slug}`, _type: "post", slug: { _type: "slug", current: slug }, ...(image ? { image: { _type: "elImage", ...image } } : {}), ...rest });
   }
-  return addKeys(docs);
+  return addKeys(renameWidgets(docs));
 }
 
 const docs = build();
+if (process.env.SEED_DUMP) {
+  // Used to test the site against a local mock: writes the documents as JSON and exits.
+  (await import("node:fs")).writeFileSync(process.env.SEED_DUMP, JSON.stringify(docs));
+  process.exit(0);
+}
 const byType = new Map<string, number>();
 for (const d of docs) byType.set(d._type, (byType.get(d._type) ?? 0) + 1);
 console.log(`${apply ? "APPLY" : "DRY RUN"} -> project ${projectId}, dataset ${dataset}`);

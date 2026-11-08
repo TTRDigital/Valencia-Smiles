@@ -37,6 +37,8 @@ function withAlt<T>(v: T): T {
   if (!isObj(v)) return v;
   const out: Loose = {};
   for (const [k, x] of Object.entries(v)) out[k] = withAlt(x);
+  // Sanity content merge drops empty arrays; an empty box (a spacer) must keep its children list.
+  if (out._type === "box" && !Array.isArray(out.children)) out.children = [];
   if (typeof out.src === "string" && "alt" in out) {
     const src = out.src as string;
     if (ALT[src] !== undefined) out.alt = ALT[src];
@@ -78,6 +80,8 @@ function toImg(v: Loose) {
   };
 }
 
+const WIDGET_ALIAS: Record<string, string> = { textWidget: "text", imageWidget: "image" };
+
 /** Drops Sanity's system keys (but keeps _key and _type, which the page tree uses), turns images into Img and slugs into strings. */
 function normalize(v: unknown): unknown {
   if (Array.isArray(v)) return v.map(normalize).filter((x) => x !== null && x !== undefined);
@@ -87,7 +91,8 @@ function normalize(v: unknown): unknown {
   const out: Loose = {};
   for (const [k, x] of Object.entries(v)) {
     if (k.startsWith("_") && k !== "_key" && k !== "_type") continue;
-    out[k] = normalize(x);
+    // Sanity reserves the names "text" and "image", so those widgets are stored as textWidget / imageWidget.
+    out[k] = k === "_type" && typeof x === "string" ? (WIDGET_ALIAS[x] ?? x) : normalize(x);
   }
   return out;
 }
