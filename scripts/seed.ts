@@ -58,9 +58,9 @@ function build(): Doc[] {
   docs.push({ _id: "layout", _type: "layout", ...read("lib/data/chrome.json") });
   for (const f of readdirSync(join(root, "lib/data/pages")).filter((n) => n.endsWith(".json"))) {
     const p = read(`lib/data/pages/${f}`);
-    docs.push({ _id: `page-${String(p.slug).replace(/__/g, ".")}`, _type: "page", ...p });
+    docs.push({ _id: `page-${String(p.slug).replace(/__/g, "-")}`, _type: "page", ...p });
   }
-  for (const p of read("lib/data/plain-pages.json")) docs.push({ _id: `page-${String(p.slug).replace(/__/g, ".")}`, _type: "plainPage", ...p });
+  for (const p of read("lib/data/plain-pages.json")) docs.push({ _id: `page-${String(p.slug).replace(/__/g, "-")}`, _type: "plainPage", ...p });
   for (const p of read("lib/data/posts.json")) {
     const { slug, image, ...rest } = p;
     docs.push({ _id: `post-${slug}`, _type: "post", slug: { _type: "slug", current: slug }, ...(image ? { image: { _type: "elImage", ...image } } : {}), ...rest });

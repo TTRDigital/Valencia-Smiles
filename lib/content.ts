@@ -111,7 +111,8 @@ export const getChrome = cache(async (): Promise<Chrome> => withAlt(await byId("
 
 /* ---------- Pages ---------- */
 
-const pageId = (slug: string) => `page-${slug.replace(/__/g, ".")}`;
+// Sanity treats ids with a dot as private, so nested pages use dashes: page-services-dental-crowns.
+const pageId = (slug: string) => `page-${slug.replace(/__/g, "-")}`;
 
 export const getPages = cache(async (): Promise<ElementorPage[]> => Promise.all(fallbackPages.map((p) => getPage(p.slug) as Promise<ElementorPage>)));
 
