@@ -16,13 +16,20 @@ function filled(v: unknown): boolean {
   return true;
 }
 
-/** Drops empty images and empty values inside CMS arrays (e.g. a feature section without a photo). */
+/** Inside CMS arrays only missing values and photos without a file are dropped: "" and [] are real values there (the seeded copy of the built-in content has them). */
+function kept(v: unknown): boolean {
+  if (v === null || v === undefined) return false;
+  if (isObj(v) && "src" in v) return !!v.src;
+  return true;
+}
+
+/** Drops empty images and missing values inside CMS arrays (e.g. a feature section without a photo). */
 export function clean<T>(v: T): T {
   if (Array.isArray(v)) return v.filter((x) => x !== null && x !== undefined).map(clean) as T;
   if (isObj(v)) {
     const out: Obj = {};
     for (const [k, x] of Object.entries(v)) {
-      if (!filled(x)) continue;
+      if (!kept(x)) continue;
       out[k] = clean(x);
     }
     return out as T;

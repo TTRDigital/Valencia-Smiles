@@ -17,17 +17,21 @@ export async function sanityFetch<T>(
 ): Promise<T | null> {
   if (!projectId) return null;
 
-  const search = new URLSearchParams({ query, perspective: "published" });
+  // Draft preview: Vercel preview deployments with a read token (SANITY_API_READ_TOKEN, set in
+  // Vercel for the Preview environment only) build from drafts. Production never does.
+  const readToken = process.env.SANITY_API_READ_TOKEN;
+  const drafts = process.env.VERCEL_ENV === "preview" && !!readToken;
+  const search = new URLSearchParams({ query, perspective: drafts ? "drafts" : "published" });
   for (const [key, value] of Object.entries(params)) {
     search.set(`$${key}`, JSON.stringify(value));
   }
   // SANITY_API_URL points the build at another API host (used to test the
   // queries against a local mock of the seeded dataset); normally unset.
-  const host = process.env.SANITY_API_URL?.replace(/\/$/, "") || `https://${projectId}.apicdn.sanity.io`;
+  const host = process.env.SANITY_API_URL?.replace(/\/$/, "") || `https://${projectId}.${drafts ? "api" : "apicdn"}.sanity.io`;
   const url = `${host}/v${apiVersion}/data/query/${dataset}?${search}`;
 
   try {
-    const res = await fetch(url, { cache: "force-cache" });
+    const res = await fetch(url, { cache: "force-cache", ...(drafts ? { headers: { Authorization: `Bearer ${readToken}` } } : {}) });
     if (!res.ok) {
       console.warn(`[sanity] ${res.status} for query tags=${tags.join(",")}`);
       return null;
