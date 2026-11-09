@@ -3,6 +3,7 @@
  *
  *   npm run seed                 DRY RUN (default): lists what would be created, writes nothing, needs no token
  *   npm run seed -- --apply      creates the missing documents (needs SANITY_WRITE_TOKEN in your shell)
+ *   npm run seed -- --export seed-export/docs.json   writes every document to JSON file(s), no token, no network
  *
  * Safe by design: documents are created with createIfNotExists, so a document
  * that already exists (edited or not, draft or published) is never overwritten,
@@ -68,9 +69,22 @@ function build(): Doc[] {
 }
 
 const docs = build();
-if (process.env.SEED_DUMP) {
-  // Used to test the site against a local mock: writes the documents as JSON and exits.
-  (await import("node:fs")).writeFileSync(process.env.SEED_DUMP, JSON.stringify(docs));
+const exportAt = process.argv.indexOf("--export");
+if (exportAt > -1) {
+  // No token, no network: writes every document as JSON arrays of at most ~1.8 MB each
+  // (docs.json -> docs-1.json, docs-2.json, ...), for a tool that writes them into Sanity.
+  const out = process.argv[exportAt + 1] || "docs.json";
+  const parts: Doc[][] = [[]];
+  let size = 0;
+  for (const d of docs) {
+    const n = JSON.stringify(d).length;
+    if (size + n > 1_800_000) { parts.push([]); size = 0; }
+    parts[parts.length - 1].push(d);
+    size += n;
+  }
+  const fs = await import("node:fs");
+  parts.forEach((part, i) => fs.writeFileSync(out.replace(/\.json$/, `-${i + 1}.json`), JSON.stringify(part)));
+  console.log(`EXPORT: ${docs.length} documents in ${parts.length} file(s): ${out.replace(/\.json$/, "-N.json")}`);
   process.exit(0);
 }
 const byType = new Map<string, number>();
